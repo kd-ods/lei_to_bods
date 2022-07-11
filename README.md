@@ -2,7 +2,7 @@
 
 **Work in progress, use with caution**
 
-A basic python library to convert [GLEIF](https://www.gleif.org/en/about/this-is-gleif) data on company identity and ownership onto [BODS](https://standard.openownership.org/en/0.2.0/) v0.2 statements. Documentation and mapping details yet to be developed.
+A basic python library to convert [GLEIF](https://www.gleif.org/en/about/this-is-gleif) data on company identity and ownership onto [BODS](https://standard.openownership.org/en/0.2.0/) v0.2 statements. Detailed documentation yet to be developed.
 
 ## Usage
 
