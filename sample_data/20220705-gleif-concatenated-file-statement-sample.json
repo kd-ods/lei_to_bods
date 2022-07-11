@@ -1,0 +1,105 @@
+[
+{
+    "interestedParty": {
+        "describedByEntityStatement": "54930043KIWYCIQQQU26"
+    }, 
+    "interests": [
+        {
+            "startDate": "2017-11-06T00:00:00Z", 
+            "type": "otherInfluenceOrControl", 
+            "interestLevel": "unknown", 
+            "beneficialOwnershipOrControl": false
+        }
+    ], 
+    "statementType": "ownershipOrControlStatement", 
+    "source": {
+        "type": [
+            "officialRegister", 
+            "verified"
+        ], 
+        "description": "GLEIF"
+    }, 
+    "statementID": "C0CCDE5AD1BC87405907C3DFBD4389AF", 
+    "statementDate": "2022-06-15T11:35:37Z", 
+    "subject": {
+        "describedByEntityStatement": "549300RK1FB0VMTPD087"
+    }
+},
+{
+    "jurisdiction": {
+        "code": "US-CA"
+    }, 
+    "source": {
+        "type": [
+            "officialRegister"
+        ], 
+        "description": "GLEIF"
+    }, 
+    "statementID": "54930043KIWYCIQQQU26", 
+    "addresses": [
+        {
+            "country": "US", 
+            "type": "registered", 
+            "postCode": "94105-2618", 
+            "address": "C/O BLACKROCK INSTITUTIONAL TRUST COMPANY, NATIONAL ASSOCIATION,SAN FRANCISCO,US-CA"
+        }, 
+        {
+            "country": "US", 
+            "type": "business", 
+            "postCode": "94105", 
+            "address": "BlackRock Institutional Trust Company, N.A.,San Francisco,US-CA"
+        }
+    ], 
+    "name": "BLACKROCK LIFEPATH INDEX 2055 FUND G", 
+    "statementDate": "2022-06-16T15:31:00.000Z", 
+    "statementType": "entityStatement", 
+    "entityType": "registeredEntity", 
+    "foundingDate": "2017-11-06T00:00:00Z", 
+    "identifiers": [
+        {
+            "scheme": "XI-LEI", 
+            "id": "54930043KIWYCIQQQU26", 
+            "schemeName": "Global Legal Entity Identifier Index"
+        }
+    ]
+},
+{
+    "jurisdiction": {
+        "code": "US-CA"
+    }, 
+    "source": {
+        "type": [
+            "officialRegister", 
+            "verified"
+        ], 
+        "description": "GLEIF"
+    }, 
+    "statementID": "549300RK1FB0VMTPD087", 
+    "addresses": [
+        {
+            "country": "US", 
+            "type": "registered", 
+            "postCode": "94105-2618", 
+            "address": "400 HOWARD STREET,SAN FRANCISCO,US-CA"
+        }, 
+        {
+            "country": "US", 
+            "type": "business", 
+            "postCode": "94105", 
+            "address": "400 Howard Street,San Francisco,US-CA"
+        }
+    ], 
+    "name": "BLACKROCK INSTITUTIONAL TRUST COMPANY, NATIONAL ASSOCIATION", 
+    "statementDate": "2022-02-16T00:30:00.000Z", 
+    "statementType": "entityStatement", 
+    "entityType": "registeredEntity", 
+    "foundingDate": "", 
+    "identifiers": [
+        {
+            "scheme": "XI-LEI", 
+            "id": "549300RK1FB0VMTPD087", 
+            "schemeName": "Global Legal Entity Identifier Index"
+        }
+    ]
+}
+]
