@@ -1,0 +1,123 @@
+<rr:RelationshipRecord xmlns:rr="http://www.gleif.org/data/schema/rr/2016">
+  <rr:Relationship>
+    <rr:StartNode>
+      <rr:NodeID>54930043KIWYCIQQQU26</rr:NodeID>
+      <rr:NodeIDType>LEI</rr:NodeIDType>
+    </rr:StartNode>
+    <rr:EndNode>
+      <rr:NodeID>549300RK1FB0VMTPD087</rr:NodeID>
+      <rr:NodeIDType>LEI</rr:NodeIDType>
+    </rr:EndNode>
+    <rr:RelationshipType>IS_FUND-MANAGED_BY</rr:RelationshipType>
+    <rr:RelationshipPeriods>
+      <rr:RelationshipPeriod>
+        <rr:StartDate>2017-11-06T00:00:00Z</rr:StartDate>
+        <rr:PeriodType>RELATIONSHIP_PERIOD</rr:PeriodType>
+      </rr:RelationshipPeriod>
+    </rr:RelationshipPeriods>
+    <rr:RelationshipStatus>ACTIVE</rr:RelationshipStatus>
+  </rr:Relationship>
+  <rr:Registration>
+    <rr:InitialRegistrationDate>2022-06-15T11:35:37Z</rr:InitialRegistrationDate>
+    <rr:LastUpdateDate>2022-06-15T11:35:37Z</rr:LastUpdateDate>
+    <rr:RegistrationStatus>PUBLISHED</rr:RegistrationStatus>
+    <rr:NextRenewalDate>2023-02-15T15:30:00.000Z</rr:NextRenewalDate>
+    <rr:ManagingLOU>EVK05KS7XY1DEII3R011</rr:ManagingLOU>
+    <rr:ValidationSources>FULLY_CORROBORATED</rr:ValidationSources>
+    <rr:ValidationDocuments>SUPPORTING_DOCUMENTS</rr:ValidationDocuments>
+    <rr:ValidationReference>https://www.nfa.futures.org/BasicNet/basic-search-results.aspx?rnd=5230.496067447986</rr:ValidationReference>
+  </rr:Registration>
+</rr:RelationshipRecord>
+<lei:LEIRecord xmlns:lei="http://www.gleif.org/data/schema/leidata/2016">
+  <lei:LEI>54930043KIWYCIQQQU26</lei:LEI>
+  <lei:Entity>
+    <lei:LegalName xml:lang="en">BLACKROCK LIFEPATH INDEX 2055 FUND G</lei:LegalName>
+    <lei:OtherEntityNames>
+      <lei:OtherEntityName xml:lang="en" type="PREVIOUS_LEGAL_NAME">LifePath® Index 2055 Fund G</lei:OtherEntityName>
+    </lei:OtherEntityNames>
+    <lei:LegalAddress xml:lang="en">
+      <lei:FirstAddressLine>C/O BLACKROCK INSTITUTIONAL TRUST COMPANY, NATIONAL ASSOCIATION</lei:FirstAddressLine>
+      <lei:AdditionalAddressLine>400 HOWARD STREET</lei:AdditionalAddressLine>
+      <lei:City>SAN FRANCISCO</lei:City>
+      <lei:Region>US-CA</lei:Region>
+      <lei:Country>US</lei:Country>
+      <lei:PostalCode>94105-2618</lei:PostalCode>
+    </lei:LegalAddress>
+    <lei:HeadquartersAddress xml:lang="en">
+      <lei:FirstAddressLine>BlackRock Institutional Trust Company, N.A.</lei:FirstAddressLine>
+      <lei:AdditionalAddressLine>400 Howard Street</lei:AdditionalAddressLine>
+      <lei:City>San Francisco</lei:City>
+      <lei:Region>US-CA</lei:Region>
+      <lei:Country>US</lei:Country>
+      <lei:PostalCode>94105</lei:PostalCode>
+    </lei:HeadquartersAddress>
+    <lei:RegistrationAuthority>
+      <lei:RegistrationAuthorityID>RA999999</lei:RegistrationAuthorityID>
+    </lei:RegistrationAuthority>
+    <lei:LegalJurisdiction>US-CA</lei:LegalJurisdiction>
+    <lei:EntityCategory>FUND</lei:EntityCategory>
+    <lei:LegalForm>
+      <lei:EntityLegalFormCode>8888</lei:EntityLegalFormCode>
+      <lei:OtherLegalForm>FUND</lei:OtherLegalForm>
+    </lei:LegalForm>
+    <lei:EntityStatus>ACTIVE</lei:EntityStatus>
+    <lei:EntityCreationDate>2017-11-06T00:00:00Z</lei:EntityCreationDate>
+  </lei:Entity>
+  <lei:Registration>
+    <lei:InitialRegistrationDate>2017-11-06T21:52:00.000Z</lei:InitialRegistrationDate>
+    <lei:LastUpdateDate>2022-06-16T15:31:00.000Z</lei:LastUpdateDate>
+    <lei:RegistrationStatus>ISSUED</lei:RegistrationStatus>
+    <lei:NextRenewalDate>2023-02-15T15:30:00.000Z</lei:NextRenewalDate>
+    <lei:ManagingLOU>EVK05KS7XY1DEII3R011</lei:ManagingLOU>
+    <lei:ValidationSources>ENTITY_SUPPLIED_ONLY</lei:ValidationSources>
+    <lei:ValidationAuthority>
+      <lei:ValidationAuthorityID>RA999999</lei:ValidationAuthorityID>
+    </lei:ValidationAuthority>
+  </lei:Registration>
+</lei:LEIRecord>
+<lei:LEIRecord xmlns:lei="http://www.gleif.org/data/schema/leidata/2016">
+  <lei:LEI>549300RK1FB0VMTPD087</lei:LEI>
+  <lei:Entity>
+    <lei:LegalName xml:lang="en">BLACKROCK INSTITUTIONAL TRUST COMPANY, NATIONAL ASSOCIATION</lei:LegalName>
+    <lei:OtherEntityNames>
+      <lei:OtherEntityName xml:lang="en" type="PREVIOUS_LEGAL_NAME">BARCLAYS GLOBAL INVESTORS, NATIONAL ASSOCIATION</lei:OtherEntityName>
+    </lei:OtherEntityNames>
+    <lei:LegalAddress xml:lang="en">
+      <lei:FirstAddressLine>400 HOWARD STREET</lei:FirstAddressLine>
+      <lei:City>SAN FRANCISCO</lei:City>
+      <lei:Region>US-CA</lei:Region>
+      <lei:Country>US</lei:Country>
+      <lei:PostalCode>94105-2618</lei:PostalCode>
+    </lei:LegalAddress>
+    <lei:HeadquartersAddress xml:lang="en">
+      <lei:FirstAddressLine>400 Howard Street</lei:FirstAddressLine>
+      <lei:City>San Francisco</lei:City>
+      <lei:Region>US-CA</lei:Region>
+      <lei:Country>US</lei:Country>
+      <lei:PostalCode>94105</lei:PostalCode>
+    </lei:HeadquartersAddress>
+    <lei:RegistrationAuthority>
+      <lei:RegistrationAuthorityID>RA000665</lei:RegistrationAuthorityID>
+      <lei:RegistrationAuthorityEntityID>0279188</lei:RegistrationAuthorityEntityID>
+    </lei:RegistrationAuthority>
+    <lei:LegalJurisdiction>US-CA</lei:LegalJurisdiction>
+    <lei:EntityCategory>FUND</lei:EntityCategory>
+    <lei:LegalForm>
+      <lei:EntityLegalFormCode>8888</lei:EntityLegalFormCode>
+      <lei:OtherLegalForm>FUND</lei:OtherLegalForm>
+    </lei:LegalForm>
+    <lei:EntityStatus>ACTIVE</lei:EntityStatus>
+  </lei:Entity>
+  <lei:Registration>
+    <lei:InitialRegistrationDate>2014-02-12T12:11:00.000Z</lei:InitialRegistrationDate>
+    <lei:LastUpdateDate>2022-02-16T00:30:00.000Z</lei:LastUpdateDate>
+    <lei:RegistrationStatus>ISSUED</lei:RegistrationStatus>
+    <lei:NextRenewalDate>2023-02-15T15:43:00.000Z</lei:NextRenewalDate>
+    <lei:ManagingLOU>EVK05KS7XY1DEII3R011</lei:ManagingLOU>
+    <lei:ValidationSources>FULLY_CORROBORATED</lei:ValidationSources>
+    <lei:ValidationAuthority>
+      <lei:ValidationAuthorityID>RA000665</lei:ValidationAuthorityID>
+      <lei:ValidationAuthorityEntityID>0279188</lei:ValidationAuthorityEntityID>
+    </lei:ValidationAuthority>
+  </lei:Registration>
+</lei:LEIRecord>

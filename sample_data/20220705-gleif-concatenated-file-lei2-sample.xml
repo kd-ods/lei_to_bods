@@ -1,383 +1,118 @@
 <lei:LEIRecord xmlns:lei="http://www.gleif.org/data/schema/leidata/2016">
-  <lei:LEI>21380023YXZTOTBROZ67</lei:LEI>
+  <lei:LEI>213800ID1Q9JPTPYPP82</lei:LEI>
   <lei:Entity>
-    <lei:LegalName xml:lang="en">CLAAS FINANCIAL SERVICES LIMITED</lei:LegalName>
+    <lei:LegalName xml:lang="en">WAVERTON INVESTMENT FUNDS PLC - WAVERTON SOUTHEAST ASIAN FUND</lei:LegalName>
     <lei:LegalAddress xml:lang="en">
-      <lei:FirstAddressLine>NORTHERN CROSS</lei:FirstAddressLine>
-      <lei:AdditionalAddressLine>BASING VIEW</lei:AdditionalAddressLine>
-      <lei:City>BASINGSTOKE</lei:City>
-      <lei:Region>GB-HAM</lei:Region>
-      <lei:Country>GB</lei:Country>
-      <lei:PostalCode>RG21 4HL</lei:PostalCode>
+      <lei:FirstAddressLine>4TH FLOOR, ONE GEORGE'S QUAY PLAZA</lei:FirstAddressLine>
+      <lei:AdditionalAddressLine>GEORGE'S QUAY</lei:AdditionalAddressLine>
+      <lei:City>DUBLIN</lei:City>
+      <lei:Region>IE-D</lei:Region>
+      <lei:Country>IE</lei:Country>
+      <lei:PostalCode>2</lei:PostalCode>
     </lei:LegalAddress>
     <lei:HeadquartersAddress xml:lang="en">
-      <lei:FirstAddressLine>NORTHERN CROSS</lei:FirstAddressLine>
-      <lei:AdditionalAddressLine>BASING VIEW</lei:AdditionalAddressLine>
-      <lei:City>BASINGSTOKE</lei:City>
-      <lei:Region>GB-HAM</lei:Region>
+      <lei:FirstAddressLine>C/O WAVERTON INVESTMENT MANAGEMENT LIMITED</lei:FirstAddressLine>
+      <lei:AdditionalAddressLine>16 BABMAES STREET</lei:AdditionalAddressLine>
+      <lei:City>LONDON</lei:City>
+      <lei:Region>GB-LND</lei:Region>
       <lei:Country>GB</lei:Country>
-      <lei:PostalCode>RG21 4HL</lei:PostalCode>
+      <lei:PostalCode>SW1Y 6AH</lei:PostalCode>
     </lei:HeadquartersAddress>
     <lei:RegistrationAuthority>
-      <lei:RegistrationAuthorityID>RA000585</lei:RegistrationAuthorityID>
-      <lei:RegistrationAuthorityEntityID>05854271</lei:RegistrationAuthorityEntityID>
+      <lei:RegistrationAuthorityID>RA000404</lei:RegistrationAuthorityID>
+      <lei:RegistrationAuthorityEntityID>C186549</lei:RegistrationAuthorityEntityID>
     </lei:RegistrationAuthority>
-    <lei:LegalJurisdiction>GB</lei:LegalJurisdiction>
-    <lei:EntityCategory>GENERAL</lei:EntityCategory>
-    <lei:LegalForm>
-      <lei:EntityLegalFormCode>H0PO</lei:EntityLegalFormCode>
-    </lei:LegalForm>
-    <lei:EntityStatus>ACTIVE</lei:EntityStatus>
-    <lei:EntityCreationDate>2006-06-22T00:00:00Z</lei:EntityCreationDate>
-  </lei:Entity>
-  <lei:Registration>
-    <lei:InitialRegistrationDate>2014-04-29T00:00:00Z</lei:InitialRegistrationDate>
-    <lei:LastUpdateDate>2022-04-20T15:59:54.643Z</lei:LastUpdateDate>
-    <lei:RegistrationStatus>ISSUED</lei:RegistrationStatus>
-    <lei:NextRenewalDate>2023-04-29T00:00:00Z</lei:NextRenewalDate>
-    <lei:ManagingLOU>213800WAVVOPS85N2205</lei:ManagingLOU>
-    <lei:ValidationSources>FULLY_CORROBORATED</lei:ValidationSources>
-    <lei:ValidationAuthority>
-      <lei:ValidationAuthorityID>RA000585</lei:ValidationAuthorityID>
-      <lei:ValidationAuthorityEntityID>05854271</lei:ValidationAuthorityEntityID>
-    </lei:ValidationAuthority>
-  </lei:Registration>
-</lei:LEIRecord>
-<lei:LEIRecord xmlns:lei="http://www.gleif.org/data/schema/leidata/2016">
-  <lei:LEI>213800H6GSEOEEMHWQ88</lei:LEI>
-  <lei:Entity>
-    <lei:LegalName xml:lang="en">COMPARTIMENT 1 COUVERTURE PASSIVE</lei:LegalName>
-    <lei:LegalAddress xml:lang="en">
-      <lei:FirstAddressLine>C/O MILLENNIUM GLOBAL (EUROPE) SAS</lei:FirstAddressLine>
-      <lei:AdditionalAddressLine>33 RUE FRANÇOIS 1ER</lei:AdditionalAddressLine>
-      <lei:City>PARIS</lei:City>
-      <lei:Region>FR-IDF</lei:Region>
-      <lei:Country>FR</lei:Country>
-      <lei:PostalCode>75008</lei:PostalCode>
-    </lei:LegalAddress>
-    <lei:HeadquartersAddress xml:lang="en">
-      <lei:FirstAddressLine>C/O MILLENNIUM GLOBAL (EUROPE) SAS</lei:FirstAddressLine>
-      <lei:AdditionalAddressLine>33 RUE FRANÇOIS 1ER</lei:AdditionalAddressLine>
-      <lei:City>PARIS</lei:City>
-      <lei:Region>FR-IDF</lei:Region>
-      <lei:Country>FR</lei:Country>
-      <lei:PostalCode>75008</lei:PostalCode>
-    </lei:HeadquartersAddress>
-    <lei:RegistrationAuthority>
-      <lei:RegistrationAuthorityID>RA999999</lei:RegistrationAuthorityID>
-    </lei:RegistrationAuthority>
-    <lei:LegalJurisdiction>FR</lei:LegalJurisdiction>
+    <lei:LegalJurisdiction>IE</lei:LegalJurisdiction>
     <lei:EntityCategory>FUND</lei:EntityCategory>
     <lei:LegalForm>
       <lei:EntityLegalFormCode>8888</lei:EntityLegalFormCode>
       <lei:OtherLegalForm>SUB-FUND</lei:OtherLegalForm>
     </lei:LegalForm>
     <lei:EntityStatus>ACTIVE</lei:EntityStatus>
-    <lei:EntityCreationDate>2018-06-13T00:00:00Z</lei:EntityCreationDate>
   </lei:Entity>
   <lei:Registration>
-    <lei:InitialRegistrationDate>2018-06-13T00:00:00Z</lei:InitialRegistrationDate>
-    <lei:LastUpdateDate>2022-06-13T12:05:31.097Z</lei:LastUpdateDate>
-    <lei:RegistrationStatus>ISSUED</lei:RegistrationStatus>
-    <lei:NextRenewalDate>2023-06-16T00:00:00Z</lei:NextRenewalDate>
+    <lei:InitialRegistrationDate>2018-11-09T00:00:00Z</lei:InitialRegistrationDate>
+    <lei:LastUpdateDate>2020-11-10T00:07:39.577Z</lei:LastUpdateDate>
+    <lei:RegistrationStatus>LAPSED</lei:RegistrationStatus>
+    <lei:NextRenewalDate>2020-11-09T00:00:00Z</lei:NextRenewalDate>
     <lei:ManagingLOU>213800WAVVOPS85N2205</lei:ManagingLOU>
-    <lei:ValidationSources>ENTITY_SUPPLIED_ONLY</lei:ValidationSources>
+    <lei:ValidationSources>FULLY_CORROBORATED</lei:ValidationSources>
     <lei:ValidationAuthority>
-      <lei:ValidationAuthorityID>RA999999</lei:ValidationAuthorityID>
+      <lei:ValidationAuthorityID>RA000404</lei:ValidationAuthorityID>
+      <lei:ValidationAuthorityEntityID>C186549</lei:ValidationAuthorityEntityID>
     </lei:ValidationAuthority>
   </lei:Registration>
 </lei:LEIRecord>
 <lei:LEIRecord xmlns:lei="http://www.gleif.org/data/schema/leidata/2016">
-  <lei:LEI>315700I7L85UPEVT9396</lei:LEI>
+  <lei:LEI>222100YWQ2NJU9RWD567</lei:LEI>
   <lei:Entity>
-    <lei:LegalName xml:lang="cs">ReDat Recording, a.s.</lei:LegalName>
+    <lei:LegalName xml:lang="fr">SALTLUX HOLDING S.À R.L.</lei:LegalName>
     <lei:TransliteratedOtherEntityNames>
-      <lei:TransliteratedOtherEntityName xml:lang="en" type="AUTO_ASCII_TRANSLITERATED_LEGAL_NAME">ReDat Recording, a.s.</lei:TransliteratedOtherEntityName>
+      <lei:TransliteratedOtherEntityName xml:lang="en" type="PREFERRED_ASCII_TRANSLITERATED_LEGAL_NAME">SALTLUX HOLDING S.A R.L.</lei:TransliteratedOtherEntityName>
     </lei:TransliteratedOtherEntityNames>
-    <lei:LegalAddress xml:lang="cs">
-      <lei:FirstAddressLine>Pražská 341</lei:FirstAddressLine>
-      <lei:City>Pardubice</lei:City>
-      <lei:Country>CZ</lei:Country>
-      <lei:PostalCode>530 02</lei:PostalCode>
-    </lei:LegalAddress>
-    <lei:HeadquartersAddress xml:lang="cs">
-      <lei:FirstAddressLine>Pražská 341</lei:FirstAddressLine>
-      <lei:City>Pardubice V, Zelené Předměstí</lei:City>
-      <lei:Country>CZ</lei:Country>
-      <lei:PostalCode>530 02</lei:PostalCode>
-    </lei:HeadquartersAddress>
-    <lei:RegistrationAuthority>
-      <lei:RegistrationAuthorityID>RA000163</lei:RegistrationAuthorityID>
-      <lei:RegistrationAuthorityEntityID>05648114</lei:RegistrationAuthorityEntityID>
-    </lei:RegistrationAuthority>
-    <lei:LegalJurisdiction>CZ</lei:LegalJurisdiction>
-    <lei:EntityCategory>GENERAL</lei:EntityCategory>
-    <lei:LegalForm>
-      <lei:EntityLegalFormCode>6CQN</lei:EntityLegalFormCode>
-    </lei:LegalForm>
-    <lei:EntityStatus>ACTIVE</lei:EntityStatus>
-    <lei:EntityCreationDate>2016-12-21T00:00:00.000+01:00</lei:EntityCreationDate>
-  </lei:Entity>
-  <lei:Registration>
-    <lei:InitialRegistrationDate>2018-01-08T00:00:00.000+01:00</lei:InitialRegistrationDate>
-    <lei:LastUpdateDate>2022-05-04T10:40:30+02:00</lei:LastUpdateDate>
-    <lei:RegistrationStatus>ISSUED</lei:RegistrationStatus>
-    <lei:NextRenewalDate>2023-03-07T00:00:00.000+01:00</lei:NextRenewalDate>
-    <lei:ManagingLOU>315700LK78Z7C0WMIL03</lei:ManagingLOU>
-    <lei:ValidationSources>FULLY_CORROBORATED</lei:ValidationSources>
-    <lei:ValidationAuthority>
-      <lei:ValidationAuthorityID>RA000163</lei:ValidationAuthorityID>
-      <lei:ValidationAuthorityEntityID>05648114</lei:ValidationAuthorityEntityID>
-    </lei:ValidationAuthority>
-  </lei:Registration>
-</lei:LEIRecord>
-<lei:LEIRecord xmlns:lei="http://www.gleif.org/data/schema/leidata/2016">
-  <lei:LEI>3358007W5A8ODIOITN91</lei:LEI>
-  <lei:Entity>
-    <lei:LegalName xml:lang="en">RENO AGRIGENETICS PRIVATE LIMITED</lei:LegalName>
-    <lei:LegalAddress xml:lang="en">
-      <lei:FirstAddressLine>102, AKIK COMPLEX, OPP. RAJPATH CLUB, S.G.ROAD,</lei:FirstAddressLine>
-      <lei:AdditionalAddressLine>BODAKDEV</lei:AdditionalAddressLine>
-      <lei:City>AHMEDABAD</lei:City>
-      <lei:Region>IN-GJ</lei:Region>
-      <lei:Country>IN</lei:Country>
-      <lei:PostalCode>380015</lei:PostalCode>
-    </lei:LegalAddress>
-    <lei:HeadquartersAddress xml:lang="en">
-      <lei:FirstAddressLine>102, AKIK COMPLEX, OPP. RAJPATH CLUB, S.G.ROAD,</lei:FirstAddressLine>
-      <lei:AdditionalAddressLine>BODAKDEV</lei:AdditionalAddressLine>
-      <lei:City>AHMEDABAD</lei:City>
-      <lei:Region>IN-GJ</lei:Region>
-      <lei:Country>IN</lei:Country>
-      <lei:PostalCode>380015</lei:PostalCode>
-    </lei:HeadquartersAddress>
-    <lei:RegistrationAuthority>
-      <lei:RegistrationAuthorityID>RA000394</lei:RegistrationAuthorityID>
-      <lei:RegistrationAuthorityEntityID>U01119GJ2010PTC059520</lei:RegistrationAuthorityEntityID>
-    </lei:RegistrationAuthority>
-    <lei:LegalJurisdiction>IN</lei:LegalJurisdiction>
-    <lei:EntityCategory>GENERAL</lei:EntityCategory>
-    <lei:LegalForm>
-      <lei:EntityLegalFormCode>YSP9</lei:EntityLegalFormCode>
-    </lei:LegalForm>
-    <lei:EntityStatus>ACTIVE</lei:EntityStatus>
-    <lei:EntityCreationDate>2010-02-09T18:30:00.001Z</lei:EntityCreationDate>
-  </lei:Entity>
-  <lei:Registration>
-    <lei:InitialRegistrationDate>2021-06-30T07:41:16.001Z</lei:InitialRegistrationDate>
-    <lei:LastUpdateDate>2022-07-01T08:07:43.569Z</lei:LastUpdateDate>
-    <lei:RegistrationStatus>ISSUED</lei:RegistrationStatus>
-    <lei:NextRenewalDate>2023-07-01T08:07:33.283Z</lei:NextRenewalDate>
-    <lei:ManagingLOU>335800FVH4MOKZS9VH40</lei:ManagingLOU>
-    <lei:ValidationSources>FULLY_CORROBORATED</lei:ValidationSources>
-    <lei:ValidationAuthority>
-      <lei:ValidationAuthorityID>RA000394</lei:ValidationAuthorityID>
-      <lei:ValidationAuthorityEntityID>U01119GJ2010PTC059520</lei:ValidationAuthorityEntityID>
-    </lei:ValidationAuthority>
-  </lei:Registration>
-</lei:LEIRecord>
-<lei:LEIRecord xmlns:lei="http://www.gleif.org/data/schema/leidata/2016">
-  <lei:LEI>5493008BKY9RE8KJRZ24</lei:LEI>
-  <lei:Entity>
-    <lei:LegalName xml:lang="de">UBS Asia Bond 2025</lei:LegalName>
-    <lei:LegalAddress xml:lang="de">
-      <lei:FirstAddressLine>Avenue J.F. Kennedy 33A</lei:FirstAddressLine>
-      <lei:AddressNumber>33A</lei:AddressNumber>
-      <lei:MailRouting>c/o LUXEMBOURG SELECTION FUND</lei:MailRouting>
-      <lei:City>Luxembourg</lei:City>
+    <lei:LegalAddress xml:lang="fr">
+      <lei:FirstAddressLine>1, RUE HILDEGARD VON BINGEN</lei:FirstAddressLine>
+      <lei:City>LUXEMBOURG</lei:City>
+      <lei:Region>LU-LU</lei:Region>
       <lei:Country>LU</lei:Country>
-      <lei:PostalCode>1855</lei:PostalCode>
+      <lei:PostalCode>L-1282</lei:PostalCode>
     </lei:LegalAddress>
-    <lei:HeadquartersAddress xml:lang="de">
-      <lei:FirstAddressLine>Avenue J.F. Kennedy 33A</lei:FirstAddressLine>
-      <lei:AddressNumber>33A</lei:AddressNumber>
-      <lei:MailRouting>c/o UBS Third Party Management Company S.A.</lei:MailRouting>
-      <lei:City>Luxembourg</lei:City>
+    <lei:HeadquartersAddress xml:lang="fr">
+      <lei:FirstAddressLine>1, RUE HILDEGARD VON BINGEN</lei:FirstAddressLine>
+      <lei:City>LUXEMBOURG</lei:City>
+      <lei:Region>LU-LU</lei:Region>
       <lei:Country>LU</lei:Country>
-      <lei:PostalCode>1855</lei:PostalCode>
+      <lei:PostalCode>L-1282</lei:PostalCode>
     </lei:HeadquartersAddress>
     <lei:RegistrationAuthority>
-      <lei:RegistrationAuthorityID>RA000433</lei:RegistrationAuthorityID>
-      <lei:RegistrationAuthorityEntityID>O00003623_00000024</lei:RegistrationAuthorityEntityID>
+      <lei:RegistrationAuthorityID>RA000432</lei:RegistrationAuthorityID>
+      <lei:RegistrationAuthorityEntityID>B133842</lei:RegistrationAuthorityEntityID>
     </lei:RegistrationAuthority>
     <lei:LegalJurisdiction>LU</lei:LegalJurisdiction>
-    <lei:EntityCategory>FUND</lei:EntityCategory>
+    <lei:EntityCategory>GENERAL</lei:EntityCategory>
     <lei:LegalForm>
-      <lei:EntityLegalFormCode>8888</lei:EntityLegalFormCode>
-      <lei:OtherLegalForm>Sub-Fund</lei:OtherLegalForm>
+      <lei:EntityLegalFormCode>DVXS</lei:EntityLegalFormCode>
     </lei:LegalForm>
     <lei:EntityStatus>ACTIVE</lei:EntityStatus>
-    <lei:EntityCreationDate>2020-12-11T00:00:00.000+01:00</lei:EntityCreationDate>
   </lei:Entity>
   <lei:Registration>
-    <lei:InitialRegistrationDate>2020-09-08T14:33:00.000+02:00</lei:InitialRegistrationDate>
-    <lei:LastUpdateDate>2022-06-17T15:37:24.194+02:00</lei:LastUpdateDate>
+    <lei:InitialRegistrationDate>2020-10-27T00:00:00Z</lei:InitialRegistrationDate>
+    <lei:LastUpdateDate>2021-09-16T13:47:19.153Z</lei:LastUpdateDate>
     <lei:RegistrationStatus>ISSUED</lei:RegistrationStatus>
-    <lei:NextRenewalDate>2023-07-12T09:28:00.000+02:00</lei:NextRenewalDate>
-    <lei:ManagingLOU>39120001KULK7200U106</lei:ManagingLOU>
+    <lei:NextRenewalDate>2022-10-27T00:00:00Z</lei:NextRenewalDate>
+    <lei:ManagingLOU>213800WAVVOPS85N2205</lei:ManagingLOU>
     <lei:ValidationSources>FULLY_CORROBORATED</lei:ValidationSources>
     <lei:ValidationAuthority>
-      <lei:ValidationAuthorityID>RA000433</lei:ValidationAuthorityID>
-      <lei:ValidationAuthorityEntityID>O00003623_00000024</lei:ValidationAuthorityEntityID>
+      <lei:ValidationAuthorityID>RA000432</lei:ValidationAuthorityID>
+      <lei:ValidationAuthorityEntityID>B133842</lei:ValidationAuthorityEntityID>
     </lei:ValidationAuthority>
   </lei:Registration>
-  <lei:NextVersion/>
-  <lei:Extension/>
 </lei:LEIRecord>
 <lei:LEIRecord xmlns:lei="http://www.gleif.org/data/schema/leidata/2016">
-  <lei:LEI>5299002EOMK7SV6UAG12</lei:LEI>
+  <lei:LEI>213800J23UDOYX616925</lei:LEI>
   <lei:Entity>
-    <lei:LegalName xml:lang="de-CH">Lombardi SA Ingegneri Consulenti</lei:LegalName>
+    <lei:LegalName xml:lang="en">WAVERTON INVESTMENT MANAGEMENT LIMITED</lei:LegalName>
     <lei:OtherEntityNames>
-      <lei:OtherEntityName xml:lang="de-CH" type="ALTERNATIVE_LANGUAGE_LEGAL_NAME">Lombardi AG Beratende Ingenieure</lei:OtherEntityName>
-      <lei:OtherEntityName xml:lang="de-CH" type="ALTERNATIVE_LANGUAGE_LEGAL_NAME">Lombardi Engineering Limited</lei:OtherEntityName>
-      <lei:OtherEntityName xml:lang="de-CH" type="ALTERNATIVE_LANGUAGE_LEGAL_NAME">Lombardi SA Ingenieros consultores</lei:OtherEntityName>
-      <lei:OtherEntityName xml:lang="de-CH" type="ALTERNATIVE_LANGUAGE_LEGAL_NAME">Lombardi SA Ingénieurs conseils</lei:OtherEntityName>
+      <lei:OtherEntityName xml:lang="en" type="TRADING_OR_OPERATING_NAME">WAVERTON INVESTMENT MANAGEMENT</lei:OtherEntityName>
+      <lei:OtherEntityName xml:lang="en" type="PREVIOUS_LEGAL_NAME">J O HAMBRO INVESTMENT MANAGEMENT LTD</lei:OtherEntityName>
     </lei:OtherEntityNames>
-    <lei:LegalAddress xml:lang="de-CH">
-      <lei:FirstAddressLine>Via del Tiglio 2</lei:FirstAddressLine>
-      <lei:City>Giubiasco</lei:City>
-      <lei:Region>CH-TI</lei:Region>
-      <lei:Country>CH</lei:Country>
-      <lei:PostalCode>6512</lei:PostalCode>
-    </lei:LegalAddress>
-    <lei:HeadquartersAddress xml:lang="de-CH">
-      <lei:FirstAddressLine>Via del Tiglio 2</lei:FirstAddressLine>
-      <lei:City>Giubiasco</lei:City>
-      <lei:Region>CH-TI</lei:Region>
-      <lei:Country>CH</lei:Country>
-      <lei:PostalCode>6512</lei:PostalCode>
-    </lei:HeadquartersAddress>
-    <lei:RegistrationAuthority>
-      <lei:RegistrationAuthorityID>RA000548</lei:RegistrationAuthorityID>
-      <lei:RegistrationAuthorityEntityID>CHE101768765</lei:RegistrationAuthorityEntityID>
-    </lei:RegistrationAuthority>
-    <lei:LegalJurisdiction>CH</lei:LegalJurisdiction>
-    <lei:EntityCategory>GENERAL</lei:EntityCategory>
-    <lei:LegalForm>
-      <lei:EntityLegalFormCode>MVII</lei:EntityLegalFormCode>
-    </lei:LegalForm>
-    <lei:EntityStatus>ACTIVE</lei:EntityStatus>
-    <lei:EntityCreationDate>2017-12-06T10:57:39+01:00</lei:EntityCreationDate>
-  </lei:Entity>
-  <lei:Registration>
-    <lei:InitialRegistrationDate>2017-12-06T10:57:39+01:00</lei:InitialRegistrationDate>
-    <lei:LastUpdateDate>2022-02-17T04:00:04+01:00</lei:LastUpdateDate>
-    <lei:RegistrationStatus>ISSUED</lei:RegistrationStatus>
-    <lei:NextRenewalDate>2022-12-06T10:57:39+01:00</lei:NextRenewalDate>
-    <lei:ManagingLOU>506700LOLO7M6V0E4247</lei:ManagingLOU>
-    <lei:ValidationSources>FULLY_CORROBORATED</lei:ValidationSources>
-    <lei:ValidationAuthority>
-      <lei:ValidationAuthorityID>RA000548</lei:ValidationAuthorityID>
-      <lei:ValidationAuthorityEntityID>CHE101768765</lei:ValidationAuthorityEntityID>
-    </lei:ValidationAuthority>
-  </lei:Registration>
-</lei:LEIRecord>
-<lei:LEIRecord xmlns:lei="http://www.gleif.org/data/schema/leidata/2016">
-  <lei:LEI>5299000PZZWAX5B8RN91</lei:LEI>
-  <lei:Entity>
-    <lei:LegalName xml:lang="de-DE">Stadtwerke Leipzig GmbH</lei:LegalName>
-    <lei:LegalAddress xml:lang="de-DE">
-      <lei:FirstAddressLine>Augustusplatz 7</lei:FirstAddressLine>
-      <lei:City>Leipzig</lei:City>
-      <lei:Region>DE-SN</lei:Region>
-      <lei:Country>DE</lei:Country>
-      <lei:PostalCode>04109</lei:PostalCode>
-    </lei:LegalAddress>
-    <lei:HeadquartersAddress xml:lang="de-DE">
-      <lei:FirstAddressLine>Augustusplatz 7</lei:FirstAddressLine>
-      <lei:City>Leipzig</lei:City>
-      <lei:Region>DE-SN</lei:Region>
-      <lei:Country>DE</lei:Country>
-      <lei:PostalCode>04109</lei:PostalCode>
-    </lei:HeadquartersAddress>
-    <lei:RegistrationAuthority>
-      <lei:RegistrationAuthorityID>RA000287</lei:RegistrationAuthorityID>
-      <lei:RegistrationAuthorityEntityID>HRB 3058</lei:RegistrationAuthorityEntityID>
-    </lei:RegistrationAuthority>
-    <lei:LegalJurisdiction>DE</lei:LegalJurisdiction>
-    <lei:EntityCategory>GENERAL</lei:EntityCategory>
-    <lei:LegalForm>
-      <lei:EntityLegalFormCode>2HBR</lei:EntityLegalFormCode>
-    </lei:LegalForm>
-    <lei:EntityStatus>ACTIVE</lei:EntityStatus>
-  </lei:Entity>
-  <lei:Registration>
-    <lei:InitialRegistrationDate>2013-08-29T15:18:57+02:00</lei:InitialRegistrationDate>
-    <lei:LastUpdateDate>2021-07-22T12:33:46+02:00</lei:LastUpdateDate>
-    <lei:RegistrationStatus>ISSUED</lei:RegistrationStatus>
-    <lei:NextRenewalDate>2022-09-03T00:00:00+02:00</lei:NextRenewalDate>
-    <lei:ManagingLOU>5299000J2N45DDNE4Y28</lei:ManagingLOU>
-    <lei:ValidationSources>FULLY_CORROBORATED</lei:ValidationSources>
-    <lei:ValidationAuthority>
-      <lei:ValidationAuthorityID>RA000287</lei:ValidationAuthorityID>
-      <lei:ValidationAuthorityEntityID>HRB 3058</lei:ValidationAuthorityEntityID>
-    </lei:ValidationAuthority>
-  </lei:Registration>
-</lei:LEIRecord>
-<lei:LEIRecord xmlns:lei="http://www.gleif.org/data/schema/leidata/2016">
-  <lei:LEI>529900H89QYCH7VET167</lei:LEI>
-  <lei:Entity>
-    <lei:LegalName xml:lang="de-AT">THE BOSTON CONSULTING GROUP (Austria) GMBH</lei:LegalName>
-    <lei:LegalAddress xml:lang="de-AT">
-      <lei:FirstAddressLine>Am Hof 8</lei:FirstAddressLine>
-      <lei:City>Wien</lei:City>
-      <lei:Region>AT-9</lei:Region>
-      <lei:Country>AT</lei:Country>
-      <lei:PostalCode>1010</lei:PostalCode>
-    </lei:LegalAddress>
-    <lei:HeadquartersAddress xml:lang="de-AT">
-      <lei:FirstAddressLine>Am Hof 8</lei:FirstAddressLine>
-      <lei:City>Wien</lei:City>
-      <lei:Region>AT-9</lei:Region>
-      <lei:Country>AT</lei:Country>
-      <lei:PostalCode>1010</lei:PostalCode>
-    </lei:HeadquartersAddress>
-    <lei:RegistrationAuthority>
-      <lei:RegistrationAuthorityID>RA000017</lei:RegistrationAuthorityID>
-      <lei:RegistrationAuthorityEntityID>160006d</lei:RegistrationAuthorityEntityID>
-    </lei:RegistrationAuthority>
-    <lei:LegalJurisdiction>AT</lei:LegalJurisdiction>
-    <lei:EntityCategory>GENERAL</lei:EntityCategory>
-    <lei:LegalForm>
-      <lei:EntityLegalFormCode>AXSB</lei:EntityLegalFormCode>
-    </lei:LegalForm>
-    <lei:EntityStatus>ACTIVE</lei:EntityStatus>
-  </lei:Entity>
-  <lei:Registration>
-    <lei:InitialRegistrationDate>2017-11-06T08:07:17+01:00</lei:InitialRegistrationDate>
-    <lei:LastUpdateDate>2021-10-19T15:00:32+02:00</lei:LastUpdateDate>
-    <lei:RegistrationStatus>ISSUED</lei:RegistrationStatus>
-    <lei:NextRenewalDate>2022-11-06T08:07:17+01:00</lei:NextRenewalDate>
-    <lei:ManagingLOU>5299000J2N45DDNE4Y28</lei:ManagingLOU>
-    <lei:ValidationSources>FULLY_CORROBORATED</lei:ValidationSources>
-    <lei:ValidationAuthority>
-      <lei:ValidationAuthorityID>RA000017</lei:ValidationAuthorityID>
-      <lei:ValidationAuthorityEntityID>160006d</lei:ValidationAuthorityEntityID>
-    </lei:ValidationAuthority>
-  </lei:Registration>
-</lei:LEIRecord>
-<lei:LEIRecord xmlns:lei="http://www.gleif.org/data/schema/leidata/2016">
-  <lei:LEI>529900NDADW4KQ6FRZ29</lei:LEI>
-  <lei:Entity>
-    <lei:LegalName xml:lang="en-GB">DURR LIMITED</lei:LegalName>
-    <lei:LegalAddress xml:lang="en-GB">
-      <lei:FirstAddressLine>Broxell Close</lei:FirstAddressLine>
-      <lei:City>Warwick</lei:City>
-      <lei:Region>GB-WAR</lei:Region>
+    <lei:LegalAddress xml:lang="en">
+      <lei:FirstAddressLine>16 BABMAES STREET</lei:FirstAddressLine>
+      <lei:City>LONDON</lei:City>
+      <lei:Region>GB-LND</lei:Region>
       <lei:Country>GB</lei:Country>
-      <lei:PostalCode>CV34 5QF</lei:PostalCode>
+      <lei:PostalCode>SW1Y 6AH</lei:PostalCode>
     </lei:LegalAddress>
-    <lei:HeadquartersAddress xml:lang="en-GB">
-      <lei:FirstAddressLine>Broxell Close</lei:FirstAddressLine>
-      <lei:City>Warwick</lei:City>
-      <lei:Region>GB-WAR</lei:Region>
+    <lei:HeadquartersAddress xml:lang="en">
+      <lei:FirstAddressLine>16 BABMAES STREET</lei:FirstAddressLine>
+      <lei:City>LONDON</lei:City>
+      <lei:Region>GB-LND</lei:Region>
       <lei:Country>GB</lei:Country>
-      <lei:PostalCode>CV34 5QF</lei:PostalCode>
+      <lei:PostalCode>SW1Y 6AH</lei:PostalCode>
     </lei:HeadquartersAddress>
     <lei:RegistrationAuthority>
-      <lei:RegistrationAuthorityID>RA000585</lei:RegistrationAuthorityID>
-      <lei:RegistrationAuthorityEntityID>01002684</lei:RegistrationAuthorityEntityID>
+      <lei:RegistrationAuthorityID>RA000592</lei:RegistrationAuthorityID>
+      <lei:RegistrationAuthorityEntityID>116404</lei:RegistrationAuthorityEntityID>
     </lei:RegistrationAuthority>
     <lei:LegalJurisdiction>GB</lei:LegalJurisdiction>
     <lei:EntityCategory>GENERAL</lei:EntityCategory>
@@ -387,122 +122,100 @@
     <lei:EntityStatus>ACTIVE</lei:EntityStatus>
   </lei:Entity>
   <lei:Registration>
-    <lei:InitialRegistrationDate>2013-12-04T16:59:04+01:00</lei:InitialRegistrationDate>
-    <lei:LastUpdateDate>2021-11-23T08:46:05+01:00</lei:LastUpdateDate>
+    <lei:InitialRegistrationDate>2014-02-07T00:00:00Z</lei:InitialRegistrationDate>
+    <lei:LastUpdateDate>2022-01-18T16:34:31.123Z</lei:LastUpdateDate>
     <lei:RegistrationStatus>ISSUED</lei:RegistrationStatus>
-    <lei:NextRenewalDate>2022-12-04T16:59:04+01:00</lei:NextRenewalDate>
-    <lei:ManagingLOU>5299000J2N45DDNE4Y28</lei:ManagingLOU>
+    <lei:NextRenewalDate>2023-02-07T00:00:00Z</lei:NextRenewalDate>
+    <lei:ManagingLOU>213800WAVVOPS85N2205</lei:ManagingLOU>
     <lei:ValidationSources>FULLY_CORROBORATED</lei:ValidationSources>
     <lei:ValidationAuthority>
-      <lei:ValidationAuthorityID>RA000585</lei:ValidationAuthorityID>
-      <lei:ValidationAuthorityEntityID>01002684</lei:ValidationAuthorityEntityID>
+      <lei:ValidationAuthorityID>RA000592</lei:ValidationAuthorityID>
+      <lei:ValidationAuthorityEntityID>116404</lei:ValidationAuthorityEntityID>
     </lei:ValidationAuthority>
   </lei:Registration>
 </lei:LEIRecord>
 <lei:LEIRecord xmlns:lei="http://www.gleif.org/data/schema/leidata/2016">
-  <lei:LEI>529900TAP1OITY0M9R40</lei:LEI>
+  <lei:LEI>213800GDZELUGJ2VJG11</lei:LEI>
   <lei:Entity>
-    <lei:LegalName xml:lang="de-DE">MABANAFT Deutschland GmbH &amp; Co. KG</lei:LegalName>
-    <lei:LegalAddress xml:lang="de-DE">
-      <lei:FirstAddressLine>Koreastraße 7</lei:FirstAddressLine>
-      <lei:City>Hamburg</lei:City>
-      <lei:Region>DE-HH</lei:Region>
-      <lei:Country>DE</lei:Country>
-      <lei:PostalCode>20457</lei:PostalCode>
+    <lei:LegalName>SCHRODERS ITALY SIM S.P.A.</lei:LegalName>
+    <lei:LegalAddress>
+      <lei:FirstAddressLine>VIA DELLA SPIGA 30</lei:FirstAddressLine>
+      <lei:City>MILANO</lei:City>
+      <lei:Region>IT-MI</lei:Region>
+      <lei:Country>IT</lei:Country>
+      <lei:PostalCode>20121</lei:PostalCode>
     </lei:LegalAddress>
-    <lei:HeadquartersAddress xml:lang="de-DE">
-      <lei:FirstAddressLine>Koreastraße 7</lei:FirstAddressLine>
-      <lei:City>Hamburg</lei:City>
-      <lei:Region>DE-HH</lei:Region>
-      <lei:Country>DE</lei:Country>
-      <lei:PostalCode>20457</lei:PostalCode>
+    <lei:HeadquartersAddress>
+      <lei:FirstAddressLine>VIA DELLA SPIGA 30</lei:FirstAddressLine>
+      <lei:City>MILANO</lei:City>
+      <lei:Region>IT-MI</lei:Region>
+      <lei:Country>IT</lei:Country>
+      <lei:PostalCode>20121</lei:PostalCode>
     </lei:HeadquartersAddress>
     <lei:RegistrationAuthority>
-      <lei:RegistrationAuthorityID>RA000259</lei:RegistrationAuthorityID>
-      <lei:RegistrationAuthorityEntityID>HRA 98961</lei:RegistrationAuthorityEntityID>
+      <lei:RegistrationAuthorityID>RA000407</lei:RegistrationAuthorityID>
+      <lei:RegistrationAuthorityEntityID>13052000158</lei:RegistrationAuthorityEntityID>
     </lei:RegistrationAuthority>
-    <lei:LegalJurisdiction>DE</lei:LegalJurisdiction>
+    <lei:LegalJurisdiction>IT</lei:LegalJurisdiction>
     <lei:EntityCategory>GENERAL</lei:EntityCategory>
     <lei:LegalForm>
-      <lei:EntityLegalFormCode>8Z6G</lei:EntityLegalFormCode>
+      <lei:EntityLegalFormCode>X32V</lei:EntityLegalFormCode>
     </lei:LegalForm>
-    <lei:EntityStatus>ACTIVE</lei:EntityStatus>
+    <lei:EntityStatus>INACTIVE</lei:EntityStatus>
+    <lei:SuccessorEntity>
+      <lei:SuccessorLEI>8AFAYMK90I2QVGLMLS34</lei:SuccessorLEI>
+    </lei:SuccessorEntity>
+    <lei:LegalEntityEvents>
+      <lei:LegalEntityEvent group_type="STANDALONE" event_status="COMPLETED" group_id="STANDALONE2006903">
+        <lei:LegalEntityEventType>MERGERS_AND_ACQUISITIONS</lei:LegalEntityEventType>
+        <lei:LegalEntityEventEffectiveDate>2019-06-25T00:00:00Z</lei:LegalEntityEventEffectiveDate>
+        <lei:LegalEntityEventRecordedDate>2022-03-25T00:00:00Z</lei:LegalEntityEventRecordedDate>
+        <lei:ValidationDocuments>ACCOUNTS_FILING</lei:ValidationDocuments>
+        <lei:AffectedFields>
+          <lei:AffectedField field_xpath="/lei:LEIData/lei:LEIRecords/lei:LEIRecord/lei:Entity/lei:SuccessorEntity/lei:SuccessorLEI">8AFAYMK90I2QVGLMLS34</lei:AffectedField>
+        </lei:AffectedFields>
+      </lei:LegalEntityEvent>
+    </lei:LegalEntityEvents>
   </lei:Entity>
   <lei:Registration>
-    <lei:InitialRegistrationDate>2013-09-23T12:42:15+02:00</lei:InitialRegistrationDate>
-    <lei:LastUpdateDate>2021-09-09T08:00:29+02:00</lei:LastUpdateDate>
-    <lei:RegistrationStatus>ISSUED</lei:RegistrationStatus>
-    <lei:NextRenewalDate>2022-10-02T00:00:00+02:00</lei:NextRenewalDate>
-    <lei:ManagingLOU>5299000J2N45DDNE4Y28</lei:ManagingLOU>
+    <lei:InitialRegistrationDate>2015-01-09T00:00:00Z</lei:InitialRegistrationDate>
+    <lei:LastUpdateDate>2022-03-24T06:56:36.773Z</lei:LastUpdateDate>
+    <lei:RegistrationStatus>RETIRED</lei:RegistrationStatus>
+    <lei:NextRenewalDate>2020-01-09T00:00:00Z</lei:NextRenewalDate>
+    <lei:ManagingLOU>213800WAVVOPS85N2205</lei:ManagingLOU>
     <lei:ValidationSources>FULLY_CORROBORATED</lei:ValidationSources>
     <lei:ValidationAuthority>
-      <lei:ValidationAuthorityID>RA000259</lei:ValidationAuthorityID>
-      <lei:ValidationAuthorityEntityID>HRA 98961</lei:ValidationAuthorityEntityID>
+      <lei:ValidationAuthorityID>RA000407</lei:ValidationAuthorityID>
+      <lei:ValidationAuthorityEntityID>13052000158</lei:ValidationAuthorityEntityID>
     </lei:ValidationAuthority>
   </lei:Registration>
 </lei:LEIRecord>
 <lei:LEIRecord xmlns:lei="http://www.gleif.org/data/schema/leidata/2016">
-  <lei:LEI>2549008UAYCU7MYMTE34</lei:LEI>
+  <lei:LEI>259400XBEV7IC4SGL710</lei:LEI>
   <lei:Entity>
-    <lei:LegalName xml:lang="en">KGI Securities Investment Trust Co. Ltd.</lei:LegalName>
-    <lei:LegalAddress xml:lang="en">
-      <lei:FirstAddressLine>No. 698, Mingshui Road</lei:FirstAddressLine>
-      <lei:City>Taipei</lei:City>
-      <lei:Region>TW-TPE</lei:Region>
-      <lei:Country>TW</lei:Country>
-      <lei:PostalCode>10462</lei:PostalCode>
-    </lei:LegalAddress>
-    <lei:HeadquartersAddress xml:lang="en">
-      <lei:FirstAddressLine>No. 698, Mingshui Road</lei:FirstAddressLine>
-      <lei:City>Taipei</lei:City>
-      <lei:Region>TW-TPE</lei:Region>
-      <lei:Country>TW</lei:Country>
-      <lei:PostalCode>10462</lei:PostalCode>
-    </lei:HeadquartersAddress>
-    <lei:RegistrationAuthority>
-      <lei:RegistrationAuthorityID>RA000551</lei:RegistrationAuthorityID>
-      <lei:RegistrationAuthorityEntityID>70806514</lei:RegistrationAuthorityEntityID>
-    </lei:RegistrationAuthority>
-    <lei:LegalJurisdiction>TW</lei:LegalJurisdiction>
-    <lei:EntityCategory>GENERAL</lei:EntityCategory>
-    <lei:LegalForm>
-      <lei:EntityLegalFormCode>9999</lei:EntityLegalFormCode>
-      <lei:OtherLegalForm>Company</lei:OtherLegalForm>
-    </lei:LegalForm>
-    <lei:EntityStatus>ACTIVE</lei:EntityStatus>
-  </lei:Entity>
-  <lei:Registration>
-    <lei:InitialRegistrationDate>2017-10-24T20:33:16.585Z</lei:InitialRegistrationDate>
-    <lei:LastUpdateDate>2022-03-12T02:39:03.953Z</lei:LastUpdateDate>
-    <lei:RegistrationStatus>ISSUED</lei:RegistrationStatus>
-    <lei:NextRenewalDate>2022-09-26T19:39:29.688Z</lei:NextRenewalDate>
-    <lei:ManagingLOU>5493001KJTIIGC8Y1R12</lei:ManagingLOU>
-    <lei:ValidationSources>FULLY_CORROBORATED</lei:ValidationSources>
-    <lei:ValidationAuthority>
-      <lei:ValidationAuthorityID>RA000551</lei:ValidationAuthorityID>
-      <lei:ValidationAuthorityEntityID>70806514</lei:ValidationAuthorityEntityID>
-    </lei:ValidationAuthority>
-  </lei:Registration>
-</lei:LEIRecord>
-<lei:LEIRecord xmlns:lei="http://www.gleif.org/data/schema/leidata/2016">
-  <lei:LEI>254900D0YSASTC19VY52</lei:LEI>
-  <lei:Entity>
-    <lei:LegalName xml:lang="pl">Electrolux Poland Spolka Z Organiczona Odpowiedzialnoscia</lei:LegalName>
-    <lei:LegalAddress xml:lang="en">
-      <lei:FirstAddressLine>Ul.Karolkowa 30</lei:FirstAddressLine>
-      <lei:City>Warszawa</lei:City>
+    <lei:LegalName xml:lang="pl-PL">Asekuracja Spółka z ograniczoną odpowiedzialnością</lei:LegalName>
+    <lei:TransliteratedOtherEntityNames>
+      <lei:TransliteratedOtherEntityName xml:lang="pl-PL" type="PREFERRED_ASCII_TRANSLITERATED_LEGAL_NAME">Asekuracja Spolka z ograniczona odpowiedzialnoscia</lei:TransliteratedOtherEntityName>
+    </lei:TransliteratedOtherEntityNames>
+    <lei:LegalAddress xml:lang="pl-PL">
+      <lei:FirstAddressLine>Sopot Władysława IV 22</lei:FirstAddressLine>
+      <lei:AddressNumber>22</lei:AddressNumber>
+      <lei:City>Sopot</lei:City>
+      <lei:Region>PL-22</lei:Region>
       <lei:Country>PL</lei:Country>
-      <lei:PostalCode>01-207</lei:PostalCode>
+      <lei:PostalCode>81-743</lei:PostalCode>
     </lei:LegalAddress>
-    <lei:HeadquartersAddress xml:lang="en">
-      <lei:FirstAddressLine>Sankt Goransgatan 143</lei:FirstAddressLine>
-      <lei:City>Stockholm</lei:City>
-      <lei:Country>SE</lei:Country>
-      <lei:PostalCode>105 45</lei:PostalCode>
+    <lei:HeadquartersAddress xml:lang="pl-PL">
+      <lei:FirstAddressLine>Sopot Władysława IV 22</lei:FirstAddressLine>
+      <lei:AddressNumber>22</lei:AddressNumber>
+      <lei:City>Sopot</lei:City>
+      <lei:Region>PL-22</lei:Region>
+      <lei:Country>PL</lei:Country>
+      <lei:PostalCode>81-743</lei:PostalCode>
     </lei:HeadquartersAddress>
     <lei:RegistrationAuthority>
       <lei:RegistrationAuthorityID>RA000484</lei:RegistrationAuthorityID>
-      <lei:RegistrationAuthorityEntityID>0000029692</lei:RegistrationAuthorityEntityID>
+      <lei:RegistrationAuthorityEntityID>0000149560</lei:RegistrationAuthorityEntityID>
     </lei:RegistrationAuthority>
     <lei:LegalJurisdiction>PL</lei:LegalJurisdiction>
     <lei:EntityCategory>GENERAL</lei:EntityCategory>
@@ -512,209 +225,1154 @@
     <lei:EntityStatus>ACTIVE</lei:EntityStatus>
   </lei:Entity>
   <lei:Registration>
-    <lei:InitialRegistrationDate>2017-10-16T14:32:29.173Z</lei:InitialRegistrationDate>
-    <lei:LastUpdateDate>2022-03-14T15:47:13.658Z</lei:LastUpdateDate>
-    <lei:RegistrationStatus>LAPSED</lei:RegistrationStatus>
-    <lei:NextRenewalDate>2021-10-11T14:33:37.222Z</lei:NextRenewalDate>
-    <lei:ManagingLOU>5493001KJTIIGC8Y1R12</lei:ManagingLOU>
+    <lei:InitialRegistrationDate>2020-02-20T07:04:38+01:00</lei:InitialRegistrationDate>
+    <lei:LastUpdateDate>2022-03-01T10:15:11+01:00</lei:LastUpdateDate>
+    <lei:RegistrationStatus>ISSUED</lei:RegistrationStatus>
+    <lei:NextRenewalDate>2023-02-20T07:04:37+01:00</lei:NextRenewalDate>
+    <lei:ManagingLOU>259400L3KBYEVNHEJF55</lei:ManagingLOU>
     <lei:ValidationSources>FULLY_CORROBORATED</lei:ValidationSources>
     <lei:ValidationAuthority>
       <lei:ValidationAuthorityID>RA000484</lei:ValidationAuthorityID>
-      <lei:ValidationAuthorityEntityID>0000029692</lei:ValidationAuthorityEntityID>
+      <lei:ValidationAuthorityEntityID>0000149560</lei:ValidationAuthorityEntityID>
     </lei:ValidationAuthority>
   </lei:Registration>
 </lei:LEIRecord>
 <lei:LEIRecord xmlns:lei="http://www.gleif.org/data/schema/leidata/2016">
-  <lei:LEI>254900MRHYM4F24K2195</lei:LEI>
+  <lei:LEI>52990031HO8EUC275R62</lei:LEI>
   <lei:Entity>
-    <lei:LegalName xml:lang="en">Guotai Junan Investments (Hong Kong) Limited</lei:LegalName>
-    <lei:LegalAddress xml:lang="en">
-      <lei:FirstAddressLine>Units 1804-1807, 18/F</lei:FirstAddressLine>
-      <lei:AdditionalAddressLine>Tower 1, Lippo Centre</lei:AdditionalAddressLine>
-      <lei:AdditionalAddressLine>89 Queensway</lei:AdditionalAddressLine>
-      <lei:City>Hong Kong</lei:City>
-      <lei:Country>HK</lei:Country>
+    <lei:LegalName xml:lang="de">International Fund Portfolio: R/A</lei:LegalName>
+    <lei:LegalAddress xml:lang="de">
+      <lei:FirstAddressLine>rue Lou Hemmer 6</lei:FirstAddressLine>
+      <lei:AddressNumber>6</lei:AddressNumber>
+      <lei:MailRouting>Deka International S.A.</lei:MailRouting>
+      <lei:City>Luxembourg-Findel</lei:City>
+      <lei:Country>LU</lei:Country>
+      <lei:PostalCode>1748</lei:PostalCode>
     </lei:LegalAddress>
-    <lei:HeadquartersAddress xml:lang="en">
-      <lei:FirstAddressLine>Units 1804-1807, 18/F</lei:FirstAddressLine>
-      <lei:AdditionalAddressLine>Tower 1, Lippo Centre</lei:AdditionalAddressLine>
-      <lei:AdditionalAddressLine>89 Queensway</lei:AdditionalAddressLine>
-      <lei:City>Hong Kong</lei:City>
-      <lei:Country>HK</lei:Country>
+    <lei:HeadquartersAddress xml:lang="de">
+      <lei:FirstAddressLine>rue Lou Hemmer 6</lei:FirstAddressLine>
+      <lei:AddressNumber>6</lei:AddressNumber>
+      <lei:MailRouting>Deka International S.A.</lei:MailRouting>
+      <lei:City>Luxembourg-Findel</lei:City>
+      <lei:Country>LU</lei:Country>
+      <lei:PostalCode>1748</lei:PostalCode>
     </lei:HeadquartersAddress>
     <lei:RegistrationAuthority>
-      <lei:RegistrationAuthorityID>RA000388</lei:RegistrationAuthorityID>
-      <lei:RegistrationAuthorityEntityID>0595253</lei:RegistrationAuthorityEntityID>
+      <lei:RegistrationAuthorityID>RA999999</lei:RegistrationAuthorityID>
     </lei:RegistrationAuthority>
-    <lei:LegalJurisdiction>HK</lei:LegalJurisdiction>
-    <lei:EntityCategory>GENERAL</lei:EntityCategory>
+    <lei:LegalJurisdiction>LU</lei:LegalJurisdiction>
+    <lei:EntityCategory>FUND</lei:EntityCategory>
     <lei:LegalForm>
-      <lei:EntityLegalFormCode>254M</lei:EntityLegalFormCode>
+      <lei:EntityLegalFormCode>8888</lei:EntityLegalFormCode>
+      <lei:OtherLegalForm>FUND</lei:OtherLegalForm>
     </lei:LegalForm>
     <lei:EntityStatus>ACTIVE</lei:EntityStatus>
-    <lei:EntityCreationDate>1997-02-12T15:02:32.000Z</lei:EntityCreationDate>
   </lei:Entity>
   <lei:Registration>
-    <lei:InitialRegistrationDate>2017-09-19T09:11:44.791Z</lei:InitialRegistrationDate>
-    <lei:LastUpdateDate>2022-06-14T13:22:27.299Z</lei:LastUpdateDate>
+    <lei:InitialRegistrationDate>2013-10-16T11:36:29.000+02:00</lei:InitialRegistrationDate>
+    <lei:LastUpdateDate>2022-03-02T17:58:01.871+01:00</lei:LastUpdateDate>
     <lei:RegistrationStatus>ISSUED</lei:RegistrationStatus>
-    <lei:NextRenewalDate>2023-07-13T14:51:38.578Z</lei:NextRenewalDate>
-    <lei:ManagingLOU>5493001KJTIIGC8Y1R12</lei:ManagingLOU>
-    <lei:ValidationSources>PARTIALLY_CORROBORATED</lei:ValidationSources>
+    <lei:NextRenewalDate>2022-10-16T11:36:29.000+02:00</lei:NextRenewalDate>
+    <lei:ManagingLOU>39120001KULK7200U106</lei:ManagingLOU>
+    <lei:ValidationSources>ENTITY_SUPPLIED_ONLY</lei:ValidationSources>
     <lei:ValidationAuthority>
-      <lei:ValidationAuthorityID>RA000388</lei:ValidationAuthorityID>
-      <lei:ValidationAuthorityEntityID>0595253</lei:ValidationAuthorityEntityID>
+      <lei:ValidationAuthorityID>RA999999</lei:ValidationAuthorityID>
     </lei:ValidationAuthority>
   </lei:Registration>
+  <lei:NextVersion/>
+  <lei:Extension/>
 </lei:LEIRecord>
 <lei:LEIRecord xmlns:lei="http://www.gleif.org/data/schema/leidata/2016">
-  <lei:LEI>254900QY8CXGHNMBFX72</lei:LEI>
+  <lei:LEI>549300BP1CDRHWLT1S36</lei:LEI>
   <lei:Entity>
-    <lei:LegalName xml:lang="en">Nottinghill Finance Ltd</lei:LegalName>
-    <lei:LegalAddress xml:lang="en">
-      <lei:FirstAddressLine>Les Cascades</lei:FirstAddressLine>
-      <lei:AdditionalAddressLine>Edith Cavell Street</lei:AdditionalAddressLine>
-      <lei:City>Port Louis</lei:City>
-      <lei:Country>MU</lei:Country>
+    <lei:LegalName xml:lang="de">MSCI World Socially Responsible UCITS ETF</lei:LegalName>
+    <lei:LegalAddress xml:lang="de">
+      <lei:FirstAddressLine>avenue J-F Kennedy 49</lei:FirstAddressLine>
+      <lei:AddressNumber>49</lei:AddressNumber>
+      <lei:AdditionalAddressLine>c/o UBS (Lux) Fund Solutions</lei:AdditionalAddressLine>
+      <lei:City>Luxembourg</lei:City>
+      <lei:Region>LU-LU</lei:Region>
+      <lei:Country>LU</lei:Country>
+      <lei:PostalCode>1855</lei:PostalCode>
     </lei:LegalAddress>
-    <lei:HeadquartersAddress xml:lang="en">
-      <lei:FirstAddressLine>Les Cascades</lei:FirstAddressLine>
-      <lei:AdditionalAddressLine>Edith Cavell Street</lei:AdditionalAddressLine>
-      <lei:City>Port Louis</lei:City>
-      <lei:Country>MU</lei:Country>
+    <lei:HeadquartersAddress xml:lang="de">
+      <lei:FirstAddressLine>avenue J-F Kennedy 33A</lei:FirstAddressLine>
+      <lei:AddressNumber>33A</lei:AddressNumber>
+      <lei:AdditionalAddressLine>c/o UBS Fund Management (Luxembourg) S.A.</lei:AdditionalAddressLine>
+      <lei:City>Luxembourg</lei:City>
+      <lei:Region>LU-LU</lei:Region>
+      <lei:Country>LU</lei:Country>
+      <lei:PostalCode>1855</lei:PostalCode>
     </lei:HeadquartersAddress>
     <lei:RegistrationAuthority>
-      <lei:RegistrationAuthorityID>RA000447</lei:RegistrationAuthorityID>
-      <lei:RegistrationAuthorityEntityID>C083832</lei:RegistrationAuthorityEntityID>
+      <lei:RegistrationAuthorityID>RA000433</lei:RegistrationAuthorityID>
+      <lei:RegistrationAuthorityEntityID>O00003168_00000021</lei:RegistrationAuthorityEntityID>
     </lei:RegistrationAuthority>
-    <lei:LegalJurisdiction>MU</lei:LegalJurisdiction>
-    <lei:EntityCategory>GENERAL</lei:EntityCategory>
+    <lei:LegalJurisdiction>LU</lei:LegalJurisdiction>
+    <lei:EntityCategory>FUND</lei:EntityCategory>
     <lei:LegalForm>
-      <lei:EntityLegalFormCode>G7H0</lei:EntityLegalFormCode>
+      <lei:EntityLegalFormCode>8888</lei:EntityLegalFormCode>
+      <lei:OtherLegalForm>Sub-Fund</lei:OtherLegalForm>
     </lei:LegalForm>
     <lei:EntityStatus>ACTIVE</lei:EntityStatus>
-    <lei:EntityCreationDate>2008-09-22T04:00:00.000Z</lei:EntityCreationDate>
+    <lei:EntityCreationDate>2011-07-08T00:00:00.000+02:00</lei:EntityCreationDate>
   </lei:Entity>
   <lei:Registration>
-    <lei:InitialRegistrationDate>2019-04-09T16:35:14.416Z</lei:InitialRegistrationDate>
-    <lei:LastUpdateDate>2022-03-28T20:51:53.794Z</lei:LastUpdateDate>
+    <lei:InitialRegistrationDate>2013-07-11T18:31:00.000+02:00</lei:InitialRegistrationDate>
+    <lei:LastUpdateDate>2022-06-02T20:27:20.391+02:00</lei:LastUpdateDate>
     <lei:RegistrationStatus>ISSUED</lei:RegistrationStatus>
-    <lei:NextRenewalDate>2023-04-09T16:35:29.459Z</lei:NextRenewalDate>
-    <lei:ManagingLOU>5493001KJTIIGC8Y1R12</lei:ManagingLOU>
+    <lei:NextRenewalDate>2023-03-24T11:35:00.000+01:00</lei:NextRenewalDate>
+    <lei:ManagingLOU>39120001KULK7200U106</lei:ManagingLOU>
     <lei:ValidationSources>FULLY_CORROBORATED</lei:ValidationSources>
     <lei:ValidationAuthority>
-      <lei:ValidationAuthorityID>RA000447</lei:ValidationAuthorityID>
-      <lei:ValidationAuthorityEntityID>C083832</lei:ValidationAuthorityEntityID>
+      <lei:ValidationAuthorityID>RA000433</lei:ValidationAuthorityID>
+      <lei:ValidationAuthorityEntityID>O00003168_00000021</lei:ValidationAuthorityEntityID>
+    </lei:ValidationAuthority>
+  </lei:Registration>
+  <lei:NextVersion/>
+  <lei:Extension/>
+</lei:LEIRecord>
+<lei:LEIRecord xmlns:lei="http://www.gleif.org/data/schema/leidata/2016">
+  <lei:LEI>5299002Z3I75TD5QSV03</lei:LEI>
+  <lei:Entity>
+    <lei:LegalName xml:lang="en-GB">RWE SUPPLY &amp; TRADING PARTICIPATIONS LIMITED</lei:LegalName>
+    <lei:LegalAddress xml:lang="en-GB">
+      <lei:FirstAddressLine>60 Threadneedle Street</lei:FirstAddressLine>
+      <lei:City>London</lei:City>
+      <lei:Region>GB-LND</lei:Region>
+      <lei:Country>GB</lei:Country>
+      <lei:PostalCode>EC2R 8HP</lei:PostalCode>
+    </lei:LegalAddress>
+    <lei:HeadquartersAddress xml:lang="en-GB">
+      <lei:FirstAddressLine>60 Threadneedle Street</lei:FirstAddressLine>
+      <lei:City>London</lei:City>
+      <lei:Region>GB-LND</lei:Region>
+      <lei:Country>GB</lei:Country>
+      <lei:PostalCode>EC2R 8HP</lei:PostalCode>
+    </lei:HeadquartersAddress>
+    <lei:RegistrationAuthority>
+      <lei:RegistrationAuthorityID>RA000585</lei:RegistrationAuthorityID>
+      <lei:RegistrationAuthorityEntityID>06457522</lei:RegistrationAuthorityEntityID>
+    </lei:RegistrationAuthority>
+    <lei:LegalJurisdiction>GB</lei:LegalJurisdiction>
+    <lei:EntityCategory>GENERAL</lei:EntityCategory>
+    <lei:LegalForm>
+      <lei:EntityLegalFormCode>H0PO</lei:EntityLegalFormCode>
+    </lei:LegalForm>
+    <lei:EntityStatus>ACTIVE</lei:EntityStatus>
+    <lei:EntityCreationDate>2007-12-19T00:00:00+01:00</lei:EntityCreationDate>
+  </lei:Entity>
+  <lei:Registration>
+    <lei:InitialRegistrationDate>2013-07-03T08:43:59+02:00</lei:InitialRegistrationDate>
+    <lei:LastUpdateDate>2022-06-29T11:37:44+02:00</lei:LastUpdateDate>
+    <lei:RegistrationStatus>ISSUED</lei:RegistrationStatus>
+    <lei:NextRenewalDate>2023-07-03T08:43:59+02:00</lei:NextRenewalDate>
+    <lei:ManagingLOU>5299000J2N45DDNE4Y28</lei:ManagingLOU>
+    <lei:ValidationSources>FULLY_CORROBORATED</lei:ValidationSources>
+    <lei:ValidationAuthority>
+      <lei:ValidationAuthorityID>RA000585</lei:ValidationAuthorityID>
+      <lei:ValidationAuthorityEntityID>06457522</lei:ValidationAuthorityEntityID>
     </lei:ValidationAuthority>
   </lei:Registration>
 </lei:LEIRecord>
 <lei:LEIRecord xmlns:lei="http://www.gleif.org/data/schema/leidata/2016">
-  <lei:LEI>81560066A9FACB4E1625</lei:LEI>
+  <lei:LEI>5299003Z3RLS6MIKS570</lei:LEI>
   <lei:Entity>
-    <lei:LegalName xml:lang="it-IT">FERCAD S.P.A. - UNIPERSONALE</lei:LegalName>
-    <lei:LegalAddress xml:lang="it-IT">
-      <lei:FirstAddressLine>VIA RETRONE, 49</lei:FirstAddressLine>
-      <lei:City>ALTAVILLA VICENTINA</lei:City>
-      <lei:Region>IT-VI</lei:Region>
-      <lei:Country>IT</lei:Country>
-      <lei:PostalCode>36077</lei:PostalCode>
+    <lei:LegalName>Salzburger Landes-Versicherung AG</lei:LegalName>
+    <lei:LegalAddress>
+      <lei:FirstAddressLine>Auerspergstraße 9</lei:FirstAddressLine>
+      <lei:City>Salzburg</lei:City>
+      <lei:Region>AT-5</lei:Region>
+      <lei:Country>AT</lei:Country>
+      <lei:PostalCode>5020</lei:PostalCode>
     </lei:LegalAddress>
-    <lei:HeadquartersAddress xml:lang="it-IT">
-      <lei:FirstAddressLine>VIA RETRONE, 49</lei:FirstAddressLine>
-      <lei:City>ALTAVILLA VICENTINA</lei:City>
-      <lei:Region>IT-VI</lei:Region>
+    <lei:HeadquartersAddress>
+      <lei:FirstAddressLine>Auerspergstraße 9</lei:FirstAddressLine>
+      <lei:City>Salzburg</lei:City>
+      <lei:Region>AT-5</lei:Region>
+      <lei:Country>AT</lei:Country>
+      <lei:PostalCode>5020</lei:PostalCode>
+    </lei:HeadquartersAddress>
+    <lei:RegistrationAuthority>
+      <lei:RegistrationAuthorityID>RA000017</lei:RegistrationAuthorityID>
+      <lei:RegistrationAuthorityEntityID>FN 67427h</lei:RegistrationAuthorityEntityID>
+    </lei:RegistrationAuthority>
+    <lei:LegalJurisdiction>AT</lei:LegalJurisdiction>
+    <lei:EntityCategory>GENERAL</lei:EntityCategory>
+    <lei:LegalForm>
+      <lei:EntityLegalFormCode>EQOV</lei:EntityLegalFormCode>
+    </lei:LegalForm>
+    <lei:EntityStatus>INACTIVE</lei:EntityStatus>
+    <lei:SuccessorEntity>
+      <lei:SuccessorLEI>529900B0OFX1G2LS5L25</lei:SuccessorLEI>
+    </lei:SuccessorEntity>
+    <lei:LegalEntityEvents>
+      <lei:LegalEntityEvent group_type="STANDALONE" event_status="COMPLETED">
+        <lei:LegalEntityEventType>MERGERS_AND_ACQUISITIONS</lei:LegalEntityEventType>
+        <lei:LegalEntityEventEffectiveDate>2016-10-01T00:00:00+02:00</lei:LegalEntityEventEffectiveDate>
+        <lei:LegalEntityEventRecordedDate>2022-03-29T12:51:49+02:00</lei:LegalEntityEventRecordedDate>
+        <lei:ValidationDocuments>SUPPORTING_DOCUMENTS</lei:ValidationDocuments>
+        <lei:AffectedFields>
+          <lei:AffectedField field_xpath="/lei:LEIData/lei:LEIRecords/lei:LEIRecord/lei:Entity/lei:SuccessorEntity/lei:SuccessorLEI">529900B0OFX1G2LS5L25</lei:AffectedField>
+        </lei:AffectedFields>
+      </lei:LegalEntityEvent>
+    </lei:LegalEntityEvents>
+  </lei:Entity>
+  <lei:Registration>
+    <lei:InitialRegistrationDate>2014-01-30T13:33:58+01:00</lei:InitialRegistrationDate>
+    <lei:LastUpdateDate>2022-03-29T12:51:49+02:00</lei:LastUpdateDate>
+    <lei:RegistrationStatus>RETIRED</lei:RegistrationStatus>
+    <lei:NextRenewalDate>2017-03-04T00:00:00+01:00</lei:NextRenewalDate>
+    <lei:ManagingLOU>5299000J2N45DDNE4Y28</lei:ManagingLOU>
+    <lei:ValidationSources>FULLY_CORROBORATED</lei:ValidationSources>
+    <lei:ValidationAuthority>
+      <lei:ValidationAuthorityID>RA000017</lei:ValidationAuthorityID>
+      <lei:ValidationAuthorityEntityID>FN 67427h</lei:ValidationAuthorityEntityID>
+    </lei:ValidationAuthority>
+  </lei:Registration>
+</lei:LEIRecord>
+<lei:LEIRecord xmlns:lei="http://www.gleif.org/data/schema/leidata/2016">
+  <lei:LEI>5299004ETPGI59VJLU32</lei:LEI>
+  <lei:Entity>
+    <lei:LegalName>FINANCE LIFE Lebensversicherung AG</lei:LegalName>
+    <lei:LegalAddress>
+      <lei:FirstAddressLine>Untere Donaustraße 21</lei:FirstAddressLine>
+      <lei:City>Wien</lei:City>
+      <lei:Region>AT-9</lei:Region>
+      <lei:Country>AT</lei:Country>
+      <lei:PostalCode>1029</lei:PostalCode>
+    </lei:LegalAddress>
+    <lei:HeadquartersAddress>
+      <lei:FirstAddressLine>Untere Donaustraße 21</lei:FirstAddressLine>
+      <lei:City>Wien</lei:City>
+      <lei:Region>AT-9</lei:Region>
+      <lei:Country>AT</lei:Country>
+      <lei:PostalCode>1029</lei:PostalCode>
+    </lei:HeadquartersAddress>
+    <lei:RegistrationAuthority>
+      <lei:RegistrationAuthorityID>RA000017</lei:RegistrationAuthorityID>
+      <lei:RegistrationAuthorityEntityID>FN 135700i</lei:RegistrationAuthorityEntityID>
+    </lei:RegistrationAuthority>
+    <lei:LegalJurisdiction>AT</lei:LegalJurisdiction>
+    <lei:EntityCategory>GENERAL</lei:EntityCategory>
+    <lei:LegalForm>
+      <lei:EntityLegalFormCode>EQOV</lei:EntityLegalFormCode>
+    </lei:LegalForm>
+    <lei:EntityStatus>INACTIVE</lei:EntityStatus>
+    <lei:SuccessorEntity>
+      <lei:SuccessorLEI>529900B0OFX1G2LS5L25</lei:SuccessorLEI>
+    </lei:SuccessorEntity>
+    <lei:LegalEntityEvents>
+      <lei:LegalEntityEvent group_type="STANDALONE" event_status="COMPLETED">
+        <lei:LegalEntityEventType>MERGERS_AND_ACQUISITIONS</lei:LegalEntityEventType>
+        <lei:LegalEntityEventEffectiveDate>2016-10-01T00:00:00+02:00</lei:LegalEntityEventEffectiveDate>
+        <lei:LegalEntityEventRecordedDate>2022-03-29T12:52:13+02:00</lei:LegalEntityEventRecordedDate>
+        <lei:ValidationDocuments>SUPPORTING_DOCUMENTS</lei:ValidationDocuments>
+        <lei:AffectedFields>
+          <lei:AffectedField field_xpath="/lei:LEIData/lei:LEIRecords/lei:LEIRecord/lei:Entity/lei:SuccessorEntity/lei:SuccessorLEI">529900B0OFX1G2LS5L25</lei:AffectedField>
+        </lei:AffectedFields>
+      </lei:LegalEntityEvent>
+    </lei:LegalEntityEvents>
+  </lei:Entity>
+  <lei:Registration>
+    <lei:InitialRegistrationDate>2015-06-11T08:57:01+02:00</lei:InitialRegistrationDate>
+    <lei:LastUpdateDate>2022-03-29T12:52:13+02:00</lei:LastUpdateDate>
+    <lei:RegistrationStatus>RETIRED</lei:RegistrationStatus>
+    <lei:NextRenewalDate>2017-06-10T00:00:00+02:00</lei:NextRenewalDate>
+    <lei:ManagingLOU>5299000J2N45DDNE4Y28</lei:ManagingLOU>
+    <lei:ValidationSources>FULLY_CORROBORATED</lei:ValidationSources>
+    <lei:ValidationAuthority>
+      <lei:ValidationAuthorityID>RA000017</lei:ValidationAuthorityID>
+      <lei:ValidationAuthorityEntityID>FN 135700i</lei:ValidationAuthorityEntityID>
+    </lei:ValidationAuthority>
+  </lei:Registration>
+</lei:LEIRecord>
+<lei:LEIRecord xmlns:lei="http://www.gleif.org/data/schema/leidata/2016">
+  <lei:LEI>5299006UEDF65TKSRP93</lei:LEI>
+  <lei:Entity>
+    <lei:LegalName>Raiffeisen Versicherung AG</lei:LegalName>
+    <lei:LegalAddress>
+      <lei:FirstAddressLine>Untere Donaustraße 21</lei:FirstAddressLine>
+      <lei:City>Wien</lei:City>
+      <lei:Region>AT-9</lei:Region>
+      <lei:Country>AT</lei:Country>
+      <lei:PostalCode>1029</lei:PostalCode>
+    </lei:LegalAddress>
+    <lei:HeadquartersAddress>
+      <lei:FirstAddressLine>Untere Donaustraße 21</lei:FirstAddressLine>
+      <lei:City>Wien</lei:City>
+      <lei:Region>AT-9</lei:Region>
+      <lei:Country>AT</lei:Country>
+      <lei:PostalCode>1029</lei:PostalCode>
+    </lei:HeadquartersAddress>
+    <lei:RegistrationAuthority>
+      <lei:RegistrationAuthorityID>RA000017</lei:RegistrationAuthorityID>
+      <lei:RegistrationAuthorityEntityID>FN 52576v</lei:RegistrationAuthorityEntityID>
+    </lei:RegistrationAuthority>
+    <lei:LegalJurisdiction>AT</lei:LegalJurisdiction>
+    <lei:EntityCategory>GENERAL</lei:EntityCategory>
+    <lei:LegalForm>
+      <lei:EntityLegalFormCode>EQOV</lei:EntityLegalFormCode>
+    </lei:LegalForm>
+    <lei:EntityStatus>INACTIVE</lei:EntityStatus>
+    <lei:SuccessorEntity>
+      <lei:SuccessorLEI>529900B0OFX1G2LS5L25</lei:SuccessorLEI>
+    </lei:SuccessorEntity>
+    <lei:LegalEntityEvents>
+      <lei:LegalEntityEvent group_type="STANDALONE" event_status="COMPLETED">
+        <lei:LegalEntityEventType>MERGERS_AND_ACQUISITIONS</lei:LegalEntityEventType>
+        <lei:LegalEntityEventEffectiveDate>2016-10-01T00:00:00+02:00</lei:LegalEntityEventEffectiveDate>
+        <lei:LegalEntityEventRecordedDate>2022-03-29T13:00:19+02:00</lei:LegalEntityEventRecordedDate>
+        <lei:ValidationDocuments>SUPPORTING_DOCUMENTS</lei:ValidationDocuments>
+        <lei:AffectedFields>
+          <lei:AffectedField field_xpath="/lei:LEIData/lei:LEIRecords/lei:LEIRecord/lei:Entity/lei:SuccessorEntity/lei:SuccessorLEI">529900B0OFX1G2LS5L25</lei:AffectedField>
+        </lei:AffectedFields>
+      </lei:LegalEntityEvent>
+    </lei:LegalEntityEvents>
+  </lei:Entity>
+  <lei:Registration>
+    <lei:InitialRegistrationDate>2014-01-30T13:31:58+01:00</lei:InitialRegistrationDate>
+    <lei:LastUpdateDate>2022-03-29T13:00:19+02:00</lei:LastUpdateDate>
+    <lei:RegistrationStatus>RETIRED</lei:RegistrationStatus>
+    <lei:NextRenewalDate>2017-03-04T00:00:00+01:00</lei:NextRenewalDate>
+    <lei:ManagingLOU>5299000J2N45DDNE4Y28</lei:ManagingLOU>
+    <lei:ValidationSources>FULLY_CORROBORATED</lei:ValidationSources>
+    <lei:ValidationAuthority>
+      <lei:ValidationAuthorityID>RA000017</lei:ValidationAuthorityID>
+      <lei:ValidationAuthorityEntityID>FN 52576v</lei:ValidationAuthorityEntityID>
+    </lei:ValidationAuthority>
+  </lei:Registration>
+</lei:LEIRecord>
+<lei:LEIRecord xmlns:lei="http://www.gleif.org/data/schema/leidata/2016">
+  <lei:LEI>529900B0OFX1G2LS5L25</lei:LEI>
+  <lei:Entity>
+    <lei:LegalName xml:lang="de-AT">UNIQA Österreich Versicherungen AG</lei:LegalName>
+    <lei:LegalAddress xml:lang="de-AT">
+      <lei:FirstAddressLine>Untere Donaustraße 21</lei:FirstAddressLine>
+      <lei:City>Wien</lei:City>
+      <lei:Region>AT-9</lei:Region>
+      <lei:Country>AT</lei:Country>
+      <lei:PostalCode>1029</lei:PostalCode>
+    </lei:LegalAddress>
+    <lei:HeadquartersAddress xml:lang="de-AT">
+      <lei:FirstAddressLine>Untere Donaustraße 21</lei:FirstAddressLine>
+      <lei:City>Wien</lei:City>
+      <lei:Region>AT-9</lei:Region>
+      <lei:Country>AT</lei:Country>
+      <lei:PostalCode>1029</lei:PostalCode>
+    </lei:HeadquartersAddress>
+    <lei:RegistrationAuthority>
+      <lei:RegistrationAuthorityID>RA000017</lei:RegistrationAuthorityID>
+      <lei:RegistrationAuthorityEntityID>63197m</lei:RegistrationAuthorityEntityID>
+    </lei:RegistrationAuthority>
+    <lei:LegalJurisdiction>AT</lei:LegalJurisdiction>
+    <lei:EntityCategory>GENERAL</lei:EntityCategory>
+    <lei:LegalForm>
+      <lei:EntityLegalFormCode>EQOV</lei:EntityLegalFormCode>
+    </lei:LegalForm>
+    <lei:EntityStatus>ACTIVE</lei:EntityStatus>
+  </lei:Entity>
+  <lei:Registration>
+    <lei:InitialRegistrationDate>2014-01-30T13:29:13+01:00</lei:InitialRegistrationDate>
+    <lei:LastUpdateDate>2022-01-05T12:34:02+01:00</lei:LastUpdateDate>
+    <lei:RegistrationStatus>ISSUED</lei:RegistrationStatus>
+    <lei:NextRenewalDate>2023-03-04T00:00:00+01:00</lei:NextRenewalDate>
+    <lei:ManagingLOU>5299000J2N45DDNE4Y28</lei:ManagingLOU>
+    <lei:ValidationSources>FULLY_CORROBORATED</lei:ValidationSources>
+    <lei:ValidationAuthority>
+      <lei:ValidationAuthorityID>RA000017</lei:ValidationAuthorityID>
+      <lei:ValidationAuthorityEntityID>63197m</lei:ValidationAuthorityEntityID>
+    </lei:ValidationAuthority>
+  </lei:Registration>
+</lei:LEIRecord>
+<lei:LEIRecord xmlns:lei="http://www.gleif.org/data/schema/leidata/2016">
+  <lei:LEI>529900DL3B1718ENGH39</lei:LEI>
+  <lei:Entity>
+    <lei:LegalName>UNIQA Finanzbeteiligung GmbH</lei:LegalName>
+    <lei:LegalAddress>
+      <lei:FirstAddressLine>Untere Donaustraße 21</lei:FirstAddressLine>
+      <lei:City>Wien</lei:City>
+      <lei:Region>AT-9</lei:Region>
+      <lei:Country>AT</lei:Country>
+      <lei:PostalCode>1029</lei:PostalCode>
+    </lei:LegalAddress>
+    <lei:HeadquartersAddress>
+      <lei:FirstAddressLine>Untere Donaustraße 21</lei:FirstAddressLine>
+      <lei:City>Wien</lei:City>
+      <lei:Region>AT-9</lei:Region>
+      <lei:Country>AT</lei:Country>
+      <lei:PostalCode>1029</lei:PostalCode>
+    </lei:HeadquartersAddress>
+    <lei:RegistrationAuthority>
+      <lei:RegistrationAuthorityID>RA000017</lei:RegistrationAuthorityID>
+      <lei:RegistrationAuthorityEntityID>FN 372631m</lei:RegistrationAuthorityEntityID>
+    </lei:RegistrationAuthority>
+    <lei:LegalJurisdiction>AT</lei:LegalJurisdiction>
+    <lei:EntityCategory>GENERAL</lei:EntityCategory>
+    <lei:LegalForm>
+      <lei:EntityLegalFormCode>AXSB</lei:EntityLegalFormCode>
+    </lei:LegalForm>
+    <lei:EntityStatus>INACTIVE</lei:EntityStatus>
+    <lei:SuccessorEntity>
+      <lei:SuccessorLEI>529900B0OFX1G2LS5L25</lei:SuccessorLEI>
+    </lei:SuccessorEntity>
+    <lei:LegalEntityEvents>
+      <lei:LegalEntityEvent group_type="STANDALONE" event_status="COMPLETED">
+        <lei:LegalEntityEventType>MERGERS_AND_ACQUISITIONS</lei:LegalEntityEventType>
+        <lei:LegalEntityEventEffectiveDate>2018-10-04T00:00:00+02:00</lei:LegalEntityEventEffectiveDate>
+        <lei:LegalEntityEventRecordedDate>2022-03-29T13:07:08+02:00</lei:LegalEntityEventRecordedDate>
+        <lei:ValidationDocuments>SUPPORTING_DOCUMENTS</lei:ValidationDocuments>
+        <lei:AffectedFields>
+          <lei:AffectedField field_xpath="/lei:LEIData/lei:LEIRecords/lei:LEIRecord/lei:Entity/lei:SuccessorEntity/lei:SuccessorLEI">529900B0OFX1G2LS5L25</lei:AffectedField>
+        </lei:AffectedFields>
+      </lei:LegalEntityEvent>
+    </lei:LegalEntityEvents>
+  </lei:Entity>
+  <lei:Registration>
+    <lei:InitialRegistrationDate>2017-12-19T08:12:52+01:00</lei:InitialRegistrationDate>
+    <lei:LastUpdateDate>2022-03-29T13:07:09+02:00</lei:LastUpdateDate>
+    <lei:RegistrationStatus>RETIRED</lei:RegistrationStatus>
+    <lei:NextRenewalDate>2018-12-19T08:12:52+01:00</lei:NextRenewalDate>
+    <lei:ManagingLOU>5299000J2N45DDNE4Y28</lei:ManagingLOU>
+    <lei:ValidationSources>FULLY_CORROBORATED</lei:ValidationSources>
+    <lei:ValidationAuthority>
+      <lei:ValidationAuthorityID>RA000017</lei:ValidationAuthorityID>
+      <lei:ValidationAuthorityEntityID>FN 372631m</lei:ValidationAuthorityEntityID>
+    </lei:ValidationAuthority>
+  </lei:Registration>
+</lei:LEIRecord>
+<lei:LEIRecord xmlns:lei="http://www.gleif.org/data/schema/leidata/2016">
+  <lei:LEI>529900GB7KCA94ACC940</lei:LEI>
+  <lei:Entity>
+    <lei:LegalName xml:lang="de-DE">RWE Aktiengesellschaft</lei:LegalName>
+    <lei:LegalAddress xml:lang="de-DE">
+      <lei:FirstAddressLine>RWE Platz 1</lei:FirstAddressLine>
+      <lei:City>Essen</lei:City>
+      <lei:Region>DE-NW</lei:Region>
+      <lei:Country>DE</lei:Country>
+      <lei:PostalCode>45141</lei:PostalCode>
+    </lei:LegalAddress>
+    <lei:HeadquartersAddress xml:lang="de-DE">
+      <lei:FirstAddressLine>RWE Platz 1</lei:FirstAddressLine>
+      <lei:City>Essen</lei:City>
+      <lei:Region>DE-NW</lei:Region>
+      <lei:Country>DE</lei:Country>
+      <lei:PostalCode>45141</lei:PostalCode>
+    </lei:HeadquartersAddress>
+    <lei:RegistrationAuthority>
+      <lei:RegistrationAuthorityID>RA000239</lei:RegistrationAuthorityID>
+      <lei:RegistrationAuthorityEntityID>HRB 14525</lei:RegistrationAuthorityEntityID>
+    </lei:RegistrationAuthority>
+    <lei:LegalJurisdiction>DE</lei:LegalJurisdiction>
+    <lei:EntityCategory>GENERAL</lei:EntityCategory>
+    <lei:LegalForm>
+      <lei:EntityLegalFormCode>6QQB</lei:EntityLegalFormCode>
+    </lei:LegalForm>
+    <lei:EntityStatus>ACTIVE</lei:EntityStatus>
+  </lei:Entity>
+  <lei:Registration>
+    <lei:InitialRegistrationDate>2013-12-02T16:06:53+01:00</lei:InitialRegistrationDate>
+    <lei:LastUpdateDate>2021-10-04T00:01:03+02:00</lei:LastUpdateDate>
+    <lei:RegistrationStatus>ISSUED</lei:RegistrationStatus>
+    <lei:NextRenewalDate>2022-12-02T16:06:53+01:00</lei:NextRenewalDate>
+    <lei:ManagingLOU>5299000J2N45DDNE4Y28</lei:ManagingLOU>
+    <lei:ValidationSources>FULLY_CORROBORATED</lei:ValidationSources>
+    <lei:ValidationAuthority>
+      <lei:ValidationAuthorityID>RA000239</lei:ValidationAuthorityID>
+      <lei:ValidationAuthorityEntityID>HRB 14525</lei:ValidationAuthorityEntityID>
+    </lei:ValidationAuthority>
+  </lei:Registration>
+</lei:LEIRecord>
+<lei:LEIRecord xmlns:lei="http://www.gleif.org/data/schema/leidata/2016">
+  <lei:LEI>529900KOIMI2AFRQRM95</lei:LEI>
+  <lei:Entity>
+    <lei:LegalName>RC RISK-CONCEPT Versicherungsmakler GmbH</lei:LegalName>
+    <lei:LegalAddress>
+      <lei:FirstAddressLine>Untere Donaustraße 21</lei:FirstAddressLine>
+      <lei:City>Wien</lei:City>
+      <lei:Region>AT-9</lei:Region>
+      <lei:Country>AT</lei:Country>
+      <lei:PostalCode>1029</lei:PostalCode>
+    </lei:LegalAddress>
+    <lei:HeadquartersAddress>
+      <lei:FirstAddressLine>Untere Donaustraße 21</lei:FirstAddressLine>
+      <lei:City>Wien</lei:City>
+      <lei:Region>AT-9</lei:Region>
+      <lei:Country>AT</lei:Country>
+      <lei:PostalCode>1029</lei:PostalCode>
+    </lei:HeadquartersAddress>
+    <lei:RegistrationAuthority>
+      <lei:RegistrationAuthorityID>RA000017</lei:RegistrationAuthorityID>
+      <lei:RegistrationAuthorityEntityID>FN 106995x</lei:RegistrationAuthorityEntityID>
+    </lei:RegistrationAuthority>
+    <lei:LegalJurisdiction>AT</lei:LegalJurisdiction>
+    <lei:EntityCategory>GENERAL</lei:EntityCategory>
+    <lei:LegalForm>
+      <lei:EntityLegalFormCode>AXSB</lei:EntityLegalFormCode>
+    </lei:LegalForm>
+    <lei:EntityStatus>INACTIVE</lei:EntityStatus>
+    <lei:SuccessorEntity>
+      <lei:SuccessorLEI>529900B0OFX1G2LS5L25</lei:SuccessorLEI>
+    </lei:SuccessorEntity>
+    <lei:LegalEntityEvents>
+      <lei:LegalEntityEvent group_type="STANDALONE" event_status="COMPLETED">
+        <lei:LegalEntityEventType>MERGERS_AND_ACQUISITIONS</lei:LegalEntityEventType>
+        <lei:LegalEntityEventEffectiveDate>2018-09-18T00:00:00+02:00</lei:LegalEntityEventEffectiveDate>
+        <lei:LegalEntityEventRecordedDate>2022-03-29T13:18:35+02:00</lei:LegalEntityEventRecordedDate>
+        <lei:ValidationDocuments>SUPPORTING_DOCUMENTS</lei:ValidationDocuments>
+        <lei:AffectedFields>
+          <lei:AffectedField field_xpath="/lei:LEIData/lei:LEIRecords/lei:LEIRecord/lei:Entity/lei:SuccessorEntity/lei:SuccessorLEI">529900B0OFX1G2LS5L25</lei:AffectedField>
+        </lei:AffectedFields>
+      </lei:LegalEntityEvent>
+    </lei:LegalEntityEvents>
+  </lei:Entity>
+  <lei:Registration>
+    <lei:InitialRegistrationDate>2017-12-19T15:01:32+01:00</lei:InitialRegistrationDate>
+    <lei:LastUpdateDate>2022-03-29T13:18:35+02:00</lei:LastUpdateDate>
+    <lei:RegistrationStatus>RETIRED</lei:RegistrationStatus>
+    <lei:NextRenewalDate>2018-12-19T15:01:32+01:00</lei:NextRenewalDate>
+    <lei:ManagingLOU>5299000J2N45DDNE4Y28</lei:ManagingLOU>
+    <lei:ValidationSources>FULLY_CORROBORATED</lei:ValidationSources>
+    <lei:ValidationAuthority>
+      <lei:ValidationAuthorityID>RA000017</lei:ValidationAuthorityID>
+      <lei:ValidationAuthorityEntityID>FN 106995x</lei:ValidationAuthorityEntityID>
+    </lei:ValidationAuthority>
+  </lei:Registration>
+</lei:LEIRecord>
+<lei:LEIRecord xmlns:lei="http://www.gleif.org/data/schema/leidata/2016">
+  <lei:LEI>529900LOL386ST9OX981</lei:LEI>
+  <lei:Entity>
+    <lei:LegalName xml:lang="fr-LU">Deka International S.A.</lei:LegalName>
+    <lei:LegalAddress xml:lang="fr-LU">
+      <lei:FirstAddressLine>6, rue Lou Hemmer</lei:FirstAddressLine>
+      <lei:City>Luxembourg-Findel</lei:City>
+      <lei:Region>LU-LU</lei:Region>
+      <lei:Country>LU</lei:Country>
+      <lei:PostalCode>L - 1748</lei:PostalCode>
+    </lei:LegalAddress>
+    <lei:HeadquartersAddress xml:lang="fr-LU">
+      <lei:FirstAddressLine>6, rue Lou Hemmer</lei:FirstAddressLine>
+      <lei:City>Luxembourg-Findel</lei:City>
+      <lei:Region>LU-LU</lei:Region>
+      <lei:Country>LU</lei:Country>
+      <lei:PostalCode>L - 1748</lei:PostalCode>
+    </lei:HeadquartersAddress>
+    <lei:RegistrationAuthority>
+      <lei:RegistrationAuthorityID>RA000432</lei:RegistrationAuthorityID>
+      <lei:RegistrationAuthorityEntityID>B28599</lei:RegistrationAuthorityEntityID>
+    </lei:RegistrationAuthority>
+    <lei:LegalJurisdiction>LU</lei:LegalJurisdiction>
+    <lei:EntityCategory>GENERAL</lei:EntityCategory>
+    <lei:LegalForm>
+      <lei:EntityLegalFormCode>5GGB</lei:EntityLegalFormCode>
+    </lei:LegalForm>
+    <lei:EntityStatus>ACTIVE</lei:EntityStatus>
+  </lei:Entity>
+  <lei:Registration>
+    <lei:InitialRegistrationDate>2017-10-30T09:55:31+01:00</lei:InitialRegistrationDate>
+    <lei:LastUpdateDate>2021-10-28T09:58:33+02:00</lei:LastUpdateDate>
+    <lei:RegistrationStatus>ISSUED</lei:RegistrationStatus>
+    <lei:NextRenewalDate>2022-11-14T00:00:00+01:00</lei:NextRenewalDate>
+    <lei:ManagingLOU>5299000J2N45DDNE4Y28</lei:ManagingLOU>
+    <lei:ValidationSources>FULLY_CORROBORATED</lei:ValidationSources>
+    <lei:ValidationAuthority>
+      <lei:ValidationAuthorityID>RA000432</lei:ValidationAuthorityID>
+      <lei:ValidationAuthorityEntityID>B28599</lei:ValidationAuthorityEntityID>
+    </lei:ValidationAuthority>
+  </lei:Registration>
+</lei:LEIRecord>
+<lei:LEIRecord xmlns:lei="http://www.gleif.org/data/schema/leidata/2016">
+  <lei:LEI>89450036PGF6MED5YQ79</lei:LEI>
+  <lei:Entity>
+    <lei:LegalName xml:lang="en">CAN LAH INVESTMENTS PTE. LTD.</lei:LegalName>
+    <lei:OtherEntityNames>
+      <lei:OtherEntityName type="PREVIOUS_LEGAL_NAME" xml:lang="en">HSF INVESTMENT (SINGAPORE) PTE. LTD.</lei:OtherEntityName>
+    </lei:OtherEntityNames>
+    <lei:LegalAddress xml:lang="en">
+      <lei:FirstAddressLine>8, EU TONG SEN STREET, #14-96/97, THE CENTRAL</lei:FirstAddressLine>
+      <lei:City>SINGAPORE</lei:City>
+      <lei:Country>SG</lei:Country>
+      <lei:PostalCode>059818</lei:PostalCode>
+    </lei:LegalAddress>
+    <lei:HeadquartersAddress xml:lang="en">
+      <lei:FirstAddressLine>PO Box 1984</lei:FirstAddressLine>
+      <lei:City>Boundary Hall Cricket Square</lei:City>
+      <lei:Country>KY</lei:Country>
+      <lei:PostalCode>KY1-1104</lei:PostalCode>
+    </lei:HeadquartersAddress>
+    <lei:RegistrationAuthority>
+      <lei:RegistrationAuthorityID>RA000523</lei:RegistrationAuthorityID>
+      <lei:RegistrationAuthorityEntityID>201328717M</lei:RegistrationAuthorityEntityID>
+    </lei:RegistrationAuthority>
+    <lei:LegalJurisdiction>SG</lei:LegalJurisdiction>
+    <lei:EntityCategory>GENERAL</lei:EntityCategory>
+    <lei:LegalForm>
+      <lei:EntityLegalFormCode>8888</lei:EntityLegalFormCode>
+      <lei:OtherLegalForm>private company limited by shares</lei:OtherLegalForm>
+    </lei:LegalForm>
+    <lei:EntityStatus>ACTIVE</lei:EntityStatus>
+  </lei:Entity>
+  <lei:Registration>
+    <lei:InitialRegistrationDate>2019-04-04T01:08:37+02:00</lei:InitialRegistrationDate>
+    <lei:LastUpdateDate>2022-02-07T08:39:04+01:00</lei:LastUpdateDate>
+    <lei:RegistrationStatus>ISSUED</lei:RegistrationStatus>
+    <lei:NextRenewalDate>2023-04-04T01:08:04+02:00</lei:NextRenewalDate>
+    <lei:ManagingLOU>529900F6BNUR3RJ2WH29</lei:ManagingLOU>
+    <lei:ValidationSources>FULLY_CORROBORATED</lei:ValidationSources>
+    <lei:ValidationAuthority>
+      <lei:ValidationAuthorityID>RA000523</lei:ValidationAuthorityID>
+      <lei:ValidationAuthorityEntityID>201328717M</lei:ValidationAuthorityEntityID>
+    </lei:ValidationAuthority>
+  </lei:Registration>
+</lei:LEIRecord>
+<lei:LEIRecord xmlns:lei="http://www.gleif.org/data/schema/leidata/2016">
+  <lei:LEI>984500AZE7BEC83CO082</lei:LEI>
+  <lei:Entity>
+    <lei:LegalName xml:lang="it">UNIQA OSTERREICH VERSICHERUNGEN AG</lei:LegalName>
+    <lei:LegalAddress xml:lang="it">
+      <lei:FirstAddressLine>VIALE BRIANZA 6</lei:FirstAddressLine>
+      <lei:City>MILANO</lei:City>
+      <lei:Region>IT-MI</lei:Region>
       <lei:Country>IT</lei:Country>
-      <lei:PostalCode>36077</lei:PostalCode>
+      <lei:PostalCode>20127</lei:PostalCode>
+    </lei:LegalAddress>
+    <lei:HeadquartersAddress xml:lang="de">
+      <lei:FirstAddressLine>Untere Donaustraße 21</lei:FirstAddressLine>
+      <lei:City>Wien</lei:City>
+      <lei:Country>AT</lei:Country>
+      <lei:PostalCode>1029</lei:PostalCode>
     </lei:HeadquartersAddress>
     <lei:RegistrationAuthority>
       <lei:RegistrationAuthorityID>RA000407</lei:RegistrationAuthorityID>
-      <lei:RegistrationAuthorityEntityID>01252490246</lei:RegistrationAuthorityEntityID>
+      <lei:RegistrationAuthorityEntityID>13191810152</lei:RegistrationAuthorityEntityID>
+    </lei:RegistrationAuthority>
+    <lei:LegalJurisdiction>AT</lei:LegalJurisdiction>
+    <lei:EntityCategory>BRANCH</lei:EntityCategory>
+    <lei:LegalForm>
+      <lei:EntityLegalFormCode>EQOV</lei:EntityLegalFormCode>
+    </lei:LegalForm>
+    <lei:EntityStatus>ACTIVE</lei:EntityStatus>
+  </lei:Entity>
+  <lei:Registration>
+    <lei:InitialRegistrationDate>2020-11-16T14:28:09+00:00</lei:InitialRegistrationDate>
+    <lei:LastUpdateDate>2022-02-23T15:28:32+00:00</lei:LastUpdateDate>
+    <lei:RegistrationStatus>ISSUED</lei:RegistrationStatus>
+    <lei:NextRenewalDate>2022-11-16T14:28:09+00:00</lei:NextRenewalDate>
+    <lei:ManagingLOU>529900T8BM49AURSDO55</lei:ManagingLOU>
+    <lei:ValidationSources>FULLY_CORROBORATED</lei:ValidationSources>
+    <lei:ValidationAuthority>
+      <lei:ValidationAuthorityID>RA000407</lei:ValidationAuthorityID>
+      <lei:ValidationAuthorityEntityID>13191810152</lei:ValidationAuthorityEntityID>
+    </lei:ValidationAuthority>
+  </lei:Registration>
+</lei:LEIRecord>
+<lei:LEIRecord xmlns:lei="http://www.gleif.org/data/schema/leidata/2016">
+  <lei:LEI>549300AE48NQE4QVEH24</lei:LEI>
+  <lei:Entity>
+    <lei:LegalName xml:lang="fr">UBS Fund Management (Luxembourg) S.A.</lei:LegalName>
+    <lei:LegalAddress xml:lang="en">
+      <lei:FirstAddressLine>33A, avenue J.F. Kennedy</lei:FirstAddressLine>
+      <lei:City>Luxembourg</lei:City>
+      <lei:Country>LU</lei:Country>
+      <lei:PostalCode>L-1855</lei:PostalCode>
+    </lei:LegalAddress>
+    <lei:HeadquartersAddress xml:lang="en">
+      <lei:FirstAddressLine>33A, avenue J.F. Kennedy</lei:FirstAddressLine>
+      <lei:City>Luxembourg</lei:City>
+      <lei:Country>LU</lei:Country>
+      <lei:PostalCode>L-1855</lei:PostalCode>
+    </lei:HeadquartersAddress>
+    <lei:RegistrationAuthority>
+      <lei:RegistrationAuthorityID>RA000432</lei:RegistrationAuthorityID>
+      <lei:RegistrationAuthorityEntityID>B154210</lei:RegistrationAuthorityEntityID>
+    </lei:RegistrationAuthority>
+    <lei:LegalJurisdiction>LU</lei:LegalJurisdiction>
+    <lei:EntityCategory>GENERAL</lei:EntityCategory>
+    <lei:LegalForm>
+      <lei:EntityLegalFormCode>5GGB</lei:EntityLegalFormCode>
+    </lei:LegalForm>
+    <lei:EntityStatus>ACTIVE</lei:EntityStatus>
+  </lei:Entity>
+  <lei:Registration>
+    <lei:InitialRegistrationDate>2015-09-30T02:32:00.000Z</lei:InitialRegistrationDate>
+    <lei:LastUpdateDate>2022-05-05T17:30:08.586Z</lei:LastUpdateDate>
+    <lei:RegistrationStatus>ISSUED</lei:RegistrationStatus>
+    <lei:NextRenewalDate>2022-10-23T17:37:19.940Z</lei:NextRenewalDate>
+    <lei:ManagingLOU>5493001KJTIIGC8Y1R12</lei:ManagingLOU>
+    <lei:ValidationSources>FULLY_CORROBORATED</lei:ValidationSources>
+    <lei:ValidationAuthority>
+      <lei:ValidationAuthorityID>RA000432</lei:ValidationAuthorityID>
+      <lei:ValidationAuthorityEntityID>B154210</lei:ValidationAuthorityEntityID>
+    </lei:ValidationAuthority>
+  </lei:Registration>
+</lei:LEIRecord>
+<lei:LEIRecord xmlns:lei="http://www.gleif.org/data/schema/leidata/2016">
+  <lei:LEI>549300SR8YBPKSHOCU41</lei:LEI>
+  <lei:Entity>
+    <lei:LegalName xml:lang="en">The Lazard Funds, Inc. - Lazard Explorer Total Return Portfolio</lei:LegalName>
+    <lei:LegalAddress xml:lang="en">
+      <lei:FirstAddressLine>C/O The Corporation Trust Incorporated</lei:FirstAddressLine>
+      <lei:AdditionalAddressLine>351 West Camden Street</lei:AdditionalAddressLine>
+      <lei:City>Baltimore</lei:City>
+      <lei:Region>US-MD</lei:Region>
+      <lei:Country>US</lei:Country>
+      <lei:PostalCode>21201</lei:PostalCode>
+    </lei:LegalAddress>
+    <lei:HeadquartersAddress xml:lang="en">
+      <lei:FirstAddressLine>30 Rockefeller Plaza</lei:FirstAddressLine>
+      <lei:City>New York</lei:City>
+      <lei:Region>US-NY</lei:Region>
+      <lei:Country>US</lei:Country>
+      <lei:PostalCode>10012</lei:PostalCode>
+    </lei:HeadquartersAddress>
+    <lei:RegistrationAuthority>
+      <lei:RegistrationAuthorityID>RA999999</lei:RegistrationAuthorityID>
+    </lei:RegistrationAuthority>
+    <lei:LegalJurisdiction>US-MD</lei:LegalJurisdiction>
+    <lei:EntityCategory>FUND</lei:EntityCategory>
+    <lei:LegalForm>
+      <lei:EntityLegalFormCode>8888</lei:EntityLegalFormCode>
+      <lei:OtherLegalForm>Fund</lei:OtherLegalForm>
+    </lei:LegalForm>
+    <lei:EntityStatus>INACTIVE</lei:EntityStatus>
+    <lei:LegalEntityEvents>
+      <lei:LegalEntityEvent event_status="COMPLETED" group_type="STANDALONE">
+        <lei:LegalEntityEventType>DISSOLUTION</lei:LegalEntityEventType>
+        <lei:LegalEntityEventEffectiveDate>2019-10-31T00:00:00.000Z</lei:LegalEntityEventEffectiveDate>
+        <lei:LegalEntityEventRecordedDate>2022-03-16T11:48:41.356Z</lei:LegalEntityEventRecordedDate>
+        <lei:ValidationDocuments>SUPPORTING_DOCUMENTS</lei:ValidationDocuments>
+      </lei:LegalEntityEvent>
+    </lei:LegalEntityEvents>
+  </lei:Entity>
+  <lei:Registration>
+    <lei:InitialRegistrationDate>2013-06-14T17:28:48.915Z</lei:InitialRegistrationDate>
+    <lei:LastUpdateDate>2022-03-16T11:48:37.427Z</lei:LastUpdateDate>
+    <lei:RegistrationStatus>RETIRED</lei:RegistrationStatus>
+    <lei:NextRenewalDate>2021-12-14T18:26:37.669Z</lei:NextRenewalDate>
+    <lei:ManagingLOU>5493001KJTIIGC8Y1R12</lei:ManagingLOU>
+    <lei:ValidationSources>ENTITY_SUPPLIED_ONLY</lei:ValidationSources>
+    <lei:ValidationAuthority>
+      <lei:ValidationAuthorityID>RA999999</lei:ValidationAuthorityID>
+    </lei:ValidationAuthority>
+  </lei:Registration>
+</lei:LEIRecord>
+<lei:LEIRecord xmlns:lei="http://www.gleif.org/data/schema/leidata/2016">
+  <lei:LEI>P1IBQ1I6K7EXV2Q96E20</lei:LEI>
+  <lei:Entity>
+    <lei:LegalName xml:lang="en">Lazard Asset Management LLC</lei:LegalName>
+    <lei:LegalAddress xml:lang="en">
+      <lei:FirstAddressLine>c/o The Corporation Trust Company</lei:FirstAddressLine>
+      <lei:AdditionalAddressLine>Corporation Trust Center</lei:AdditionalAddressLine>
+      <lei:AdditionalAddressLine>1209 Orange Street</lei:AdditionalAddressLine>
+      <lei:City>Wilmington</lei:City>
+      <lei:Region>US-DE</lei:Region>
+      <lei:Country>US</lei:Country>
+      <lei:PostalCode>19801</lei:PostalCode>
+    </lei:LegalAddress>
+    <lei:HeadquartersAddress xml:lang="en">
+      <lei:FirstAddressLine>160 Greentree Drive</lei:FirstAddressLine>
+      <lei:AdditionalAddressLine>Suite 101</lei:AdditionalAddressLine>
+      <lei:City>Dover</lei:City>
+      <lei:Region>US-DE</lei:Region>
+      <lei:Country>US</lei:Country>
+      <lei:PostalCode>19904</lei:PostalCode>
+    </lei:HeadquartersAddress>
+    <lei:RegistrationAuthority>
+      <lei:RegistrationAuthorityID>RA000602</lei:RegistrationAuthorityID>
+      <lei:RegistrationAuthorityEntityID>3560660</lei:RegistrationAuthorityEntityID>
+    </lei:RegistrationAuthority>
+    <lei:LegalJurisdiction>US-DE</lei:LegalJurisdiction>
+    <lei:EntityCategory>GENERAL</lei:EntityCategory>
+    <lei:LegalForm>
+      <lei:EntityLegalFormCode>HZEH</lei:EntityLegalFormCode>
+    </lei:LegalForm>
+    <lei:EntityStatus>ACTIVE</lei:EntityStatus>
+  </lei:Entity>
+  <lei:Registration>
+    <lei:InitialRegistrationDate>2012-11-26T15:01:25.859Z</lei:InitialRegistrationDate>
+    <lei:LastUpdateDate>2022-03-16T11:48:37.427Z</lei:LastUpdateDate>
+    <lei:RegistrationStatus>ISSUED</lei:RegistrationStatus>
+    <lei:NextRenewalDate>2022-08-26T20:21:10.512Z</lei:NextRenewalDate>
+    <lei:ManagingLOU>5493001KJTIIGC8Y1R12</lei:ManagingLOU>
+    <lei:ValidationSources>FULLY_CORROBORATED</lei:ValidationSources>
+    <lei:ValidationAuthority>
+      <lei:ValidationAuthorityID>RA000602</lei:ValidationAuthorityID>
+      <lei:ValidationAuthorityEntityID>3560660</lei:ValidationAuthorityEntityID>
+    </lei:ValidationAuthority>
+  </lei:Registration>
+</lei:LEIRecord>
+<lei:LEIRecord xmlns:lei="http://www.gleif.org/data/schema/leidata/2016">
+  <lei:LEI>724500CDWM1CHYS8AP31</lei:LEI>
+  <lei:Entity>
+    <lei:LegalName xml:lang="nl">Koninklijke FrieslandCampina N.V.</lei:LegalName>
+    <lei:LegalAddress xml:lang="nl">
+      <lei:FirstAddressLine>Stationsplein 4</lei:FirstAddressLine>
+      <lei:City>Amersfoort</lei:City>
+      <lei:Country>NL</lei:Country>
+      <lei:PostalCode>3818LE</lei:PostalCode>
+    </lei:LegalAddress>
+    <lei:HeadquartersAddress xml:lang="nl">
+      <lei:FirstAddressLine>Stationsplein 4</lei:FirstAddressLine>
+      <lei:City>Amersfoort</lei:City>
+      <lei:Country>NL</lei:Country>
+      <lei:PostalCode>3818LE</lei:PostalCode>
+    </lei:HeadquartersAddress>
+    <lei:RegistrationAuthority>
+      <lei:RegistrationAuthorityID>RA000463</lei:RegistrationAuthorityID>
+      <lei:RegistrationAuthorityEntityID>11057544</lei:RegistrationAuthorityEntityID>
+    </lei:RegistrationAuthority>
+    <lei:LegalJurisdiction>NL</lei:LegalJurisdiction>
+    <lei:EntityCategory>GENERAL</lei:EntityCategory>
+    <lei:LegalForm>
+      <lei:EntityLegalFormCode>B5PM</lei:EntityLegalFormCode>
+    </lei:LegalForm>
+    <lei:EntityStatus>ACTIVE</lei:EntityStatus>
+    <lei:EntityCreationDate>2003-11-18T00:00:00.000+01:00</lei:EntityCreationDate>
+  </lei:Entity>
+  <lei:Registration>
+    <lei:InitialRegistrationDate>2014-01-20T00:00:00.000+01:00</lei:InitialRegistrationDate>
+    <lei:LastUpdateDate>2022-01-20T07:10:53.979+01:00</lei:LastUpdateDate>
+    <lei:RegistrationStatus>ISSUED</lei:RegistrationStatus>
+    <lei:NextRenewalDate>2023-01-20T11:14:21.009+01:00</lei:NextRenewalDate>
+    <lei:ManagingLOU>724500A93Z8V1MJK5349</lei:ManagingLOU>
+    <lei:ValidationSources>FULLY_CORROBORATED</lei:ValidationSources>
+    <lei:ValidationAuthority>
+      <lei:ValidationAuthorityID>RA000463</lei:ValidationAuthorityID>
+      <lei:ValidationAuthorityEntityID>11057544</lei:ValidationAuthorityEntityID>
+    </lei:ValidationAuthority>
+  </lei:Registration>
+</lei:LEIRecord>
+<lei:LEIRecord xmlns:lei="http://www.gleif.org/data/schema/leidata/2016">
+  <lei:LEI>8156007613C725DF3D21</lei:LEI>
+  <lei:Entity>
+    <lei:LegalName xml:lang="it-IT">SO.I.GE.A. S.R.L.</lei:LegalName>
+    <lei:LegalAddress xml:lang="it-IT">
+      <lei:FirstAddressLine>VIA A. SALANDRA, 18</lei:FirstAddressLine>
+      <lei:City>ROMA</lei:City>
+      <lei:Region>IT-RM</lei:Region>
+      <lei:Country>IT</lei:Country>
+      <lei:PostalCode>00187</lei:PostalCode>
+    </lei:LegalAddress>
+    <lei:HeadquartersAddress xml:lang="it-IT">
+      <lei:FirstAddressLine>VIA A. SALANDRA, 18</lei:FirstAddressLine>
+      <lei:City>ROMA</lei:City>
+      <lei:Region>IT-RM</lei:Region>
+      <lei:Country>IT</lei:Country>
+      <lei:PostalCode>00187</lei:PostalCode>
+    </lei:HeadquartersAddress>
+    <lei:RegistrationAuthority>
+      <lei:RegistrationAuthorityID>RA000407</lei:RegistrationAuthorityID>
+      <lei:RegistrationAuthorityEntityID>03259311219</lei:RegistrationAuthorityEntityID>
     </lei:RegistrationAuthority>
     <lei:LegalJurisdiction>IT</lei:LegalJurisdiction>
     <lei:EntityCategory>GENERAL</lei:EntityCategory>
     <lei:LegalForm>
-      <lei:EntityLegalFormCode>X32V</lei:EntityLegalFormCode>
+      <lei:EntityLegalFormCode>OV32</lei:EntityLegalFormCode>
     </lei:LegalForm>
     <lei:EntityStatus>ACTIVE</lei:EntityStatus>
   </lei:Entity>
   <lei:Registration>
-    <lei:InitialRegistrationDate>2015-12-11T11:44:18.000+01:00</lei:InitialRegistrationDate>
-    <lei:LastUpdateDate>2021-11-30T10:02:53.000+01:00</lei:LastUpdateDate>
-    <lei:RegistrationStatus>ISSUED</lei:RegistrationStatus>
-    <lei:NextRenewalDate>2022-12-11T11:44:18.000+01:00</lei:NextRenewalDate>
+    <lei:InitialRegistrationDate>2014-05-26T00:00:00.000+02:00</lei:InitialRegistrationDate>
+    <lei:LastUpdateDate>2022-05-26T00:00:00.000+02:00</lei:LastUpdateDate>
+    <lei:RegistrationStatus>LAPSED</lei:RegistrationStatus>
+    <lei:NextRenewalDate>2022-05-26T00:00:00.000+02:00</lei:NextRenewalDate>
     <lei:ManagingLOU>815600EAD78C57FCE690</lei:ManagingLOU>
     <lei:ValidationSources>FULLY_CORROBORATED</lei:ValidationSources>
     <lei:ValidationAuthority>
       <lei:ValidationAuthorityID>RA000407</lei:ValidationAuthorityID>
-      <lei:ValidationAuthorityEntityID>01252490246</lei:ValidationAuthorityEntityID>
+      <lei:ValidationAuthorityEntityID>03259311219</lei:ValidationAuthorityEntityID>
     </lei:ValidationAuthority>
   </lei:Registration>
 </lei:LEIRecord>
 <lei:LEIRecord xmlns:lei="http://www.gleif.org/data/schema/leidata/2016">
-  <lei:LEI>8156005B33609C054617</lei:LEI>
+  <lei:LEI>815600537DEC423B8D40</lei:LEI>
   <lei:Entity>
-    <lei:LegalName xml:lang="it-IT">SAN ROMANO ENERGIA S.R.L.</lei:LegalName>
+    <lei:LegalName xml:lang="it-IT">P4F S.R.L.</lei:LegalName>
     <lei:LegalAddress xml:lang="it-IT">
-      <lei:FirstAddressLine>VIA PIETRO BORSIERI, 2/A</lei:FirstAddressLine>
-      <lei:City>ROMA</lei:City>
-      <lei:Region>IT-RM</lei:Region>
+      <lei:FirstAddressLine>VIA INGEGNO, 3</lei:FirstAddressLine>
+      <lei:City>SARNO</lei:City>
+      <lei:Region>IT-SA</lei:Region>
       <lei:Country>IT</lei:Country>
-      <lei:PostalCode>00195</lei:PostalCode>
+      <lei:PostalCode>84087</lei:PostalCode>
     </lei:LegalAddress>
     <lei:HeadquartersAddress xml:lang="it-IT">
-      <lei:FirstAddressLine>VIA PIETRO BORSIERI, 2/A</lei:FirstAddressLine>
-      <lei:City>ROMA</lei:City>
-      <lei:Region>IT-RM</lei:Region>
+      <lei:FirstAddressLine>VIA INGEGNO, 3</lei:FirstAddressLine>
+      <lei:City>SARNO</lei:City>
+      <lei:Region>IT-SA</lei:Region>
       <lei:Country>IT</lei:Country>
-      <lei:PostalCode>00195</lei:PostalCode>
+      <lei:PostalCode>84087</lei:PostalCode>
     </lei:HeadquartersAddress>
     <lei:RegistrationAuthority>
       <lei:RegistrationAuthorityID>RA000407</lei:RegistrationAuthorityID>
-      <lei:RegistrationAuthorityEntityID>10848011002</lei:RegistrationAuthorityEntityID>
+      <lei:RegistrationAuthorityEntityID>05987830659</lei:RegistrationAuthorityEntityID>
     </lei:RegistrationAuthority>
     <lei:LegalJurisdiction>IT</lei:LegalJurisdiction>
     <lei:EntityCategory>GENERAL</lei:EntityCategory>
     <lei:LegalForm>
-      <lei:EntityLegalFormCode>B5TO</lei:EntityLegalFormCode>
+      <lei:EntityLegalFormCode>OV32</lei:EntityLegalFormCode>
     </lei:LegalForm>
     <lei:EntityStatus>ACTIVE</lei:EntityStatus>
-    <lei:EntityCreationDate>2010-02-18T00:00:00.000+01:00</lei:EntityCreationDate>
+    <lei:EntityCreationDate>2021-03-01T00:00:00.000+01:00</lei:EntityCreationDate>
   </lei:Entity>
   <lei:Registration>
-    <lei:InitialRegistrationDate>2014-04-18T13:05:39.000+02:00</lei:InitialRegistrationDate>
-    <lei:LastUpdateDate>2022-04-14T10:03:25.000+02:00</lei:LastUpdateDate>
+    <lei:InitialRegistrationDate>2021-04-19T13:43:55.000+02:00</lei:InitialRegistrationDate>
+    <lei:LastUpdateDate>2022-04-26T08:57:49.000+02:00</lei:LastUpdateDate>
     <lei:RegistrationStatus>ISSUED</lei:RegistrationStatus>
-    <lei:NextRenewalDate>2023-04-18T00:00:00.000+02:00</lei:NextRenewalDate>
+    <lei:NextRenewalDate>2023-04-26T08:57:48.000+02:00</lei:NextRenewalDate>
     <lei:ManagingLOU>815600EAD78C57FCE690</lei:ManagingLOU>
     <lei:ValidationSources>FULLY_CORROBORATED</lei:ValidationSources>
     <lei:ValidationAuthority>
       <lei:ValidationAuthorityID>RA000407</lei:ValidationAuthorityID>
-      <lei:ValidationAuthorityEntityID>10848011002</lei:ValidationAuthorityEntityID>
+      <lei:ValidationAuthorityEntityID>05987830659</lei:ValidationAuthorityEntityID>
     </lei:ValidationAuthority>
   </lei:Registration>
 </lei:LEIRecord>
 <lei:LEIRecord xmlns:lei="http://www.gleif.org/data/schema/leidata/2016">
-  <lei:LEI>9695009BYUYK5UK7SD41</lei:LEI>
+  <lei:LEI>959800TCTGE8K11PJ042</lei:LEI>
   <lei:Entity>
-    <lei:LegalName xml:lang="fr">TRIFANY</lei:LegalName>
+    <lei:LegalName xml:lang="es">BANKIA PENSIONES LXVIII F.P.</lei:LegalName>
+    <lei:LegalAddress xml:lang="es">
+      <lei:FirstAddressLine>PASEO DE LA CASTELLANA 189</lei:FirstAddressLine>
+      <lei:AddressNumber>189</lei:AddressNumber>
+      <lei:City>Madrid</lei:City>
+      <lei:Country>ES</lei:Country>
+      <lei:PostalCode>28046</lei:PostalCode>
+    </lei:LegalAddress>
+    <lei:HeadquartersAddress xml:lang="es">
+      <lei:FirstAddressLine>PASEO DE LA CASTELLANA 51</lei:FirstAddressLine>
+      <lei:AddressNumber>51</lei:AddressNumber>
+      <lei:City>Madrid</lei:City>
+      <lei:Country>ES</lei:Country>
+      <lei:PostalCode>28046</lei:PostalCode>
+    </lei:HeadquartersAddress>
+    <lei:RegistrationAuthority>
+      <lei:RegistrationAuthorityID>RA000533</lei:RegistrationAuthorityID>
+      <lei:RegistrationAuthorityEntityID>M-584629-8</lei:RegistrationAuthorityEntityID>
+    </lei:RegistrationAuthority>
+    <lei:LegalJurisdiction>ES</lei:LegalJurisdiction>
+    <lei:EntityCategory>FUND</lei:EntityCategory>
+    <lei:LegalForm>
+      <lei:EntityLegalFormCode>FH4R</lei:EntityLegalFormCode>
+    </lei:LegalForm>
+    <lei:EntityStatus>ACTIVE</lei:EntityStatus>
+  </lei:Entity>
+  <lei:Registration>
+    <lei:InitialRegistrationDate>2017-12-13T12:33:32.907+01:00</lei:InitialRegistrationDate>
+    <lei:LastUpdateDate>2022-03-15T10:22:35.05Z</lei:LastUpdateDate>
+    <lei:RegistrationStatus>ISSUED</lei:RegistrationStatus>
+    <lei:NextRenewalDate>2022-12-13T12:33:32.907+01:00</lei:NextRenewalDate>
+    <lei:ManagingLOU>959800R2X69K6Y6MX775</lei:ManagingLOU>
+    <lei:ValidationSources>FULLY_CORROBORATED</lei:ValidationSources>
+    <lei:ValidationAuthority>
+      <lei:ValidationAuthorityID>RA000533</lei:ValidationAuthorityID>
+      <lei:ValidationAuthorityEntityID>M-584629-8</lei:ValidationAuthorityEntityID>
+    </lei:ValidationAuthority>
+    <lei:OtherValidationAuthorities>
+      <lei:OtherValidationAuthority>
+        <lei:ValidationAuthorityID>RA000535</lei:ValidationAuthorityID>
+        <lei:ValidationAuthorityEntityID>V87029765</lei:ValidationAuthorityEntityID>
+      </lei:OtherValidationAuthority>
+    </lei:OtherValidationAuthorities>
+  </lei:Registration>
+  <lei:Extension>
+    <ext:CIF xmlns:ext="http://lei.es.extension/2014">V87029765</ext:CIF>
+  </lei:Extension>
+</lei:LEIRecord>
+<lei:LEIRecord xmlns:lei="http://www.gleif.org/data/schema/leidata/2016">
+  <lei:LEI>5493002VRBIWUNT90Y53</lei:LEI>
+  <lei:Entity>
+    <lei:LegalName xml:lang="es">BANKIA PENSIONES SA ENTIDAD GESTORA DE FONDOS DE PENSIONES</lei:LegalName>
+    <lei:LegalAddress xml:lang="es">
+      <lei:FirstAddressLine>Paseo de la Castellana 189 6</lei:FirstAddressLine>
+      <lei:AddressNumber>189</lei:AddressNumber>
+      <lei:AddressNumberWithinBuilding>6</lei:AddressNumberWithinBuilding>
+      <lei:City>Madrid</lei:City>
+      <lei:Country>ES</lei:Country>
+      <lei:PostalCode>28046</lei:PostalCode>
+    </lei:LegalAddress>
+    <lei:HeadquartersAddress xml:lang="es">
+      <lei:FirstAddressLine>Paseo de la Castellana 189 6</lei:FirstAddressLine>
+      <lei:AddressNumber>189</lei:AddressNumber>
+      <lei:AddressNumberWithinBuilding>6</lei:AddressNumberWithinBuilding>
+      <lei:City>Madrid</lei:City>
+      <lei:Country>ES</lei:Country>
+      <lei:PostalCode>28046</lei:PostalCode>
+    </lei:HeadquartersAddress>
+    <lei:RegistrationAuthority>
+      <lei:RegistrationAuthorityID>RA000533</lei:RegistrationAuthorityID>
+      <lei:RegistrationAuthorityEntityID>M-61566-8</lei:RegistrationAuthorityEntityID>
+    </lei:RegistrationAuthority>
+    <lei:LegalJurisdiction>ES</lei:LegalJurisdiction>
+    <lei:EntityCategory>GENERAL</lei:EntityCategory>
+    <lei:LegalForm>
+      <lei:EntityLegalFormCode>5RDO</lei:EntityLegalFormCode>
+    </lei:LegalForm>
+    <lei:EntityStatus>ACTIVE</lei:EntityStatus>
+  </lei:Entity>
+  <lei:Registration>
+    <lei:InitialRegistrationDate>2014-01-30T01:01:08Z</lei:InitialRegistrationDate>
+    <lei:LastUpdateDate>2022-01-28T23:30:02.046+01:00</lei:LastUpdateDate>
+    <lei:RegistrationStatus>LAPSED</lei:RegistrationStatus>
+    <lei:NextRenewalDate>2022-01-28T11:06:35.405+01:00</lei:NextRenewalDate>
+    <lei:ManagingLOU>959800R2X69K6Y6MX775</lei:ManagingLOU>
+    <lei:ValidationSources>FULLY_CORROBORATED</lei:ValidationSources>
+    <lei:ValidationAuthority>
+      <lei:ValidationAuthorityID>RA000533</lei:ValidationAuthorityID>
+      <lei:ValidationAuthorityEntityID>M-61566-8</lei:ValidationAuthorityEntityID>
+    </lei:ValidationAuthority>
+    <lei:OtherValidationAuthorities>
+      <lei:OtherValidationAuthority>
+        <lei:ValidationAuthorityID>RA000535</lei:ValidationAuthorityID>
+        <lei:ValidationAuthorityEntityID>A78949468</lei:ValidationAuthorityEntityID>
+      </lei:OtherValidationAuthority>
+    </lei:OtherValidationAuthorities>
+  </lei:Registration>
+  <lei:Extension>
+    <ext:CIF xmlns:ext="http://lei.es.extension/2014">A78949468</ext:CIF>
+  </lei:Extension>
+</lei:LEIRecord>
+<lei:LEIRecord xmlns:lei="http://www.gleif.org/data/schema/leidata/2016">
+  <lei:LEI>213800PGWO42VBYBRC71</lei:LEI>
+  <lei:Entity>
+    <lei:LegalName xml:lang="fr">CREACTIF - OBLIGATIONS GOUVERNEMENTALES EURO</lei:LegalName>
     <lei:TransliteratedOtherEntityNames>
-      <lei:TransliteratedOtherEntityName type="AUTO_ASCII_TRANSLITERATED_LEGAL_NAME" xml:lang="fr">TRIFANY</lei:TransliteratedOtherEntityName>
+      <lei:TransliteratedOtherEntityName type="AUTO_ASCII_TRANSLITERATED_LEGAL_NAME" xml:lang="fr">CREACTIF - OBLIGATIONS GOUVERNEMENTALES EURO</lei:TransliteratedOtherEntityName>
     </lei:TransliteratedOtherEntityNames>
     <lei:LegalAddress xml:lang="fr">
-      <lei:FirstAddressLine>RTE DE BERGERAC</lei:FirstAddressLine>
-      <lei:City>VERGT</lei:City>
+      <lei:FirstAddressLine>43 AV PIERRE MENDES FRANCE</lei:FirstAddressLine>
+      <lei:City>PARIS 13</lei:City>
       <lei:Country>FR</lei:Country>
-      <lei:PostalCode>24380</lei:PostalCode>
+      <lei:PostalCode>75013</lei:PostalCode>
     </lei:LegalAddress>
     <lei:HeadquartersAddress xml:lang="fr">
-      <lei:FirstAddressLine>RTE DE BERGERAC</lei:FirstAddressLine>
-      <lei:City>VERGT</lei:City>
+      <lei:FirstAddressLine>C/O NATIXIS INVESTMENT MANAGERS INTERNATIONAL</lei:FirstAddressLine>
+      <lei:AdditionalAddressLine>43 AV PIERRE MENDES FRANCE</lei:AdditionalAddressLine>
+      <lei:City>PARIS 13</lei:City>
       <lei:Country>FR</lei:Country>
-      <lei:PostalCode>24380</lei:PostalCode>
+      <lei:PostalCode>75013</lei:PostalCode>
+    </lei:HeadquartersAddress>
+    <lei:RegistrationAuthority>
+      <lei:RegistrationAuthorityID>RA000190</lei:RegistrationAuthorityID>
+      <lei:RegistrationAuthorityEntityID>35765</lei:RegistrationAuthorityEntityID>
+    </lei:RegistrationAuthority>
+    <lei:LegalJurisdiction>FR</lei:LegalJurisdiction>
+    <lei:EntityCategory>FUND</lei:EntityCategory>
+    <lei:LegalForm>
+      <lei:EntityLegalFormCode>MQU9</lei:EntityLegalFormCode>
+    </lei:LegalForm>
+    <lei:EntityStatus>INACTIVE</lei:EntityStatus>
+    <lei:EntityCreationDate>2016-11-10T00:00:00.000+01:00</lei:EntityCreationDate>
+    <lei:LegalEntityEvents>
+      <lei:LegalEntityEvent group_type="STANDALONE" event_status="COMPLETED">
+        <lei:LegalEntityEventType>DISSOLUTION</lei:LegalEntityEventType>
+        <lei:LegalEntityEventEffectiveDate>2022-03-21T00:00:00.000+01:00</lei:LegalEntityEventEffectiveDate>
+        <lei:LegalEntityEventRecordedDate>2022-03-23T17:50:29.296+01:00</lei:LegalEntityEventRecordedDate>
+        <lei:ValidationDocuments>REGULATORY_FILING</lei:ValidationDocuments>
+      </lei:LegalEntityEvent>
+    </lei:LegalEntityEvents>
+  </lei:Entity>
+  <lei:Registration>
+    <lei:InitialRegistrationDate>2013-12-19T00:00:00.000+01:00</lei:InitialRegistrationDate>
+    <lei:LastUpdateDate>2022-04-27T07:50:17.336+02:00</lei:LastUpdateDate>
+    <lei:RegistrationStatus>RETIRED</lei:RegistrationStatus>
+    <lei:NextRenewalDate>2018-12-19T00:00:00.000+01:00</lei:NextRenewalDate>
+    <lei:ManagingLOU>969500Q2MA9VBQ8BG884</lei:ManagingLOU>
+    <lei:ValidationSources>FULLY_CORROBORATED</lei:ValidationSources>
+    <lei:ValidationAuthority>
+      <lei:ValidationAuthorityID>RA000190</lei:ValidationAuthorityID>
+      <lei:ValidationAuthorityEntityID>35765</lei:ValidationAuthorityEntityID>
+    </lei:ValidationAuthority>
+  </lei:Registration>
+  <lei:Extension>
+    <leifr:FundNumber xmlns:leifr="http://xml.lei-france.fr/schema/2014/">FCP20090318</leifr:FundNumber>
+  </lei:Extension>
+</lei:LEIRecord>
+<lei:LEIRecord xmlns:lei="http://www.gleif.org/data/schema/leidata/2016">
+  <lei:LEI>9695008GVA59G8SVGO83</lei:LEI>
+  <lei:Entity>
+    <lei:LegalName xml:lang="fr">BIGBEN INTERACTIVE</lei:LegalName>
+    <lei:TransliteratedOtherEntityNames>
+      <lei:TransliteratedOtherEntityName type="AUTO_ASCII_TRANSLITERATED_LEGAL_NAME" xml:lang="fr">BIGBEN INTERACTIVE</lei:TransliteratedOtherEntityName>
+    </lei:TransliteratedOtherEntityNames>
+    <lei:LegalAddress xml:lang="fr">
+      <lei:FirstAddressLine>396 RUE DE LA VOYETTE</lei:FirstAddressLine>
+      <lei:AdditionalAddressLine>396-466-CRT 2</lei:AdditionalAddressLine>
+      <lei:City>FRETIN</lei:City>
+      <lei:Country>FR</lei:Country>
+      <lei:PostalCode>59273</lei:PostalCode>
+    </lei:LegalAddress>
+    <lei:HeadquartersAddress xml:lang="fr">
+      <lei:FirstAddressLine>396 RUE DE LA VOYETTE</lei:FirstAddressLine>
+      <lei:AdditionalAddressLine>396-466-CRT 2</lei:AdditionalAddressLine>
+      <lei:City>FRETIN</lei:City>
+      <lei:Country>FR</lei:Country>
+      <lei:PostalCode>59273</lei:PostalCode>
     </lei:HeadquartersAddress>
     <lei:RegistrationAuthority>
       <lei:RegistrationAuthorityID>RA000189</lei:RegistrationAuthorityID>
-      <lei:RegistrationAuthorityEntityID>425118767</lei:RegistrationAuthorityEntityID>
+      <lei:RegistrationAuthorityEntityID>320992977</lei:RegistrationAuthorityEntityID>
+    </lei:RegistrationAuthority>
+    <lei:LegalJurisdiction>FR</lei:LegalJurisdiction>
+    <lei:EntityCategory>GENERAL</lei:EntityCategory>
+    <lei:LegalForm>
+      <lei:EntityLegalFormCode>K65D</lei:EntityLegalFormCode>
+    </lei:LegalForm>
+    <lei:EntityStatus>ACTIVE</lei:EntityStatus>
+    <lei:EntityCreationDate>1981-02-05T00:00:00.000+01:00</lei:EntityCreationDate>
+    <lei:LegalEntityEvents>
+      <lei:LegalEntityEvent group_type="STANDALONE" event_status="COMPLETED">
+        <lei:LegalEntityEventType>CHANGE_HQ_ADDRESS</lei:LegalEntityEventType>
+        <lei:LegalEntityEventEffectiveDate>2022-05-24T00:00:00.000+02:00</lei:LegalEntityEventEffectiveDate>
+        <lei:LegalEntityEventRecordedDate>2022-05-24T00:00:00.000+02:00</lei:LegalEntityEventRecordedDate>
+        <lei:ValidationDocuments>REGULATORY_FILING</lei:ValidationDocuments>
+      </lei:LegalEntityEvent>
+    </lei:LegalEntityEvents>
+  </lei:Entity>
+  <lei:Registration>
+    <lei:InitialRegistrationDate>2014-04-22T00:00:00.000+02:00</lei:InitialRegistrationDate>
+    <lei:LastUpdateDate>2022-05-24T23:30:28.245+02:00</lei:LastUpdateDate>
+    <lei:RegistrationStatus>ISSUED</lei:RegistrationStatus>
+    <lei:NextRenewalDate>2023-04-28T00:06:53.000+02:00</lei:NextRenewalDate>
+    <lei:ManagingLOU>969500Q2MA9VBQ8BG884</lei:ManagingLOU>
+    <lei:ValidationSources>FULLY_CORROBORATED</lei:ValidationSources>
+    <lei:ValidationAuthority>
+      <lei:ValidationAuthorityID>RA000189</lei:ValidationAuthorityID>
+      <lei:ValidationAuthorityEntityID>320992977</lei:ValidationAuthorityEntityID>
+    </lei:ValidationAuthority>
+  </lei:Registration>
+  <lei:Extension>
+    <leifr:SIREN xmlns:leifr="http://xml.lei-france.fr/schema/2014/">320992977</leifr:SIREN>
+    <leifr:EconomicActivity xmlns:leifr="http://xml.lei-france.fr/schema/2014/">
+      <leifr:NACEClassCode>46.51</leifr:NACEClassCode>
+      <leifr:SousClasseNAF>46.51Z</leifr:SousClasseNAF>
+    </leifr:EconomicActivity>
+    <leifr:LegalFormCodification xmlns:leifr="http://xml.lei-france.fr/schema/2014/" uri="http://id.insee.fr/codes/cj/n2">55</leifr:LegalFormCodification>
+  </lei:Extension>
+</lei:LEIRecord>
+<lei:LEIRecord xmlns:lei="http://www.gleif.org/data/schema/leidata/2016">
+  <lei:LEI>969500HGDY321R5PAJ83</lei:LEI>
+  <lei:Entity>
+    <lei:LegalName xml:lang="fr">AMUNDI PRIVATE EQUITY FUNDS</lei:LegalName>
+    <lei:TransliteratedOtherEntityNames>
+      <lei:TransliteratedOtherEntityName type="AUTO_ASCII_TRANSLITERATED_LEGAL_NAME" xml:lang="fr">AMUNDI PRIVATE EQUITY FUNDS</lei:TransliteratedOtherEntityName>
+    </lei:TransliteratedOtherEntityNames>
+    <lei:LegalAddress xml:lang="fr">
+      <lei:FirstAddressLine>91 BD PASTEUR</lei:FirstAddressLine>
+      <lei:AdditionalAddressLine>91-93</lei:AdditionalAddressLine>
+      <lei:City>PARIS 15</lei:City>
+      <lei:Country>FR</lei:Country>
+      <lei:PostalCode>75015</lei:PostalCode>
+    </lei:LegalAddress>
+    <lei:HeadquartersAddress xml:lang="fr">
+      <lei:FirstAddressLine>91 BD PASTEUR</lei:FirstAddressLine>
+      <lei:AdditionalAddressLine>91-93</lei:AdditionalAddressLine>
+      <lei:City>PARIS 15</lei:City>
+      <lei:Country>FR</lei:Country>
+      <lei:PostalCode>75015</lei:PostalCode>
+    </lei:HeadquartersAddress>
+    <lei:RegistrationAuthority>
+      <lei:RegistrationAuthorityID>RA000189</lei:RegistrationAuthorityID>
+      <lei:RegistrationAuthorityEntityID>422333575</lei:RegistrationAuthorityEntityID>
     </lei:RegistrationAuthority>
     <lei:LegalJurisdiction>FR</lei:LegalJurisdiction>
     <lei:EntityCategory>GENERAL</lei:EntityCategory>
@@ -722,162 +1380,836 @@
       <lei:EntityLegalFormCode>6CHY</lei:EntityLegalFormCode>
     </lei:LegalForm>
     <lei:EntityStatus>ACTIVE</lei:EntityStatus>
-    <lei:EntityCreationDate>1999-11-15T00:00:00.000+01:00</lei:EntityCreationDate>
+    <lei:EntityCreationDate>1999-03-17T00:00:00.000+01:00</lei:EntityCreationDate>
+    <lei:LegalEntityEvents>
+      <lei:LegalEntityEvent group_type="STANDALONE" event_status="COMPLETED">
+        <lei:LegalEntityEventType>CHANGE_HQ_ADDRESS</lei:LegalEntityEventType>
+        <lei:LegalEntityEventEffectiveDate>2022-05-24T00:00:00.000+02:00</lei:LegalEntityEventEffectiveDate>
+        <lei:LegalEntityEventRecordedDate>2022-05-24T00:00:00.000+02:00</lei:LegalEntityEventRecordedDate>
+        <lei:ValidationDocuments>REGULATORY_FILING</lei:ValidationDocuments>
+      </lei:LegalEntityEvent>
+    </lei:LegalEntityEvents>
   </lei:Entity>
   <lei:Registration>
-    <lei:InitialRegistrationDate>2020-03-12T21:46:25.250+01:00</lei:InitialRegistrationDate>
-    <lei:LastUpdateDate>2022-03-15T17:53:02.520+01:00</lei:LastUpdateDate>
+    <lei:InitialRegistrationDate>2014-10-13T00:00:00.000+02:00</lei:InitialRegistrationDate>
+    <lei:LastUpdateDate>2022-05-24T23:30:28.289+02:00</lei:LastUpdateDate>
     <lei:RegistrationStatus>ISSUED</lei:RegistrationStatus>
-    <lei:NextRenewalDate>2023-03-03T09:28:13.000+01:00</lei:NextRenewalDate>
+    <lei:NextRenewalDate>2022-10-13T00:00:00.000+02:00</lei:NextRenewalDate>
     <lei:ManagingLOU>969500Q2MA9VBQ8BG884</lei:ManagingLOU>
     <lei:ValidationSources>FULLY_CORROBORATED</lei:ValidationSources>
     <lei:ValidationAuthority>
       <lei:ValidationAuthorityID>RA000189</lei:ValidationAuthorityID>
-      <lei:ValidationAuthorityEntityID>425118767</lei:ValidationAuthorityEntityID>
+      <lei:ValidationAuthorityEntityID>422333575</lei:ValidationAuthorityEntityID>
     </lei:ValidationAuthority>
   </lei:Registration>
   <lei:Extension>
-    <leifr:SIREN xmlns:leifr="http://xml.lei-france.fr/schema/2014/">425118767</leifr:SIREN>
+    <leifr:SIREN xmlns:leifr="http://xml.lei-france.fr/schema/2014/">422333575</leifr:SIREN>
     <leifr:EconomicActivity xmlns:leifr="http://xml.lei-france.fr/schema/2014/">
-      <leifr:NACEClassCode>47.11</leifr:NACEClassCode>
-      <leifr:SousClasseNAF>47.11D</leifr:SousClasseNAF>
+      <leifr:NACEClassCode>66.30</leifr:NACEClassCode>
+      <leifr:SousClasseNAF>66.30Z</leifr:SousClasseNAF>
     </leifr:EconomicActivity>
     <leifr:LegalFormCodification xmlns:leifr="http://xml.lei-france.fr/schema/2014/" uri="http://id.insee.fr/codes/cj/n2">57</leifr:LegalFormCodification>
   </lei:Extension>
 </lei:LEIRecord>
 <lei:LEIRecord xmlns:lei="http://www.gleif.org/data/schema/leidata/2016">
-  <lei:LEI>549300TX0VWV06KU5852</lei:LEI>
+  <lei:LEI>969500HZ2QR8PMU1BS47</lei:LEI>
   <lei:Entity>
-    <lei:LegalName xml:lang="en">ANAHEIM CORPORATE OFFICE PLAZA LLC</lei:LegalName>
+    <lei:LegalName xml:lang="fr">PME FRANCE INVESTISSEMENT</lei:LegalName>
+    <lei:TransliteratedOtherEntityNames>
+      <lei:TransliteratedOtherEntityName type="AUTO_ASCII_TRANSLITERATED_LEGAL_NAME" xml:lang="fr">PME FRANCE INVESTISSEMENT</lei:TransliteratedOtherEntityName>
+    </lei:TransliteratedOtherEntityNames>
+    <lei:LegalAddress xml:lang="fr">
+      <lei:FirstAddressLine>91 BD PASTEUR</lei:FirstAddressLine>
+      <lei:AdditionalAddressLine>91-93</lei:AdditionalAddressLine>
+      <lei:City>PARIS 15</lei:City>
+      <lei:Country>FR</lei:Country>
+      <lei:PostalCode>75015</lei:PostalCode>
+    </lei:LegalAddress>
+    <lei:HeadquartersAddress xml:lang="fr">
+      <lei:FirstAddressLine>C/O AMUNDI PRIVATE EQUITY FUNDS</lei:FirstAddressLine>
+      <lei:AdditionalAddressLine>91 BD PASTEUR</lei:AdditionalAddressLine>
+      <lei:AdditionalAddressLine>91-93</lei:AdditionalAddressLine>
+      <lei:City>PARIS 15</lei:City>
+      <lei:Country>FR</lei:Country>
+      <lei:PostalCode>75015</lei:PostalCode>
+    </lei:HeadquartersAddress>
+    <lei:RegistrationAuthority>
+      <lei:RegistrationAuthorityID>RA000190</lei:RegistrationAuthorityID>
+      <lei:RegistrationAuthorityEntityID>17847</lei:RegistrationAuthorityEntityID>
+    </lei:RegistrationAuthority>
+    <lei:LegalJurisdiction>FR</lei:LegalJurisdiction>
+    <lei:EntityCategory>FUND</lei:EntityCategory>
+    <lei:LegalForm>
+      <lei:EntityLegalFormCode>MQU9</lei:EntityLegalFormCode>
+    </lei:LegalForm>
+    <lei:EntityStatus>ACTIVE</lei:EntityStatus>
+    <lei:EntityCreationDate>2016-11-10T00:00:00.000+01:00</lei:EntityCreationDate>
+  </lei:Entity>
+  <lei:Registration>
+    <lei:InitialRegistrationDate>2014-08-18T00:00:00.000+02:00</lei:InitialRegistrationDate>
+    <lei:LastUpdateDate>2022-04-03T00:00:00.000+02:00</lei:LastUpdateDate>
+    <lei:RegistrationStatus>LAPSED</lei:RegistrationStatus>
+    <lei:NextRenewalDate>2016-08-18T00:00:00.000+02:00</lei:NextRenewalDate>
+    <lei:ManagingLOU>969500Q2MA9VBQ8BG884</lei:ManagingLOU>
+    <lei:ValidationSources>FULLY_CORROBORATED</lei:ValidationSources>
+    <lei:ValidationAuthority>
+      <lei:ValidationAuthorityID>RA000190</lei:ValidationAuthorityID>
+      <lei:ValidationAuthorityEntityID>17847</lei:ValidationAuthorityEntityID>
+    </lei:ValidationAuthority>
+  </lei:Registration>
+  <lei:Extension>
+    <leifr:FundManagerBusinessRegisterID xmlns:leifr="http://xml.lei-france.fr/schema/2014/">422333575</leifr:FundManagerBusinessRegisterID>
+  </lei:Extension>
+</lei:LEIRecord>
+<lei:LEIRecord xmlns:lei="http://www.gleif.org/data/schema/leidata/2016">
+  <lei:LEI>969500WCY7P9HOJNP063</lei:LEI>
+  <lei:Entity>
+    <lei:LegalName xml:lang="fr">NATIXIS INVESTMENT MANAGERS INTERNATIONAL</lei:LegalName>
+    <lei:TransliteratedOtherEntityNames>
+      <lei:TransliteratedOtherEntityName type="AUTO_ASCII_TRANSLITERATED_LEGAL_NAME" xml:lang="fr">NATIXIS INVESTMENT MANAGERS INTERNATIONAL</lei:TransliteratedOtherEntityName>
+    </lei:TransliteratedOtherEntityNames>
+    <lei:LegalAddress xml:lang="fr">
+      <lei:FirstAddressLine>43 AV PIERRE MENDES FRANCE</lei:FirstAddressLine>
+      <lei:City>PARIS 13</lei:City>
+      <lei:Country>FR</lei:Country>
+      <lei:PostalCode>75013</lei:PostalCode>
+    </lei:LegalAddress>
+    <lei:HeadquartersAddress xml:lang="fr">
+      <lei:FirstAddressLine>43 AV PIERRE MENDES FRANCE</lei:FirstAddressLine>
+      <lei:City>PARIS 13</lei:City>
+      <lei:Country>FR</lei:Country>
+      <lei:PostalCode>75013</lei:PostalCode>
+    </lei:HeadquartersAddress>
+    <lei:RegistrationAuthority>
+      <lei:RegistrationAuthorityID>RA000189</lei:RegistrationAuthorityID>
+      <lei:RegistrationAuthorityEntityID>329450738</lei:RegistrationAuthorityEntityID>
+    </lei:RegistrationAuthority>
+    <lei:LegalJurisdiction>FR</lei:LegalJurisdiction>
+    <lei:EntityCategory>GENERAL</lei:EntityCategory>
+    <lei:LegalForm>
+      <lei:EntityLegalFormCode>K65D</lei:EntityLegalFormCode>
+    </lei:LegalForm>
+    <lei:EntityStatus>ACTIVE</lei:EntityStatus>
+    <lei:EntityCreationDate>1984-03-21T00:00:00.000+01:00</lei:EntityCreationDate>
+  </lei:Entity>
+  <lei:Registration>
+    <lei:InitialRegistrationDate>2013-12-04T00:00:00.000+01:00</lei:InitialRegistrationDate>
+    <lei:LastUpdateDate>2022-03-15T17:53:02.094+01:00</lei:LastUpdateDate>
+    <lei:RegistrationStatus>ISSUED</lei:RegistrationStatus>
+    <lei:NextRenewalDate>2022-12-09T11:16:44.000+01:00</lei:NextRenewalDate>
+    <lei:ManagingLOU>969500Q2MA9VBQ8BG884</lei:ManagingLOU>
+    <lei:ValidationSources>FULLY_CORROBORATED</lei:ValidationSources>
+    <lei:ValidationAuthority>
+      <lei:ValidationAuthorityID>RA000189</lei:ValidationAuthorityID>
+      <lei:ValidationAuthorityEntityID>329450738</lei:ValidationAuthorityEntityID>
+    </lei:ValidationAuthority>
+  </lei:Registration>
+  <lei:Extension>
+    <leifr:SIREN xmlns:leifr="http://xml.lei-france.fr/schema/2014/">329450738</leifr:SIREN>
+    <leifr:EconomicActivity xmlns:leifr="http://xml.lei-france.fr/schema/2014/">
+      <leifr:NACEClassCode>66.30</leifr:NACEClassCode>
+      <leifr:SousClasseNAF>66.30Z</leifr:SousClasseNAF>
+    </leifr:EconomicActivity>
+    <leifr:LegalFormCodification xmlns:leifr="http://xml.lei-france.fr/schema/2014/" uri="http://id.insee.fr/codes/cj/n2">55</leifr:LegalFormCodification>
+  </lei:Extension>
+</lei:LEIRecord>
+<lei:LEIRecord xmlns:lei="http://www.gleif.org/data/schema/leidata/2016">
+  <lei:LEI>969500XYWJCTVQN9TP25</lei:LEI>
+  <lei:Entity>
+    <lei:LegalName xml:lang="fr">BIGBEN CONNECTED</lei:LegalName>
+    <lei:TransliteratedOtherEntityNames>
+      <lei:TransliteratedOtherEntityName type="AUTO_ASCII_TRANSLITERATED_LEGAL_NAME" xml:lang="fr">BIGBEN CONNECTED</lei:TransliteratedOtherEntityName>
+    </lei:TransliteratedOtherEntityNames>
+    <lei:LegalAddress xml:lang="fr">
+      <lei:FirstAddressLine>396 RUE DE LA VOYETTE</lei:FirstAddressLine>
+      <lei:AdditionalAddressLine>N 396 - 466 CRT 2</lei:AdditionalAddressLine>
+      <lei:City>FRETIN</lei:City>
+      <lei:Country>FR</lei:Country>
+      <lei:PostalCode>59273</lei:PostalCode>
+    </lei:LegalAddress>
+    <lei:HeadquartersAddress xml:lang="fr">
+      <lei:FirstAddressLine>396 RUE DE LA VOYETTE</lei:FirstAddressLine>
+      <lei:AdditionalAddressLine>N 396 - 466 CRT 2</lei:AdditionalAddressLine>
+      <lei:City>FRETIN</lei:City>
+      <lei:Country>FR</lei:Country>
+      <lei:PostalCode>59273</lei:PostalCode>
+    </lei:HeadquartersAddress>
+    <lei:RegistrationAuthority>
+      <lei:RegistrationAuthorityID>RA000189</lei:RegistrationAuthorityID>
+      <lei:RegistrationAuthorityEntityID>403361439</lei:RegistrationAuthorityEntityID>
+    </lei:RegistrationAuthority>
+    <lei:LegalJurisdiction>FR</lei:LegalJurisdiction>
+    <lei:EntityCategory>GENERAL</lei:EntityCategory>
+    <lei:LegalForm>
+      <lei:EntityLegalFormCode>6CHY</lei:EntityLegalFormCode>
+    </lei:LegalForm>
+    <lei:EntityStatus>ACTIVE</lei:EntityStatus>
+    <lei:EntityCreationDate>1996-01-02T00:00:00.000+01:00</lei:EntityCreationDate>
+    <lei:LegalEntityEvents>
+      <lei:LegalEntityEvent group_type="STANDALONE" event_status="COMPLETED">
+        <lei:LegalEntityEventType>CHANGE_HQ_ADDRESS</lei:LegalEntityEventType>
+        <lei:LegalEntityEventEffectiveDate>2022-05-24T00:00:00.000+02:00</lei:LegalEntityEventEffectiveDate>
+        <lei:LegalEntityEventRecordedDate>2022-05-24T00:00:00.000+02:00</lei:LegalEntityEventRecordedDate>
+        <lei:ValidationDocuments>REGULATORY_FILING</lei:ValidationDocuments>
+      </lei:LegalEntityEvent>
+    </lei:LegalEntityEvents>
+  </lei:Entity>
+  <lei:Registration>
+    <lei:InitialRegistrationDate>2014-04-22T00:00:00.000+02:00</lei:InitialRegistrationDate>
+    <lei:LastUpdateDate>2022-05-24T23:36:21.958+02:00</lei:LastUpdateDate>
+    <lei:RegistrationStatus>ISSUED</lei:RegistrationStatus>
+    <lei:NextRenewalDate>2023-04-28T00:06:53.000+02:00</lei:NextRenewalDate>
+    <lei:ManagingLOU>969500Q2MA9VBQ8BG884</lei:ManagingLOU>
+    <lei:ValidationSources>FULLY_CORROBORATED</lei:ValidationSources>
+    <lei:ValidationAuthority>
+      <lei:ValidationAuthorityID>RA000189</lei:ValidationAuthorityID>
+      <lei:ValidationAuthorityEntityID>403361439</lei:ValidationAuthorityEntityID>
+    </lei:ValidationAuthority>
+  </lei:Registration>
+  <lei:Extension>
+    <leifr:SIREN xmlns:leifr="http://xml.lei-france.fr/schema/2014/">403361439</leifr:SIREN>
+    <leifr:EconomicActivity xmlns:leifr="http://xml.lei-france.fr/schema/2014/">
+      <leifr:NACEClassCode>46.52</leifr:NACEClassCode>
+      <leifr:SousClasseNAF>46.52Z</leifr:SousClasseNAF>
+    </leifr:EconomicActivity>
+    <leifr:LegalFormCodification xmlns:leifr="http://xml.lei-france.fr/schema/2014/" uri="http://id.insee.fr/codes/cj/n2">57</leifr:LegalFormCodification>
+  </lei:Extension>
+</lei:LEIRecord>
+<lei:LEIRecord xmlns:lei="http://www.gleif.org/data/schema/leidata/2016">
+  <lei:LEI>549300RK1FB0VMTPD087</lei:LEI>
+  <lei:Entity>
+    <lei:LegalName xml:lang="en">BLACKROCK INSTITUTIONAL TRUST COMPANY, NATIONAL ASSOCIATION</lei:LegalName>
+    <lei:OtherEntityNames>
+      <lei:OtherEntityName xml:lang="en" type="PREVIOUS_LEGAL_NAME">BARCLAYS GLOBAL INVESTORS, NATIONAL ASSOCIATION</lei:OtherEntityName>
+    </lei:OtherEntityNames>
     <lei:LegalAddress xml:lang="en">
-      <lei:FirstAddressLine>C/O THE CORPORATION TRUST COMPANY</lei:FirstAddressLine>
-      <lei:AdditionalAddressLine>CORPORATION TRUST CENTER 1209 ORANGE ST</lei:AdditionalAddressLine>
+      <lei:FirstAddressLine>400 HOWARD STREET</lei:FirstAddressLine>
+      <lei:City>SAN FRANCISCO</lei:City>
+      <lei:Region>US-CA</lei:Region>
+      <lei:Country>US</lei:Country>
+      <lei:PostalCode>94105-2618</lei:PostalCode>
+    </lei:LegalAddress>
+    <lei:HeadquartersAddress xml:lang="en">
+      <lei:FirstAddressLine>400 Howard Street</lei:FirstAddressLine>
+      <lei:City>San Francisco</lei:City>
+      <lei:Region>US-CA</lei:Region>
+      <lei:Country>US</lei:Country>
+      <lei:PostalCode>94105</lei:PostalCode>
+    </lei:HeadquartersAddress>
+    <lei:RegistrationAuthority>
+      <lei:RegistrationAuthorityID>RA000665</lei:RegistrationAuthorityID>
+      <lei:RegistrationAuthorityEntityID>0279188</lei:RegistrationAuthorityEntityID>
+    </lei:RegistrationAuthority>
+    <lei:LegalJurisdiction>US-CA</lei:LegalJurisdiction>
+    <lei:EntityCategory>FUND</lei:EntityCategory>
+    <lei:LegalForm>
+      <lei:EntityLegalFormCode>8888</lei:EntityLegalFormCode>
+      <lei:OtherLegalForm>FUND</lei:OtherLegalForm>
+    </lei:LegalForm>
+    <lei:EntityStatus>ACTIVE</lei:EntityStatus>
+  </lei:Entity>
+  <lei:Registration>
+    <lei:InitialRegistrationDate>2014-02-12T12:11:00.000Z</lei:InitialRegistrationDate>
+    <lei:LastUpdateDate>2022-02-16T00:30:00.000Z</lei:LastUpdateDate>
+    <lei:RegistrationStatus>ISSUED</lei:RegistrationStatus>
+    <lei:NextRenewalDate>2023-02-15T15:43:00.000Z</lei:NextRenewalDate>
+    <lei:ManagingLOU>EVK05KS7XY1DEII3R011</lei:ManagingLOU>
+    <lei:ValidationSources>FULLY_CORROBORATED</lei:ValidationSources>
+    <lei:ValidationAuthority>
+      <lei:ValidationAuthorityID>RA000665</lei:ValidationAuthorityID>
+      <lei:ValidationAuthorityEntityID>0279188</lei:ValidationAuthorityEntityID>
+    </lei:ValidationAuthority>
+  </lei:Registration>
+</lei:LEIRecord>
+<lei:LEIRecord xmlns:lei="http://www.gleif.org/data/schema/leidata/2016">
+  <lei:LEI>AOE3GPC0XP7JH5DJTH02</lei:LEI>
+  <lei:Entity>
+    <lei:LegalName xml:lang="lb">QEP GLOBAL QUALITY</lei:LegalName>
+    <lei:OtherEntityNames>
+      <lei:OtherEntityName xml:lang="lb" type="PREVIOUS_LEGAL_NAME">SCHRODER INTERNATIONAL SELECTION FUND - QEP GLOBAL QUALITY</lei:OtherEntityName>
+    </lei:OtherEntityNames>
+    <lei:LegalAddress xml:lang="lb">
+      <lei:FirstAddressLine>5, Höhenhof</lei:FirstAddressLine>
+      <lei:City>Senningerberg</lei:City>
+      <lei:Region>LU-LU</lei:Region>
+      <lei:Country>LU</lei:Country>
+      <lei:PostalCode>L-1736</lei:PostalCode>
+    </lei:LegalAddress>
+    <lei:HeadquartersAddress xml:lang="lb">
+      <lei:FirstAddressLine>C/O SCHRODER INVESTMENT MANAGEMENT (EUROPE) S.A.</lei:FirstAddressLine>
+      <lei:AdditionalAddressLine>5, Höhenhof</lei:AdditionalAddressLine>
+      <lei:City>Senningerberg</lei:City>
+      <lei:Region>LU-LU</lei:Region>
+      <lei:Country>LU</lei:Country>
+      <lei:PostalCode>L-1736</lei:PostalCode>
+    </lei:HeadquartersAddress>
+    <lei:RegistrationAuthority>
+      <lei:RegistrationAuthorityID>RA000433</lei:RegistrationAuthorityID>
+      <lei:RegistrationAuthorityEntityID>O00000018_00000126</lei:RegistrationAuthorityEntityID>
+    </lei:RegistrationAuthority>
+    <lei:LegalJurisdiction>LU</lei:LegalJurisdiction>
+    <lei:EntityCategory>FUND</lei:EntityCategory>
+    <lei:LegalForm>
+      <lei:EntityLegalFormCode>8888</lei:EntityLegalFormCode>
+      <lei:OtherLegalForm>FUND</lei:OtherLegalForm>
+    </lei:LegalForm>
+    <lei:EntityStatus>ACTIVE</lei:EntityStatus>
+    <lei:EntityCreationDate>2007-10-17T00:00:00Z</lei:EntityCreationDate>
+  </lei:Entity>
+  <lei:Registration>
+    <lei:InitialRegistrationDate>2012-11-22T12:32:00.000Z</lei:InitialRegistrationDate>
+    <lei:LastUpdateDate>2022-04-21T15:32:00.000Z</lei:LastUpdateDate>
+    <lei:RegistrationStatus>ISSUED</lei:RegistrationStatus>
+    <lei:NextRenewalDate>2023-03-29T18:00:00.000Z</lei:NextRenewalDate>
+    <lei:ManagingLOU>EVK05KS7XY1DEII3R011</lei:ManagingLOU>
+    <lei:ValidationSources>FULLY_CORROBORATED</lei:ValidationSources>
+    <lei:ValidationAuthority>
+      <lei:ValidationAuthorityID>RA000433</lei:ValidationAuthorityID>
+      <lei:ValidationAuthorityEntityID>O00000018_00000126</lei:ValidationAuthorityEntityID>
+    </lei:ValidationAuthority>
+  </lei:Registration>
+</lei:LEIRecord>
+<lei:LEIRecord xmlns:lei="http://www.gleif.org/data/schema/leidata/2016">
+  <lei:LEI>54930043KIWYCIQQQU26</lei:LEI>
+  <lei:Entity>
+    <lei:LegalName xml:lang="en">BLACKROCK LIFEPATH INDEX 2055 FUND G</lei:LegalName>
+    <lei:OtherEntityNames>
+      <lei:OtherEntityName xml:lang="en" type="PREVIOUS_LEGAL_NAME">LifePath® Index 2055 Fund G</lei:OtherEntityName>
+    </lei:OtherEntityNames>
+    <lei:LegalAddress xml:lang="en">
+      <lei:FirstAddressLine>C/O BLACKROCK INSTITUTIONAL TRUST COMPANY, NATIONAL ASSOCIATION</lei:FirstAddressLine>
+      <lei:AdditionalAddressLine>400 HOWARD STREET</lei:AdditionalAddressLine>
+      <lei:City>SAN FRANCISCO</lei:City>
+      <lei:Region>US-CA</lei:Region>
+      <lei:Country>US</lei:Country>
+      <lei:PostalCode>94105-2618</lei:PostalCode>
+    </lei:LegalAddress>
+    <lei:HeadquartersAddress xml:lang="en">
+      <lei:FirstAddressLine>BlackRock Institutional Trust Company, N.A.</lei:FirstAddressLine>
+      <lei:AdditionalAddressLine>400 Howard Street</lei:AdditionalAddressLine>
+      <lei:City>San Francisco</lei:City>
+      <lei:Region>US-CA</lei:Region>
+      <lei:Country>US</lei:Country>
+      <lei:PostalCode>94105</lei:PostalCode>
+    </lei:HeadquartersAddress>
+    <lei:RegistrationAuthority>
+      <lei:RegistrationAuthorityID>RA999999</lei:RegistrationAuthorityID>
+    </lei:RegistrationAuthority>
+    <lei:LegalJurisdiction>US-CA</lei:LegalJurisdiction>
+    <lei:EntityCategory>FUND</lei:EntityCategory>
+    <lei:LegalForm>
+      <lei:EntityLegalFormCode>8888</lei:EntityLegalFormCode>
+      <lei:OtherLegalForm>FUND</lei:OtherLegalForm>
+    </lei:LegalForm>
+    <lei:EntityStatus>ACTIVE</lei:EntityStatus>
+    <lei:EntityCreationDate>2017-11-06T00:00:00Z</lei:EntityCreationDate>
+  </lei:Entity>
+  <lei:Registration>
+    <lei:InitialRegistrationDate>2017-11-06T21:52:00.000Z</lei:InitialRegistrationDate>
+    <lei:LastUpdateDate>2022-06-16T15:31:00.000Z</lei:LastUpdateDate>
+    <lei:RegistrationStatus>ISSUED</lei:RegistrationStatus>
+    <lei:NextRenewalDate>2023-02-15T15:30:00.000Z</lei:NextRenewalDate>
+    <lei:ManagingLOU>EVK05KS7XY1DEII3R011</lei:ManagingLOU>
+    <lei:ValidationSources>ENTITY_SUPPLIED_ONLY</lei:ValidationSources>
+    <lei:ValidationAuthority>
+      <lei:ValidationAuthorityID>RA999999</lei:ValidationAuthorityID>
+    </lei:ValidationAuthority>
+  </lei:Registration>
+</lei:LEIRecord>
+<lei:LEIRecord xmlns:lei="http://www.gleif.org/data/schema/leidata/2016">
+  <lei:LEI>5493007NAZR5B180PW45</lei:LEI>
+  <lei:Entity>
+    <lei:LegalName xml:lang="en">The Trustee for National RMBS Trust 2012-1</lei:LegalName>
+    <lei:OtherEntityNames>
+      <lei:OtherEntityName xml:lang="en" type="PREVIOUS_LEGAL_NAME">Perpetual Trustees Victoria Ltd. ATF The National RMBS Trust 2012-1</lei:OtherEntityName>
+    </lei:OtherEntityNames>
+    <lei:LegalAddress xml:lang="en">
+      <lei:FirstAddressLine>Level 18</lei:FirstAddressLine>
+      <lei:AdditionalAddressLine>Angel Place</lei:AdditionalAddressLine>
+      <lei:AdditionalAddressLine>123 Pitt Street</lei:AdditionalAddressLine>
+      <lei:City>Sydney</lei:City>
+      <lei:Region>AU-NSW</lei:Region>
+      <lei:Country>AU</lei:Country>
+      <lei:PostalCode>2000</lei:PostalCode>
+    </lei:LegalAddress>
+    <lei:HeadquartersAddress xml:lang="en">
+      <lei:FirstAddressLine>Level 18</lei:FirstAddressLine>
+      <lei:AdditionalAddressLine>Angel Place</lei:AdditionalAddressLine>
+      <lei:AdditionalAddressLine>123 Pitt Street</lei:AdditionalAddressLine>
+      <lei:City>Sydney</lei:City>
+      <lei:Region>AU-NSW</lei:Region>
+      <lei:Country>AU</lei:Country>
+      <lei:PostalCode>2000</lei:PostalCode>
+    </lei:HeadquartersAddress>
+    <lei:RegistrationAuthority>
+      <lei:RegistrationAuthorityID>RA000013</lei:RegistrationAuthorityID>
+      <lei:RegistrationAuthorityEntityID>66 990 397 538</lei:RegistrationAuthorityEntityID>
+    </lei:RegistrationAuthority>
+    <lei:LegalJurisdiction>AU</lei:LegalJurisdiction>
+    <lei:EntityCategory>FUND</lei:EntityCategory>
+    <lei:LegalForm>
+      <lei:EntityLegalFormCode>7TPC</lei:EntityLegalFormCode>
+    </lei:LegalForm>
+    <lei:EntityStatus>ACTIVE</lei:EntityStatus>
+  </lei:Entity>
+  <lei:Registration>
+    <lei:InitialRegistrationDate>2014-11-19T01:59:00.000Z</lei:InitialRegistrationDate>
+    <lei:LastUpdateDate>2021-08-10T21:31:00.000Z</lei:LastUpdateDate>
+    <lei:RegistrationStatus>ISSUED</lei:RegistrationStatus>
+    <lei:NextRenewalDate>2022-08-08T11:09:00.000Z</lei:NextRenewalDate>
+    <lei:ManagingLOU>EVK05KS7XY1DEII3R011</lei:ManagingLOU>
+    <lei:ValidationSources>PARTIALLY_CORROBORATED</lei:ValidationSources>
+    <lei:ValidationAuthority>
+      <lei:ValidationAuthorityID>RA000013</lei:ValidationAuthorityID>
+      <lei:ValidationAuthorityEntityID>66 990 397 538</lei:ValidationAuthorityEntityID>
+    </lei:ValidationAuthority>
+  </lei:Registration>
+</lei:LEIRecord>
+<lei:LEIRecord xmlns:lei="http://www.gleif.org/data/schema/leidata/2016">
+  <lei:LEI>5493003YNCLY6EHULN78</lei:LEI>
+  <lei:Entity>
+    <lei:LegalName xml:lang="sv">Swedia Capital AB</lei:LegalName>
+    <lei:LegalAddress xml:lang="sv">
+      <lei:FirstAddressLine>Box 385</lei:FirstAddressLine>
+      <lei:City>Stockholm</lei:City>
+      <lei:Region>SE-AB</lei:Region>
+      <lei:Country>SE</lei:Country>
+      <lei:PostalCode>111 73</lei:PostalCode>
+    </lei:LegalAddress>
+    <lei:HeadquartersAddress xml:lang="sv">
+      <lei:FirstAddressLine>Box 385</lei:FirstAddressLine>
+      <lei:City>Stockholm</lei:City>
+      <lei:Region>SE-AB</lei:Region>
+      <lei:Country>SE</lei:Country>
+      <lei:PostalCode>111 73</lei:PostalCode>
+    </lei:HeadquartersAddress>
+    <lei:RegistrationAuthority>
+      <lei:RegistrationAuthorityID>RA000544</lei:RegistrationAuthorityID>
+      <lei:RegistrationAuthorityEntityID>5591681092</lei:RegistrationAuthorityEntityID>
+    </lei:RegistrationAuthority>
+    <lei:LegalJurisdiction>SE</lei:LegalJurisdiction>
+    <lei:EntityCategory>GENERAL</lei:EntityCategory>
+    <lei:LegalForm>
+      <lei:EntityLegalFormCode>XJHM</lei:EntityLegalFormCode>
+    </lei:LegalForm>
+    <lei:EntityStatus>ACTIVE</lei:EntityStatus>
+  </lei:Entity>
+  <lei:Registration>
+    <lei:InitialRegistrationDate>2019-03-01T15:38:00.000Z</lei:InitialRegistrationDate>
+    <lei:LastUpdateDate>2022-02-15T10:16:00.000Z</lei:LastUpdateDate>
+    <lei:RegistrationStatus>ISSUED</lei:RegistrationStatus>
+    <lei:NextRenewalDate>2023-02-15T08:00:00.000Z</lei:NextRenewalDate>
+    <lei:ManagingLOU>EVK05KS7XY1DEII3R011</lei:ManagingLOU>
+    <lei:ValidationSources>FULLY_CORROBORATED</lei:ValidationSources>
+    <lei:ValidationAuthority>
+      <lei:ValidationAuthorityID>RA000544</lei:ValidationAuthorityID>
+      <lei:ValidationAuthorityEntityID>5591681092</lei:ValidationAuthorityEntityID>
+    </lei:ValidationAuthority>
+  </lei:Registration>
+</lei:LEIRecord>
+<lei:LEIRecord xmlns:lei="http://www.gleif.org/data/schema/leidata/2016">
+  <lei:LEI>549300ZP6EX8Y52LQU69</lei:LEI>
+  <lei:Entity>
+    <lei:LegalName xml:lang="sv">Swedia Invest AB</lei:LegalName>
+    <lei:LegalAddress xml:lang="sv">
+      <lei:FirstAddressLine>Box 385</lei:FirstAddressLine>
+      <lei:City>Stockholm</lei:City>
+      <lei:Region>SE-AB</lei:Region>
+      <lei:Country>SE</lei:Country>
+      <lei:PostalCode>111 73</lei:PostalCode>
+    </lei:LegalAddress>
+    <lei:HeadquartersAddress xml:lang="sv">
+      <lei:FirstAddressLine>Box 385</lei:FirstAddressLine>
+      <lei:City>Stockholm</lei:City>
+      <lei:Region>SE-AB</lei:Region>
+      <lei:Country>SE</lei:Country>
+      <lei:PostalCode>111 73</lei:PostalCode>
+    </lei:HeadquartersAddress>
+    <lei:RegistrationAuthority>
+      <lei:RegistrationAuthorityID>RA000544</lei:RegistrationAuthorityID>
+      <lei:RegistrationAuthorityEntityID>5563687184</lei:RegistrationAuthorityEntityID>
+    </lei:RegistrationAuthority>
+    <lei:LegalJurisdiction>SE</lei:LegalJurisdiction>
+    <lei:EntityCategory>GENERAL</lei:EntityCategory>
+    <lei:LegalForm>
+      <lei:EntityLegalFormCode>XJHM</lei:EntityLegalFormCode>
+    </lei:LegalForm>
+    <lei:EntityStatus>ACTIVE</lei:EntityStatus>
+  </lei:Entity>
+  <lei:Registration>
+    <lei:InitialRegistrationDate>2014-02-01T20:11:00.000Z</lei:InitialRegistrationDate>
+    <lei:LastUpdateDate>2022-01-03T10:18:00.000Z</lei:LastUpdateDate>
+    <lei:RegistrationStatus>ISSUED</lei:RegistrationStatus>
+    <lei:NextRenewalDate>2023-01-03T08:41:00.000Z</lei:NextRenewalDate>
+    <lei:ManagingLOU>EVK05KS7XY1DEII3R011</lei:ManagingLOU>
+    <lei:ValidationSources>FULLY_CORROBORATED</lei:ValidationSources>
+    <lei:ValidationAuthority>
+      <lei:ValidationAuthorityID>RA000544</lei:ValidationAuthorityID>
+      <lei:ValidationAuthorityEntityID>5563687184</lei:ValidationAuthorityEntityID>
+    </lei:ValidationAuthority>
+  </lei:Registration>
+</lei:LEIRecord>
+<lei:LEIRecord xmlns:lei="http://www.gleif.org/data/schema/leidata/2016">
+  <lei:LEI>549300HP5KXSGMEBD023</lei:LEI>
+  <lei:Entity>
+    <lei:LegalName xml:lang="tl">Alaska Milk Corporation</lei:LegalName>
+    <lei:LegalAddress xml:lang="tl">
+      <lei:FirstAddressLine>6th Floor</lei:FirstAddressLine>
+      <lei:AdditionalAddressLine>JCorinthian Plaza Building</lei:AdditionalAddressLine>
+      <lei:AdditionalAddressLine>121 Paseo de Roxas</lei:AdditionalAddressLine>
+      <lei:City>Makati City</lei:City>
+      <lei:Country>PH</lei:Country>
+      <lei:PostalCode>1226</lei:PostalCode>
+    </lei:LegalAddress>
+    <lei:HeadquartersAddress xml:lang="tl">
+      <lei:FirstAddressLine>6th Floor</lei:FirstAddressLine>
+      <lei:AdditionalAddressLine>JCorinthian Plaza Building</lei:AdditionalAddressLine>
+      <lei:AdditionalAddressLine>121 Paseo de Roxas</lei:AdditionalAddressLine>
+      <lei:City>Makati City</lei:City>
+      <lei:Country>PH</lei:Country>
+      <lei:PostalCode>1226</lei:PostalCode>
+    </lei:HeadquartersAddress>
+    <lei:RegistrationAuthority>
+      <lei:RegistrationAuthorityID>RA999999</lei:RegistrationAuthorityID>
+    </lei:RegistrationAuthority>
+    <lei:LegalJurisdiction>PH</lei:LegalJurisdiction>
+    <lei:EntityCategory>GENERAL</lei:EntityCategory>
+    <lei:LegalForm>
+      <lei:EntityLegalFormCode>SPX9</lei:EntityLegalFormCode>
+    </lei:LegalForm>
+    <lei:EntityStatus>ACTIVE</lei:EntityStatus>
+    <lei:EntityCreationDate>2017-10-27T00:00:00Z</lei:EntityCreationDate>
+  </lei:Entity>
+  <lei:Registration>
+    <lei:InitialRegistrationDate>2017-10-27T22:22:00.000Z</lei:InitialRegistrationDate>
+    <lei:LastUpdateDate>2022-06-29T15:31:00.000Z</lei:LastUpdateDate>
+    <lei:RegistrationStatus>ISSUED</lei:RegistrationStatus>
+    <lei:NextRenewalDate>2023-05-27T08:36:00.000Z</lei:NextRenewalDate>
+    <lei:ManagingLOU>EVK05KS7XY1DEII3R011</lei:ManagingLOU>
+    <lei:ValidationSources>ENTITY_SUPPLIED_ONLY</lei:ValidationSources>
+    <lei:ValidationAuthority>
+      <lei:ValidationAuthorityID>RA999999</lei:ValidationAuthorityID>
+    </lei:ValidationAuthority>
+  </lei:Registration>
+</lei:LEIRecord>
+<lei:LEIRecord xmlns:lei="http://www.gleif.org/data/schema/leidata/2016">
+  <lei:LEI>5493009RF74B1JUPI347</lei:LEI>
+  <lei:Entity>
+    <lei:LegalName xml:lang="nl">ETS Antoine SA</lei:LegalName>
+    <lei:LegalAddress xml:lang="nl">
+      <lei:FirstAddressLine>Rue de la Bienvenue 7-9</lei:FirstAddressLine>
+      <lei:AdditionalAddressLine>Anderlecht</lei:AdditionalAddressLine>
+      <lei:City>Brussels</lei:City>
+      <lei:Region>BE-BRU</lei:Region>
+      <lei:Country>BE</lei:Country>
+      <lei:PostalCode>1070</lei:PostalCode>
+    </lei:LegalAddress>
+    <lei:HeadquartersAddress xml:lang="nl">
+      <lei:FirstAddressLine>Rue de la Bienvenue 7-9</lei:FirstAddressLine>
+      <lei:AdditionalAddressLine>Anderlecht</lei:AdditionalAddressLine>
+      <lei:City>Brussels</lei:City>
+      <lei:Region>BE-BRU</lei:Region>
+      <lei:Country>BE</lei:Country>
+      <lei:PostalCode>1070</lei:PostalCode>
+    </lei:HeadquartersAddress>
+    <lei:RegistrationAuthority>
+      <lei:RegistrationAuthorityID>RA000025</lei:RegistrationAuthorityID>
+      <lei:RegistrationAuthorityEntityID>0440.449.680</lei:RegistrationAuthorityEntityID>
+    </lei:RegistrationAuthority>
+    <lei:LegalJurisdiction>BE</lei:LegalJurisdiction>
+    <lei:EntityCategory>GENERAL</lei:EntityCategory>
+    <lei:LegalForm>
+      <lei:EntityLegalFormCode>R85P</lei:EntityLegalFormCode>
+    </lei:LegalForm>
+    <lei:EntityStatus>ACTIVE</lei:EntityStatus>
+  </lei:Entity>
+  <lei:Registration>
+    <lei:InitialRegistrationDate>2014-07-30T02:13:00.000Z</lei:InitialRegistrationDate>
+    <lei:LastUpdateDate>2015-07-28T10:10:00.000Z</lei:LastUpdateDate>
+    <lei:RegistrationStatus>LAPSED</lei:RegistrationStatus>
+    <lei:NextRenewalDate>2015-07-28T08:17:00.000Z</lei:NextRenewalDate>
+    <lei:ManagingLOU>EVK05KS7XY1DEII3R011</lei:ManagingLOU>
+    <lei:ValidationSources>FULLY_CORROBORATED</lei:ValidationSources>
+    <lei:ValidationAuthority>
+      <lei:ValidationAuthorityID>RA000025</lei:ValidationAuthorityID>
+      <lei:ValidationAuthorityEntityID>0440.449.680</lei:ValidationAuthorityEntityID>
+    </lei:ValidationAuthority>
+  </lei:Registration>
+</lei:LEIRecord>
+<lei:LEIRecord xmlns:lei="http://www.gleif.org/data/schema/leidata/2016">
+  <lei:LEI>549300UBNGS52VFO4J36</lei:LEI>
+  <lei:Entity>
+    <lei:LegalName xml:lang="en">NGP VII Fund LLC</lei:LegalName>
+    <lei:LegalAddress xml:lang="en">
+      <lei:FirstAddressLine>C/O CORPORATION SERVICE COMPANY</lei:FirstAddressLine>
+      <lei:AdditionalAddressLine>251 LITTLE FALLS DRIVE</lei:AdditionalAddressLine>
       <lei:City>WILMINGTON</lei:City>
       <lei:Region>US-DE</lei:Region>
       <lei:Country>US</lei:Country>
-      <lei:PostalCode>19801</lei:PostalCode>
+      <lei:PostalCode>19808</lei:PostalCode>
     </lei:LegalAddress>
     <lei:HeadquartersAddress xml:lang="en">
-      <lei:FirstAddressLine>One Towne Square</lei:FirstAddressLine>
-      <lei:AdditionalAddressLine>Suite 1913</lei:AdditionalAddressLine>
-      <lei:City>Southfield</lei:City>
-      <lei:Region>US-MI</lei:Region>
+      <lei:FirstAddressLine>C/O NGP VII Management LLC</lei:FirstAddressLine>
+      <lei:AdditionalAddressLine>1650 Tysons Blvd.</lei:AdditionalAddressLine>
+      <lei:AdditionalAddressLine>Suite 1500</lei:AdditionalAddressLine>
+      <lei:City>McLean</lei:City>
+      <lei:Region>US-VA</lei:Region>
       <lei:Country>US</lei:Country>
-      <lei:PostalCode>48076</lei:PostalCode>
+      <lei:PostalCode>22102</lei:PostalCode>
     </lei:HeadquartersAddress>
     <lei:RegistrationAuthority>
       <lei:RegistrationAuthorityID>RA000602</lei:RegistrationAuthorityID>
-      <lei:RegistrationAuthorityEntityID>5747184</lei:RegistrationAuthorityEntityID>
+      <lei:RegistrationAuthorityEntityID>7787558</lei:RegistrationAuthorityEntityID>
     </lei:RegistrationAuthority>
     <lei:LegalJurisdiction>US-DE</lei:LegalJurisdiction>
-    <lei:EntityCategory>GENERAL</lei:EntityCategory>
+    <lei:EntityCategory>FUND</lei:EntityCategory>
     <lei:LegalForm>
       <lei:EntityLegalFormCode>HZEH</lei:EntityLegalFormCode>
     </lei:LegalForm>
     <lei:EntityStatus>ACTIVE</lei:EntityStatus>
+    <lei:EntityCreationDate>2020-01-07T00:00:00Z</lei:EntityCreationDate>
   </lei:Entity>
   <lei:Registration>
-    <lei:InitialRegistrationDate>2015-05-20T01:52:00.000Z</lei:InitialRegistrationDate>
-    <lei:LastUpdateDate>2020-07-21T19:20:00.000Z</lei:LastUpdateDate>
-    <lei:RegistrationStatus>LAPSED</lei:RegistrationStatus>
-    <lei:NextRenewalDate>2020-05-13T00:18:00.000Z</lei:NextRenewalDate>
+    <lei:InitialRegistrationDate>2021-05-20T15:31:00.000Z</lei:InitialRegistrationDate>
+    <lei:LastUpdateDate>2022-06-01T21:31:00.000Z</lei:LastUpdateDate>
+    <lei:RegistrationStatus>ISSUED</lei:RegistrationStatus>
+    <lei:NextRenewalDate>2023-03-21T19:20:00.000Z</lei:NextRenewalDate>
     <lei:ManagingLOU>EVK05KS7XY1DEII3R011</lei:ManagingLOU>
     <lei:ValidationSources>FULLY_CORROBORATED</lei:ValidationSources>
     <lei:ValidationAuthority>
-      <lei:ValidationAuthorityID>RA000602</lei:ValidationAuthorityID>
-      <lei:ValidationAuthorityEntityID>5747184</lei:ValidationAuthorityEntityID>
+      <lei:ValidationAuthorityID>RA000665</lei:ValidationAuthorityID>
+      <lei:ValidationAuthorityEntityID>0001859670</lei:ValidationAuthorityEntityID>
     </lei:ValidationAuthority>
   </lei:Registration>
 </lei:LEIRecord>
 <lei:LEIRecord xmlns:lei="http://www.gleif.org/data/schema/leidata/2016">
-  <lei:LEI>549300TRX2WPVVOZFK93</lei:LEI>
+  <lei:LEI>549300DVGMMVJF2V6H54</lei:LEI>
   <lei:Entity>
-    <lei:LegalName xml:lang="en">NIKE Alpha Force LLC</lei:LegalName>
+    <lei:LegalName xml:lang="nl">Vervenne et van Belle SA</lei:LegalName>
+    <lei:LegalAddress xml:lang="nl">
+      <lei:FirstAddressLine>Verwelkomingsstraat 7 - 9</lei:FirstAddressLine>
+      <lei:AdditionalAddressLine>Anderlecht</lei:AdditionalAddressLine>
+      <lei:City>Brussels</lei:City>
+      <lei:Region>BE-BRU</lei:Region>
+      <lei:Country>BE</lei:Country>
+      <lei:PostalCode>1070</lei:PostalCode>
+    </lei:LegalAddress>
+    <lei:HeadquartersAddress xml:lang="nl">
+      <lei:FirstAddressLine>Rue de la Bienvenue 7-9</lei:FirstAddressLine>
+      <lei:AdditionalAddressLine>Anderlecht</lei:AdditionalAddressLine>
+      <lei:City>Brussels</lei:City>
+      <lei:Region>BE-BRU</lei:Region>
+      <lei:Country>BE</lei:Country>
+      <lei:PostalCode>1070</lei:PostalCode>
+    </lei:HeadquartersAddress>
+    <lei:RegistrationAuthority>
+      <lei:RegistrationAuthorityID>RA000025</lei:RegistrationAuthorityID>
+      <lei:RegistrationAuthorityEntityID>0402.113.597</lei:RegistrationAuthorityEntityID>
+    </lei:RegistrationAuthority>
+    <lei:LegalJurisdiction>BE</lei:LegalJurisdiction>
+    <lei:EntityCategory>GENERAL</lei:EntityCategory>
+    <lei:LegalForm>
+      <lei:EntityLegalFormCode>R85P</lei:EntityLegalFormCode>
+    </lei:LegalForm>
+    <lei:EntityStatus>ACTIVE</lei:EntityStatus>
+  </lei:Entity>
+  <lei:Registration>
+    <lei:InitialRegistrationDate>2014-08-09T01:44:00.000Z</lei:InitialRegistrationDate>
+    <lei:LastUpdateDate>2019-03-06T21:31:00.000Z</lei:LastUpdateDate>
+    <lei:RegistrationStatus>LAPSED</lei:RegistrationStatus>
+    <lei:NextRenewalDate>2018-10-17T12:09:00.000Z</lei:NextRenewalDate>
+    <lei:ManagingLOU>EVK05KS7XY1DEII3R011</lei:ManagingLOU>
+    <lei:ValidationSources>FULLY_CORROBORATED</lei:ValidationSources>
+    <lei:ValidationAuthority>
+      <lei:ValidationAuthorityID>RA000025</lei:ValidationAuthorityID>
+      <lei:ValidationAuthorityEntityID>0402.113.597</lei:ValidationAuthorityEntityID>
+    </lei:ValidationAuthority>
+  </lei:Registration>
+</lei:LEIRecord>
+<lei:LEIRecord xmlns:lei="http://www.gleif.org/data/schema/leidata/2016">
+  <lei:LEI>6354007LQZTGIXHS8947</lei:LEI>
+  <lei:Entity>
+    <lei:LegalName xml:lang="en">HELIOS STRATEGIC FUND</lei:LegalName>
     <lei:LegalAddress xml:lang="en">
-      <lei:FirstAddressLine>C/O United Agent Group Inc.</lei:FirstAddressLine>
-      <lei:AdditionalAddressLine>3411 Silverside Road</lei:AdditionalAddressLine>
-      <lei:AdditionalAddressLine>Tatnall Building</lei:AdditionalAddressLine>
-      <lei:AdditionalAddressLine>Suite 104</lei:AdditionalAddressLine>
-      <lei:City>Wilmington</lei:City>
-      <lei:Region>US-DE</lei:Region>
-      <lei:Country>US</lei:Country>
-      <lei:PostalCode>19810</lei:PostalCode>
+      <lei:FirstAddressLine>C/O Deutsche Bank (Cayman) Limited</lei:FirstAddressLine>
+      <lei:AdditionalAddressLine>PO Box 1984</lei:AdditionalAddressLine>
+      <lei:AdditionalAddressLine>171 Elgin Avenue</lei:AdditionalAddressLine>
+      <lei:AdditionalAddressLine>Boundary Hall, Cricket Square</lei:AdditionalAddressLine>
+      <lei:City>George Town</lei:City>
+      <lei:Country>KY</lei:Country>
+      <lei:PostalCode>KY1-1104</lei:PostalCode>
     </lei:LegalAddress>
     <lei:HeadquartersAddress xml:lang="en">
-      <lei:FirstAddressLine>One Bowerman Drive</lei:FirstAddressLine>
-      <lei:City>Beaverton</lei:City>
-      <lei:Region>US-OR</lei:Region>
-      <lei:Country>US</lei:Country>
-      <lei:PostalCode>97005</lei:PostalCode>
+      <lei:FirstAddressLine>C/O Deutsche Bank (Cayman) Limited</lei:FirstAddressLine>
+      <lei:AdditionalAddressLine>PO Box 1984</lei:AdditionalAddressLine>
+      <lei:AdditionalAddressLine>171 Elgin Avenue</lei:AdditionalAddressLine>
+      <lei:AdditionalAddressLine>Boundary Hall, Cricket Square</lei:AdditionalAddressLine>
+      <lei:City>George Town</lei:City>
+      <lei:Country>KY</lei:Country>
+      <lei:PostalCode>KY1-1104</lei:PostalCode>
     </lei:HeadquartersAddress>
     <lei:RegistrationAuthority>
-      <lei:RegistrationAuthorityID>RA000602</lei:RegistrationAuthorityID>
-      <lei:RegistrationAuthorityEntityID>7001736</lei:RegistrationAuthorityEntityID>
+      <lei:RegistrationAuthorityID>RA000087</lei:RegistrationAuthorityID>
+      <lei:RegistrationAuthorityEntityID>609490</lei:RegistrationAuthorityEntityID>
     </lei:RegistrationAuthority>
-    <lei:LegalJurisdiction>US-DE</lei:LegalJurisdiction>
-    <lei:EntityCategory>GENERAL</lei:EntityCategory>
+    <lei:LegalJurisdiction>KY</lei:LegalJurisdiction>
+    <lei:EntityCategory>FUND</lei:EntityCategory>
     <lei:LegalForm>
-      <lei:EntityLegalFormCode>HZEH</lei:EntityLegalFormCode>
+      <lei:EntityLegalFormCode>8888</lei:EntityLegalFormCode>
+      <lei:OtherLegalForm>FUND</lei:OtherLegalForm>
     </lei:LegalForm>
     <lei:EntityStatus>ACTIVE</lei:EntityStatus>
   </lei:Entity>
   <lei:Registration>
-    <lei:InitialRegistrationDate>2018-11-08T15:31:00.000Z</lei:InitialRegistrationDate>
-    <lei:LastUpdateDate>2020-07-21T19:19:00.000Z</lei:LastUpdateDate>
-    <lei:RegistrationStatus>LAPSED</lei:RegistrationStatus>
-    <lei:NextRenewalDate>2019-10-30T18:09:00.000Z</lei:NextRenewalDate>
+    <lei:InitialRegistrationDate>2017-12-21T00:00:00.000Z</lei:InitialRegistrationDate>
+    <lei:LastUpdateDate>2022-03-10T21:31:00.000Z</lei:LastUpdateDate>
+    <lei:RegistrationStatus>ISSUED</lei:RegistrationStatus>
+    <lei:NextRenewalDate>2022-11-11T14:19:00.000Z</lei:NextRenewalDate>
     <lei:ManagingLOU>EVK05KS7XY1DEII3R011</lei:ManagingLOU>
     <lei:ValidationSources>FULLY_CORROBORATED</lei:ValidationSources>
     <lei:ValidationAuthority>
-      <lei:ValidationAuthorityID>RA000602</lei:ValidationAuthorityID>
-      <lei:ValidationAuthorityEntityID>7001736</lei:ValidationAuthorityEntityID>
+      <lei:ValidationAuthorityID>RA000087</lei:ValidationAuthorityID>
+      <lei:ValidationAuthorityEntityID>609490</lei:ValidationAuthorityEntityID>
     </lei:ValidationAuthority>
   </lei:Registration>
 </lei:LEIRecord>
 <lei:LEIRecord xmlns:lei="http://www.gleif.org/data/schema/leidata/2016">
-  <lei:LEI>549300M2DXCP2XF8I743</lei:LEI>
+  <lei:LEI>F8SB4JFBSYQFRQEH3Z21</lei:LEI>
   <lei:Entity>
-    <lei:LegalName xml:lang="en">WILD WEST CATTLE CO. LTD.</lei:LegalName>
+    <lei:LegalName xml:lang="en">NATIONAL AUSTRALIA BANK LIMITED</lei:LegalName>
     <lei:OtherEntityNames>
-      <lei:OtherEntityName xml:lang="en" type="PREVIOUS_LEGAL_NAME">24153 ALBERTA LTD</lei:OtherEntityName>
+      <lei:OtherEntityName xml:lang="en" type="PREVIOUS_LEGAL_NAME">NATIONAL COMMERCIAL BANKING CORPORATION OF AUSTRALIA LIMITED</lei:OtherEntityName>
+      <lei:OtherEntityName xml:lang="en" type="PREVIOUS_LEGAL_NAME">THE NATIONAL BANK OF AUSTRALASIA LIMITED</lei:OtherEntityName>
     </lei:OtherEntityNames>
     <lei:LegalAddress xml:lang="en">
-      <lei:FirstAddressLine>101 Riel Drive</lei:FirstAddressLine>
-      <lei:AdditionalAddressLine>Suite 100</lei:AdditionalAddressLine>
-      <lei:City>Saint-ALBERT</lei:City>
-      <lei:Region>CA-AB</lei:Region>
-      <lei:Country>CA</lei:Country>
-      <lei:PostalCode>T8N 3X4</lei:PostalCode>
+      <lei:FirstAddressLine>Level 28</lei:FirstAddressLine>
+      <lei:AdditionalAddressLine>395 Bourke Street</lei:AdditionalAddressLine>
+      <lei:AdditionalAddressLine>Melbourne</lei:AdditionalAddressLine>
+      <lei:City>Melbourne</lei:City>
+      <lei:Region>AU-VIC</lei:Region>
+      <lei:Country>AU</lei:Country>
+      <lei:PostalCode>3000</lei:PostalCode>
     </lei:LegalAddress>
     <lei:HeadquartersAddress xml:lang="en">
-      <lei:FirstAddressLine>101 Riel Drive</lei:FirstAddressLine>
-      <lei:AdditionalAddressLine>Suite 100</lei:AdditionalAddressLine>
-      <lei:City>ST. ALBERT</lei:City>
-      <lei:Region>CA-AB</lei:Region>
-      <lei:Country>CA</lei:Country>
-      <lei:PostalCode>T8N 3X4</lei:PostalCode>
+      <lei:FirstAddressLine>Level 28</lei:FirstAddressLine>
+      <lei:AdditionalAddressLine>395 Bourke Street</lei:AdditionalAddressLine>
+      <lei:AdditionalAddressLine>Melbourne</lei:AdditionalAddressLine>
+      <lei:City>Melbourne</lei:City>
+      <lei:Region>AU-VIC</lei:Region>
+      <lei:Country>AU</lei:Country>
+      <lei:PostalCode>3000</lei:PostalCode>
     </lei:HeadquartersAddress>
     <lei:RegistrationAuthority>
-      <lei:RegistrationAuthorityID>RA000073</lei:RegistrationAuthorityID>
-      <lei:RegistrationAuthorityEntityID>200241537</lei:RegistrationAuthorityEntityID>
+      <lei:RegistrationAuthorityID>RA000014</lei:RegistrationAuthorityID>
+      <lei:RegistrationAuthorityEntityID>004 044 937</lei:RegistrationAuthorityEntityID>
     </lei:RegistrationAuthority>
-    <lei:LegalJurisdiction>CA</lei:LegalJurisdiction>
+    <lei:LegalJurisdiction>AU</lei:LegalJurisdiction>
     <lei:EntityCategory>GENERAL</lei:EntityCategory>
     <lei:LegalForm>
-      <lei:EntityLegalFormCode>UDLA</lei:EntityLegalFormCode>
+      <lei:EntityLegalFormCode>R4KK</lei:EntityLegalFormCode>
     </lei:LegalForm>
     <lei:EntityStatus>ACTIVE</lei:EntityStatus>
   </lei:Entity>
   <lei:Registration>
-    <lei:InitialRegistrationDate>2018-03-27T15:32:00.000Z</lei:InitialRegistrationDate>
-    <lei:LastUpdateDate>2022-01-18T00:17:00.000Z</lei:LastUpdateDate>
+    <lei:InitialRegistrationDate>2012-06-06T15:54:00.000Z</lei:InitialRegistrationDate>
+    <lei:LastUpdateDate>2021-10-15T15:31:00.000Z</lei:LastUpdateDate>
     <lei:RegistrationStatus>ISSUED</lei:RegistrationStatus>
-    <lei:NextRenewalDate>2023-01-17T18:33:00.000Z</lei:NextRenewalDate>
+    <lei:NextRenewalDate>2022-10-06T04:17:00.000Z</lei:NextRenewalDate>
     <lei:ManagingLOU>EVK05KS7XY1DEII3R011</lei:ManagingLOU>
     <lei:ValidationSources>FULLY_CORROBORATED</lei:ValidationSources>
     <lei:ValidationAuthority>
-      <lei:ValidationAuthorityID>RA000073</lei:ValidationAuthorityID>
-      <lei:ValidationAuthorityEntityID>200241537</lei:ValidationAuthorityEntityID>
+      <lei:ValidationAuthorityID>RA000014</lei:ValidationAuthorityID>
+      <lei:ValidationAuthorityEntityID>004 044 937</lei:ValidationAuthorityEntityID>
+    </lei:ValidationAuthority>
+  </lei:Registration>
+</lei:LEIRecord>
+<lei:LEIRecord xmlns:lei="http://www.gleif.org/data/schema/leidata/2016">
+  <lei:LEI>5493008OBHIA851ACH86</lei:LEI>
+  <lei:Entity>
+    <lei:LegalName xml:lang="en">NGP VII HYATTSVILLE MD LLC</lei:LegalName>
+    <lei:LegalAddress xml:lang="en">
+      <lei:FirstAddressLine>C/O CORPORATION SERVICE COMPANY</lei:FirstAddressLine>
+      <lei:AdditionalAddressLine>251 LITTLE FALLS DRIVE</lei:AdditionalAddressLine>
+      <lei:City>WILMINGTON</lei:City>
+      <lei:Region>US-DE</lei:Region>
+      <lei:Country>US</lei:Country>
+      <lei:PostalCode>19808</lei:PostalCode>
+    </lei:LegalAddress>
+    <lei:HeadquartersAddress xml:lang="en">
+      <lei:FirstAddressLine>1650 Tysons Blvd</lei:FirstAddressLine>
+      <lei:AdditionalAddressLine>Suite 1500</lei:AdditionalAddressLine>
+      <lei:City>McLean</lei:City>
+      <lei:Region>US-VA</lei:Region>
+      <lei:Country>US</lei:Country>
+      <lei:PostalCode>22102</lei:PostalCode>
+    </lei:HeadquartersAddress>
+    <lei:RegistrationAuthority>
+      <lei:RegistrationAuthorityID>RA000602</lei:RegistrationAuthorityID>
+      <lei:RegistrationAuthorityEntityID>6648810</lei:RegistrationAuthorityEntityID>
+    </lei:RegistrationAuthority>
+    <lei:LegalJurisdiction>US-DE</lei:LegalJurisdiction>
+    <lei:EntityCategory>GENERAL</lei:EntityCategory>
+    <lei:LegalForm>
+      <lei:EntityLegalFormCode>HZEH</lei:EntityLegalFormCode>
+    </lei:LegalForm>
+    <lei:EntityStatus>ACTIVE</lei:EntityStatus>
+    <lei:EntityCreationDate>2021-01-01T00:00:00Z</lei:EntityCreationDate>
+  </lei:Entity>
+  <lei:Registration>
+    <lei:InitialRegistrationDate>2022-05-17T21:30:00.000Z</lei:InitialRegistrationDate>
+    <lei:LastUpdateDate>2022-05-17T21:31:00.000Z</lei:LastUpdateDate>
+    <lei:RegistrationStatus>ISSUED</lei:RegistrationStatus>
+    <lei:NextRenewalDate>2023-05-16T23:33:00.000Z</lei:NextRenewalDate>
+    <lei:ManagingLOU>EVK05KS7XY1DEII3R011</lei:ManagingLOU>
+    <lei:ValidationSources>FULLY_CORROBORATED</lei:ValidationSources>
+    <lei:ValidationAuthority>
+      <lei:ValidationAuthorityID>RA000602</lei:ValidationAuthorityID>
+      <lei:ValidationAuthorityEntityID>6648810</lei:ValidationAuthorityEntityID>
+    </lei:ValidationAuthority>
+  </lei:Registration>
+</lei:LEIRecord>
+<lei:LEIRecord xmlns:lei="http://www.gleif.org/data/schema/leidata/2016">
+  <lei:LEI>8AFAYMK90I2QVGLMLS34</lei:LEI>
+  <lei:Entity>
+    <lei:LegalName xml:lang="lb">SCHRODER INVESTMENT MANAGEMENT (EUROPE) S.A.</lei:LegalName>
+    <lei:OtherEntityNames>
+      <lei:OtherEntityName xml:lang="lb" type="PREVIOUS_LEGAL_NAME">Schroder Investment Management (Luxembourg) S.A.</lei:OtherEntityName>
+    </lei:OtherEntityNames>
+    <lei:LegalAddress xml:lang="lb">
+      <lei:FirstAddressLine>5, Höhenhof</lei:FirstAddressLine>
+      <lei:City>Senningerberg</lei:City>
+      <lei:Region>LU-LU</lei:Region>
+      <lei:Country>LU</lei:Country>
+      <lei:PostalCode>L-1736</lei:PostalCode>
+    </lei:LegalAddress>
+    <lei:HeadquartersAddress xml:lang="lb">
+      <lei:FirstAddressLine>5, Höhenhof</lei:FirstAddressLine>
+      <lei:City>Senningerberg</lei:City>
+      <lei:Region>LU-LU</lei:Region>
+      <lei:Country>LU</lei:Country>
+      <lei:PostalCode>L-1736</lei:PostalCode>
+    </lei:HeadquartersAddress>
+    <lei:RegistrationAuthority>
+      <lei:RegistrationAuthorityID>RA000432</lei:RegistrationAuthorityID>
+      <lei:RegistrationAuthorityEntityID>B37799</lei:RegistrationAuthorityEntityID>
+    </lei:RegistrationAuthority>
+    <lei:LegalJurisdiction>LU</lei:LegalJurisdiction>
+    <lei:EntityCategory>GENERAL</lei:EntityCategory>
+    <lei:LegalForm>
+      <lei:EntityLegalFormCode>5GGB</lei:EntityLegalFormCode>
+    </lei:LegalForm>
+    <lei:EntityStatus>ACTIVE</lei:EntityStatus>
+  </lei:Entity>
+  <lei:Registration>
+    <lei:InitialRegistrationDate>2012-06-06T15:55:00.000Z</lei:InitialRegistrationDate>
+    <lei:LastUpdateDate>2021-11-02T21:31:00.000Z</lei:LastUpdateDate>
+    <lei:RegistrationStatus>ISSUED</lei:RegistrationStatus>
+    <lei:NextRenewalDate>2022-09-17T21:02:00.000Z</lei:NextRenewalDate>
+    <lei:ManagingLOU>EVK05KS7XY1DEII3R011</lei:ManagingLOU>
+    <lei:ValidationSources>FULLY_CORROBORATED</lei:ValidationSources>
+    <lei:ValidationAuthority>
+      <lei:ValidationAuthorityID>RA000432</lei:ValidationAuthorityID>
+      <lei:ValidationAuthorityEntityID>B37799</lei:ValidationAuthorityEntityID>
     </lei:ValidationAuthority>
   </lei:Registration>
 </lei:LEIRecord>

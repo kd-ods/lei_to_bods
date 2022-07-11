@@ -31,10 +31,9 @@ def read_lei(file):
 def lei1_to_entity_statement(lei1Object):
     splitRecord = lei1Object.split('\n')
 
-    statementID = ''.join(random.choice('0123456789ABCDEF') for i in range(32))
+    statementID = ''
     statementType = 'entityStatement'
     statementDate = ''
-    isComponent = False
     entityType = 'registeredEntity'
     name = ''
     jurisdiction = ''
@@ -62,6 +61,7 @@ def lei1_to_entity_statement(lei1Object):
             identifiers = [{'id':line.split('>')[1].split('<')[0],
             'scheme':'XI-LEI',
             'schemeName':'Global Legal Entity Identifier Index'}]
+            statementID = line.split('>')[1].split('<')[0]
         if '<lei:EntityCreationDate>' in line:
             foundingDate = line.split('>')[1].split('<')[0]
         if '<lei:LegalAddress' in line:
@@ -105,7 +105,6 @@ def lei1_to_entity_statement(lei1Object):
     d = {'statementID': statementID,
     'statementType':statementType,
     'statementDate':statementDate,
-    'isComponent':isComponent,
     'entityType':entityType,
     'name':name,
     'jurisdiction':jurisdiction,
@@ -124,7 +123,6 @@ def lei2_relationship_to_ooc_statement(lei2Object):
     statementID = ''.join(random.choice('0123456789ABCDEF') for i in range(32))
     statementType = 'ownershipOrControlStatement'
     statementDate = ''
-    isComponent = False
     subjectDescribedByEntityStatement = ''
     subjectSwitch = 0
     interestedPartyDescribedByEntityStatement = ''
@@ -176,15 +174,92 @@ def lei2_relationship_to_ooc_statement(lei2Object):
     d = {'statementID': statementID,
     'statementType':statementType,
     'statementDate':statementDate,
-    'isComponent':isComponent,
     'subject':{'describedByEntityStatement':subjectDescribedByEntityStatement},
     'interestedParty':{'describedByEntityStatement':interestedPartyDescribedByEntityStatement},
-    'interests':{'type':interestType,
+    'interests':[{'type':interestType,
     'interestLevel':interestLevel,
     'beneficialOwnershipOrControl':beneficialOwnershipOrControl,
-    'startDate':interestStartDate},
+    'startDate':interestStartDate}],
     'source':{'type':sourceType,'description':sourceDescription}}
 
     out = json.dumps(d,indent = 4)
 
     return(out)
+
+def lei2_exception_to_ooc_statement(lei2Object):
+    splitRecord = lei2Object.split('\n')
+
+    statementID = ''.join(random.choice('0123456789ABCDEF') for i in range(32))
+    statementType = 'ownershipOrControlStatement'
+    subjectDescribedByEntityStatement = ''
+    interestedPartyUnspecifiedReason = ''
+    interestType = 'unknownInterest'
+    interestLevel = 'unknown'
+    sourceType = ['officialRegister']
+    sourceDescription = 'GLEIF'
+
+    for line in splitRecord:
+        if '<rr:StartNode>' in line:
+            interestedPartySwitch = 1
+        if '<repex:ExceptionReason>' in line:
+            interestedPartyUnspecifiedReason = line.split('>')[1].split('<')[0]
+        if '<repex:LEI>' in line:
+            subjectDescribedByEntityStatement = line.split('>')[1].split('<')[0]             
+        if '<repex:ExceptionCategory>ULTIMATE_ACCOUNTING_CONSOLIDATION_PARENT</repex:ExceptionCategory>' in line:
+            interestLevel = 'indirect'
+        if '<repex:ExceptionCategory>DIRECT_ACCOUNTING_CONSOLIDATION_PARENT</repex:ExceptionCategory>' in line:
+            interestLevel = 'direct'
+
+
+    d = {'statementID': statementID,
+    'statementType':statementType,
+    'subject':{'describedByEntityStatement':subjectDescribedByEntityStatement},
+    'interestedParty':{'unspecified':interestedPartyUnspecifiedReason},
+    'interests':[{'type':interestType,
+    'interestLevel':interestLevel,
+    'source':{'type':sourceType,'description':sourceDescription}}]
+    }
+
+    out = json.dumps(d,indent = 4)
+
+    return(out)
+
+def lei_statement_to_bods(leifile, write = False, outfile = 'out.json'):
+    with open(leifile) as f:
+        dd = f.readlines()
+    f.close()
+
+    itemtags = ['lei:LEIRecord xmlns','rr:RelationshipRecord xmlns','repex:Exception xmlns']
+
+    out = []
+    record = ''
+
+    for line in dd:  
+        if any(item in line for item in itemtags):
+            out.append(record)
+            record = line
+        else:
+            record = record + line
+    
+    out.append(record)
+    out = out[1:len(out)]
+
+    finalout = '[\n'
+
+    for item in out:
+        if 'lei:LEIRecord xmlns' in item:
+            finalout = finalout + lei1_to_entity_statement(item) + ',\n'
+        elif 'rr:RelationshipRecord xmlns' in item:
+            finalout = finalout + lei2_relationship_to_ooc_statement(item) + ',\n'
+        elif 'repex:Exception xmlns' in item:
+            finalout = finalout + lei2_exception_to_ooc_statement(item) + ',\n'
+
+    finalout = finalout[0:(len(finalout)-2)] + '\n]'
+
+    if write == True:
+        with open(outfile, 'w') as f:
+            f.write(finalout)
+    
+    f.close()
+
+    return(finalout)   
