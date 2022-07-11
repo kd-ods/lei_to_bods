@@ -89,6 +89,6 @@ lb.lei_statement_to_bods('sample_data/20220705-gleif-concatenated-file-statement
 
 You can view this file in the `sample_data` folder and check using the [BODS data review tool](https://datareview.openownership.org/), and visualise using the [BODS visualiser](https://www.openownership.org/en/publications/beneficial-ownership-visualisation-system/bods-data-visualiser/)
 
-### Notes on mapping
+### Field mappings
 
-To follow
+Can be found in the file `mappings.md`

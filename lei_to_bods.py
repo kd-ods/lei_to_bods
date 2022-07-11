@@ -199,8 +199,6 @@ def lei2_exception_to_ooc_statement(lei2Object):
     sourceDescription = 'GLEIF'
 
     for line in splitRecord:
-        if '<rr:StartNode>' in line:
-            interestedPartySwitch = 1
         if '<repex:ExceptionReason>' in line:
             interestedPartyUnspecifiedReason = line.split('>')[1].split('<')[0]
         if '<repex:LEI>' in line:
