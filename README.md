@@ -2,7 +2,7 @@
 
 **Work in progress, use with caution**
 
-A lightweight python library to convert [GLEIF](https://www.gleif.org/en/about/this-is-gleif) data on company identity and ownership onto [BODS](https://standard.openownership.org/en/0.2.0/) v0.2 statements.
+A basic python library to convert [GLEIF](https://www.gleif.org/en/about/this-is-gleif) data on company identity and ownership onto [BODS](https://standard.openownership.org/en/0.2.0/) v0.2 statements. Documentation and mapping details yet to be developed.
 
 ## Usage
 
@@ -34,6 +34,8 @@ repex = lb.read_lei('sample_data/20220705-gleif-concatenated-file-repex-sample.x
 
 ### Convert a single statement
 
+**LEI level 1 statement**
+
 View a single LEI level 1 statement in original xml format:
 
 ```
@@ -47,6 +49,8 @@ entityStatement = lb.lei1_to_entity_statement(lei[0])
 print(entityStatement)
 ```
 
+**LEI level 2 relationship statement**
+
 View a single LEI level 2 relationship statement in original xml format:
 
 ```
@@ -59,6 +63,8 @@ Convert to a BODS JSON ownership or control statement
 oocStatement = lb.lei2_relationship_to_ooc_statement(rr[0])
 print(oocStatement)
 ```
+
+**LEI level 2 exception statement**
 
 View a single LEI level 2 exception statement in original xml format:
 
@@ -75,7 +81,7 @@ print(oocExceptionStatement)
 
 ### Convert an entire declaration
 
-If you have a set of LEI statements in a file that represent a single declaration (i.e. a set of relationship statements combined with all relevant entity statements), you can convert directly to a BODS array as follows:
+If you have a set of LEI statements in a file that represent a single declaration (i.e. a set of relationship statements combined with all connected LEI level 1 statements), you can convert directly to a BODS array as follows:
 
 ```
 lb.lei_statement_to_bods('sample_data/20220705-gleif-concatenated-file-statement-sample.xml', write = True, outfile = 'sample_data/20220705-gleif-concatenated-file-statement-sample.json')
