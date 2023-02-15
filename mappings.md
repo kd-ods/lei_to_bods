@@ -19,7 +19,7 @@
 
 ## Ownership or control statements from LEI level 2 relationship data
 
-|BODS v0.2 field|LEI level 1 field|Notes
+|BODS v0.2 field|LEI level 2 field|Notes
 |---|---|---|
 `statementID`|Randomly generated|
 `statementType`|'ownershipOrControlStatement'|Hard coded
@@ -27,7 +27,8 @@
 `subject.describedByEntityStatement`|`rr:EndNode`|
 `interestedParty.describedByEntityStatement`|`rr:StartNode`|
 `interests.type`|'otherInfluenceOrControl'|Hard coded
-`interests.interestLevel`|`rr:RelationshipType`|'direct if directly consolidating, 'indirect' if ultimately consolidating, 'unknown' if no data available
+`interests.description`|dependent on `rr:RelationshipType`|'interestedParty ' + `rr:RelationshipType` + 'subject. See LEI RR-CDF v2.1 documentation for definitions: https://www.gleif.org/en/about-lei/common-data-file-format/current-versions/level-2-data-relationship-record-rr-cdf-2-1-format#'
+`interests.interestLevel`|`rr:RelationshipType`|'indirect' if IS_ULTIMATELY_CONSOLIDATED_BY, 'direct' if other value,  'unknown' if no data available
 `interests.startDate`|`rr:StartDate`| Uses relationship period if available, otherwise accounting period
 `interests.beneficialOwnershipOrControl`|False|Hard coded
 `source.type `|'officialRegister'|Hard coded
@@ -35,7 +36,7 @@
 
 ## Ownership or control statements from LEI level 2 exception data
 
-|BODS v0.2 field|LEI level 1 field|Notes
+|BODS v0.2 field|LEI level 2 exception field|Notes
 |---|---|---|
 `statementID`|Randomly generated|
 `statementType`|'ownershipOrControlStatement'|Hard coded
